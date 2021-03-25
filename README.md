@@ -7,7 +7,7 @@ This repository us geared towards accumulating world class resources for web dev
 - Python
 - CSS
 
-**Feel free to create an [issue](https://github.com/chryz-hub/web-dev-resources/issues) or make a Pull Request. Please see our [Contributing file](https://github.com/chryzhub/web-dev-resources/blob/master/CONTRIBUTING.md)
+**Feel free to create an [issue](https://github.com/chryz-hub/web-dev-resources/issues) or make a Pull Request. Please see our [Contributing file](https://github.com/chryz-hub/web-dev-resources/blob/master/CONTRIBUTING.md)
 first and our [Code of Conduct](https://github.com/chryz-hub/web-dev-resources/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a pull request, we appreciate it!
 In order for us not to ignore your effort, please check well not to make a duplicate of a Pull Request (contribution)/ issue!**
 
