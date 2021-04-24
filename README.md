@@ -62,7 +62,7 @@ If you want to contribute to a project and make it better, your help is very wel
 <strong> CSS</strong>
 </summary>
     <ul>
-        <li><a href="css-tricks.com">CSS tricks </a></li>
+        <li><a href="https://css-tricks.com">CSS tricks </a></li>
         <li><a href="https://cssreference.io"> CSS Reference</a></li>
         <li><a href="https://cssportal.com">CSS Portal</a></li>
         <li><a href="https://enjoycss.com">Enjoy CSS</a></li>
