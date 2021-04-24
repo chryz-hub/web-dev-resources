@@ -46,7 +46,7 @@ If you want to contribute to a project and make it better, your help is very wel
 <summary>
 <strong> Python</strong>
 </summary>
-    <ul>
+  <ul>
      <li><a href="https://pythonbasics.org">Python Basics</a></li>
      <li><a href="https://learnpython.org">Learn Python</a></li>
      <li><a href="https://py4e.com">Py4e</a></li>
