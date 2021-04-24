@@ -25,7 +25,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </summary>
     <ul>
     <li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
-    <li><a href="https://htmlrocks.com"> HTMLRocks</a></li>
+    <li><a href="https://html5rocks.com"> HTML5 Rocks</a></li>
     <li><a href="https://htmlreference.io"> HTML5 Reference</a></li>
     </ul>
 </details>
