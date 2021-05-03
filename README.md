@@ -72,3 +72,12 @@ If you want to contribute to a project and make it better, your help is very wel
         <li><a href="https://cubic-bezier.com">Cubic Bezier</a></li>
 </ul>
 </details>
+
+<details>
+<summary>
+<strong>React JS</strong>
+</summary>
+    <ul>
+        <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
+</ul>
+</details>
