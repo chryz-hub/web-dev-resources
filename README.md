@@ -54,6 +54,7 @@ If you want to contribute to a project and make it better, your help is very wel
      <li><a href="https://python.org">Python.org</a></li>
      <li><a href="https://programiz.com">Programiz</a></li>
      <li><a href="https://realpython.com">Real Python</a></li>
+     <li><a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a></li>
   </ul>
 </details>
 
