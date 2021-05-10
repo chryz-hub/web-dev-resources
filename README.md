@@ -35,7 +35,7 @@ If you want to contribute to a project and make it better, your help is very wel
 <summary>
 <strong> Javascript</strong>
 </summary>
-You can create segments for blogs, documentations, repositories,
+You can create segments for javascript blogs, documentations, repositories,
 books and the rest by adding contents.
 <details>
 <summary>
@@ -56,7 +56,13 @@ books and the rest by adding contents.
 <summary>
 <strong> Python</strong>
 </summary>
-  <ul>
+You can create segments for python blogs, documentations, repositories,
+books and the rest by adding contents.
+<details>
+<summary>
+- .py website 
+</summary>
+    <ul>
      <li><a href="https://pythonbasics.org">Python Basics</a></li>
      <li><a href="https://learnpython.org">Learn Python</a></li>
      <li><a href="https://py4e.com">Py4e</a></li>
@@ -67,6 +73,10 @@ books and the rest by adding contents.
      <li><a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a></li>
   </ul>
 </details>
+
+</details>
+
+
 
 <details>
 <summary>
