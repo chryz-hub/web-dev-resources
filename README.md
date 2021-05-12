@@ -27,7 +27,7 @@ If you want to contribute to a project and make it better, your help is very wel
 You can create segments for html blogs, documentations, repositories, books and the rest by adding contents.
 <details>
 <summary>
-`.js website`
+.js website
 </summary>
 <ul>
     <li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
@@ -47,7 +47,7 @@ You can create segments for javascript blogs, documentations, repositories,
 books and the rest by adding contents.
 <details>
 <summary>
-`.html website`
+.html website
 </summary>
    <ul>
        <li><a href="https://javascript.info">Javascript.info </a></li>
@@ -68,7 +68,7 @@ You can create segments for python blogs, documentations, repositories,
 books and the rest by adding contents.
 <details>
 <summary>
-`.py website`
+.py website
 </summary>
     <ul>
      <li><a href="https://pythonbasics.org">Python Basics</a></li>
@@ -94,7 +94,7 @@ You can create segments for css blogs, documentations, repositories,
 books and the rest by adding contents.
 <details>
 <summary>
-`.css website`
+.css website
 </summary>
     <ul>
         <li><a href="https://css-tricks.com">CSS tricks </a></li>
@@ -118,7 +118,7 @@ You can create segments for react blogs, documentations, repositories,
 books and the rest by adding contents.
 <details>
 <summary>
-`.js(react) website` 
+.js(react) website`
 </summary>
     <ul>
         <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
