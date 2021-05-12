@@ -24,12 +24,20 @@ If you want to contribute to a project and make it better, your help is very wel
 <summary>
 <strong> HTML</strong>
 </summary>
-    <ul>
+You can create segments for html blogs, documentations, repositories, books and the rest by adding contents.
+<details>
+<summary>
+`.js website`
+</summary>
+<ul>
     <li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
     <li><a href="https://html5rocks.com"> HTML5 Rocks</a></li>
     <li><a href="https://htmlreference.io"> HTML5 Reference</a></li>
-    </ul>
+</ul>
 </details>
+
+</details>
+
 
 <details>
 <summary>
@@ -39,7 +47,7 @@ You can create segments for javascript blogs, documentations, repositories,
 books and the rest by adding contents.
 <details>
 <summary>
-- .js website
+`.html website`
 </summary>
    <ul>
        <li><a href="https://javascript.info">Javascript.info </a></li>
@@ -60,7 +68,7 @@ You can create segments for python blogs, documentations, repositories,
 books and the rest by adding contents.
 <details>
 <summary>
-- .py website 
+`.py website`
 </summary>
     <ul>
      <li><a href="https://pythonbasics.org">Python Basics</a></li>
@@ -82,6 +90,12 @@ books and the rest by adding contents.
 <summary>
 <strong> CSS</strong>
 </summary>
+You can create segments for css blogs, documentations, repositories,
+books and the rest by adding contents.
+<details>
+<summary>
+`.css website`
+</summary>
     <ul>
         <li><a href="https://css-tricks.com">CSS tricks </a></li>
         <li><a href="https://cssreference.io"> CSS Reference</a></li>
@@ -94,11 +108,22 @@ books and the rest by adding contents.
 </ul>
 </details>
 
+</summary>
+
 <details>
 <summary>
 <strong>React JS</strong>
+</summary>
+You can create segments for react blogs, documentations, repositories,
+books and the rest by adding contents.
+<details>
+<summary>
+`.js(react) website` 
 </summary>
     <ul>
         <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
 </ul>
 </details>
+
+</summary>
+
