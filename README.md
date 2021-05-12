@@ -79,6 +79,48 @@ books and the rest by adding contents.
      <li><a href="https://programiz.com">Programiz</a></li>
      <li><a href="https://realpython.com">Real Python</a></li>
      <li><a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a></li>
+     <li><a href="https://www.fullstackpython.com/">Full Stack Python</a></li>
+     <li><a href="https://www.pythoncheatsheet.org/">Python Cheatsheet</a></li>
+     <li><a href="https://realpython.com">Real Python</a></li>
+    <li><a href="https://docs.python-guide.org/">The Hitchhiker’s Guide to Python</a></li>
+    <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a></li>
+
+  </ul>
+</details>
+
+<details>
+<summary>
+.py podcasts 
+</summary>
+   <ul>
+     <li><a href="https://djangochat.com/">Django Chat</a></li>
+     <li><a href="https://podcastinit.com/">Podcast.\_\_init__</a></li>
+     <li><a href="https://pythonbytes.fm">Python Bytes</a></li>
+     <li><a href="https://runninginproduction.com/">Running in Production</a></li>
+     <li><a href="Talk Python To Me">https://talkpython.fm/</a></li>
+     <li><a href="https://realpython.com/podcasts/rpp/">The Real Python Podcast</a></li>
+     <li><a href="https://testandcode.com/">Test and Code</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>
+.py books
+</summary>
+   <ul>
+     <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python</a></li>
+     <li><a href="https://www.oreilly.com/library/view/fluent-python/9781491946237/)">Fluent Python</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>
+.py newsletters
+</summary>
+  <ul>
+     <li><a href="http://pycoders.com/">Pycoder's Weekly</a></li>
+     <li><a href="https://realpython.com/python-tricks/">Python Tricks</a></li>
+     <li><a href="http://www.pythonweekly.com/">Python Weekly</a></li>
   </ul>
 </details>
 
@@ -105,10 +147,9 @@ books and the rest by adding contents.
         <li><a href="https://webcode.tools/css-generator">Web Tools</a></li>
         <li><a href="https://csstriggers.com">CSS Triggers</a></li>
         <li><a href="https://cubic-bezier.com">Cubic Bezier</a></li>
-</ul>
+    </ul>
 </details>
-
-</summary>
+</details>
 
 <details>
 <summary>
@@ -121,9 +162,7 @@ books and the rest by adding contents.
 .js(react) website
 </summary>
     <ul>
-        <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
-</ul>
+      <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
+   </ul>
 </details>
-
-</summary>
 
