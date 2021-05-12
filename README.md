@@ -118,7 +118,7 @@ You can create segments for react blogs, documentations, repositories,
 books and the rest by adding contents.
 <details>
 <summary>
-.js(react) website`
+.js(react) website
 </summary>
     <ul>
         <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
