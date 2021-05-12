@@ -8,6 +8,7 @@ This repository us geared towards accumulating world class resources for web dev
 - Javascript
 - Python
 - CSS
+- React 
 
 **Feel free to create an [issue](https://github.com/chryz-hub/web-dev-resources/issues) or make a Pull Request. Please see our [Contributing file](https://github.com/chryz-hub/web-dev-resources/blob/master/CONTRIBUTING.md)
 first and our [Code of Conduct](https://github.com/chryz-hub/web-dev-resources/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a pull request, we appreciate it!
@@ -34,19 +35,34 @@ If you want to contribute to a project and make it better, your help is very wel
 <summary>
 <strong> Javascript</strong>
 </summary>
-    <ul>
+You can create segments for javascript blogs, documentations, repositories,
+books and the rest by adding contents.
+<details>
+<summary>
+- .js website
+</summary>
+   <ul>
        <li><a href="https://javascript.info">Javascript.info </a></li>
        <li><a href="https://developer.mozilla.org">Mozilla Developers Network</a></li>
        <li><a href="https://eloquentjavascript.net">Eloquent Javascript</a></li>
        <li><a href="https://Javascript30.com"> Javascript30</a></li>   
- </ul>
+   </ul>
 </details>
 
+</details>
+
+    
 <details>
 <summary>
 <strong> Python</strong>
 </summary>
-  <ul>
+You can create segments for python blogs, documentations, repositories,
+books and the rest by adding contents.
+<details>
+<summary>
+- .py website 
+</summary>
+    <ul>
      <li><a href="https://pythonbasics.org">Python Basics</a></li>
      <li><a href="https://learnpython.org">Learn Python</a></li>
      <li><a href="https://py4e.com">Py4e</a></li>
@@ -57,6 +73,10 @@ If you want to contribute to a project and make it better, your help is very wel
      <li><a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a></li>
   </ul>
 </details>
+
+</details>
+
+
 
 <details>
 <summary>
