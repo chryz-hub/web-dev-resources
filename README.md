@@ -165,4 +165,19 @@ books and the rest by adding contents.
       <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
    </ul>
 </details>
+</details>
 
+<details>
+<summary>
+<strong>Frontend</strong>
+</summary>
+You can create segments for frontend development blogs, documentations, repositories, books and the rest by adding contents.
+<details>
+<summary>
+frontend website
+</summary>
+    <ul>
+      <li><a href="https://www.frontendmentor.io/">Frontend Mentor | Front-end coding challenges using a real-life workflow</a></li>
+   </ul>
+</details>
+</details>
