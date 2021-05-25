@@ -149,6 +149,22 @@ books and the rest by adding contents.
         <li><a href="https://cubic-bezier.com">Cubic Bezier</a></li>
     </ul>
 </details>
+    
+<details>
+<summary>
+.css games
+</summary>
+    <ul>
+        <li><a href="https://cssbattle.dev">CSS Battle</a></li>
+        <li><a href="https://flukeout.github.io/"> CSS Diner</a></li>
+        <li><a href="https://gridcritters.com">Grid Critters</a></li>
+        <li><a href="https://cssgridgraden.com">Grid Garden</a></li>
+        <li><a href="https://codepip.com">Codepip</a></li>
+        <li><a href="https://flexboxdefense.com">Flexbox Defense</a></li>
+        <li><a href="https://mastery.games/flexboxzombies/">Flexbox Zombies</a></li>
+        <li><a href="https://flexboxfroggy.com">Flexbox Froggy</a></li>
+    </ul>
+</details>
 </details>
 
 <details>
