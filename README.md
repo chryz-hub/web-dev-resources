@@ -53,7 +53,8 @@ books and the rest by adding contents.
        <li><a href="https://javascript.info">Javascript.info </a></li>
        <li><a href="https://developer.mozilla.org">Mozilla Developers Network</a></li>
        <li><a href="https://eloquentjavascript.net">Eloquent Javascript</a></li>
-       <li><a href="https://Javascript30.com"> Javascript30</a></li>   
+       <li><a href="https://Javascript30.com"> Javascript30</a></li>
+       <li><a href="https://1loc.dev/"> Javascript Utilities</a></li>
    </ul>
 </details>
 
