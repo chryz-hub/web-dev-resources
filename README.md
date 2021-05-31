@@ -1,6 +1,6 @@
 # web-dev-resources
 
-This repository us geared towards accumulating world class resources for web developers!
+This repository is geared towards accumulating world class resources for web developers!
 
 ### This resources include these various languages
 
