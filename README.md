@@ -208,7 +208,7 @@ frontend website
 
 <details>
 <summary>
-<strong>Codinng Challenge Websites</strong>
+<strong>Coding Challenge Websites</strong>
 </summary>
 <details>
   <ul>
