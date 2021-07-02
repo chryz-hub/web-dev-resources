@@ -123,6 +123,7 @@ books and the rest by adding contents.
   </ul>
 </details>
 
+<details>
 <summary>
 .py repositories
 </summary>
