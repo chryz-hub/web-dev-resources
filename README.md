@@ -55,6 +55,7 @@ books and the rest by adding contents.
        <li><a href="https://eloquentjavascript.net">Eloquent Javascript</a></li>
        <li><a href="https://Javascript30.com"> Javascript30</a></li>
        <li><a href="https://1loc.dev/"> Javascript Utilities</a></li>
+     <li><a href="https://www.programiz.com/javascript">Programiz</a></li>
    </ul>
 </details>
 
@@ -77,15 +78,11 @@ books and the rest by adding contents.
      <li><a href="https://py4e.com">Py4e</a></li>
      <li><a href="https://pythonprogramming.net">Python Programming</a></li>
      <li><a href="https://python.org">Python.org</a></li>
-     <li><a href="https://programiz.com">Programiz</a></li>
+     <li><a href="https://www.programiz.com/python-programming">Programiz</a></li>
      <li><a href="https://realpython.com">Real Python</a></li>
-     <li><a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a></li>
      <li><a href="https://www.fullstackpython.com/">Full Stack Python</a></li>
      <li><a href="https://www.pythoncheatsheet.org/">Python Cheatsheet</a></li>
-     <li><a href="https://realpython.com">Real Python</a></li>
     <li><a href="https://docs.python-guide.org/">The Hitchhiker’s Guide to Python</a></li>
-    <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a></li>
-
   </ul>
 </details>
 
@@ -109,6 +106,7 @@ books and the rest by adding contents.
 .py books
 </summary>
    <ul>
+     <li><a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a></li>
      <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python</a></li>
      <li><a href="https://www.oreilly.com/library/view/fluent-python/9781491946237/)">Fluent Python</a></li>
   </ul>
@@ -125,8 +123,16 @@ books and the rest by adding contents.
   </ul>
 </details>
 
+<summary>
+.py repositories
+</summary>
+  <ul>
+     <li><a href="https://github.com/realpython/python-guide">Hitchhiker's Guide to Python</a></li>
+      <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a><li>
+  </ul>
 </details>
 
+</details>
 
 
 <details>
@@ -196,5 +202,23 @@ frontend website
     <ul>
       <li><a href="https://www.frontendmentor.io/">Frontend Mentor | Front-end coding challenges using a real-life workflow</a></li>
    </ul>
+</details>
+</details>
+
+
+<summary>
+<strong>Codinng Challenge Websites</strong>
+</summary>
+<details>
+  <ul>
+    <li><a href="https://www.topcoder.com/challenges/?pageIndex=1">TopCoder</a></li>
+    <li><a href="https://www.coderbyte.com/">Coderbyte </a></li>
+    <li><a href="https://projecteuler.net/">ProjectEuler </a></li>
+    <li><a href="https://www.hackerrank.com/dashboard">HackerRank </a></li>
+    <li><a href="https://www.codechef.com/">CodeChef </a></li>
+    <li><a href="https://exercism.io/">exercism </a></li>
+    <li><a href="https://www.codewars.com/">Codewars </a></li>
+    <li><a href="https://leetcode.com/">LeetCode </a></li>
+  </ul>
 </details>
 </details>
