@@ -219,5 +219,29 @@ frontend website
     <li><a href="https://exercism.io/">exercism </a></li>
     <li><a href="https://www.codewars.com/">Codewars </a></li>
     <li><a href="https://leetcode.com/">LeetCode </a></li>
+    <li><a href="https://www.spoj.com/">SPOJ</a></li>
+    <li><a href="https://www.codingame.com/">CodinGame</a></li>
+    <li><a href="http://www.hackerearth.com/">HackerEarth</a></li>
+    <li><a href="https://www.reddit.com/r/dailyprogrammer">DailyProgrammer</a></li>
+    <li><a href="https://codility.com/programmers/">Codility</a></li>
+    <li><a href="http://www.codeeval.com/">CodeEval </a></li>
+    <li><a href="http://rosalind.info/problems/locations/">Rosalind</a></li>
+    <li><a href="http://fightcodegame.com/">FightCode</a></li>
+    <li><a href="http://codeforces.com/">Codeforces</a></li>
+    <li><a href="https://www.kaggle.com/">Kaggle</a></li>
+    <li><a href="https://geektastic.com/">geektastic</a></li>
+    <li><a href="http://www.programmr.com/">Programmr</a></li>
+    <li><a href="https://codegym.cc/">CodeGym</a></li>
+    <li><a href="https://codepen.io/challenges">CodePen</a></li>
+    <li><a href="https://practice.geeksforgeeks.org/">GeeksForGeeks</a></li>
+    <li><a href="https://www.urionlinejudge.com.br/judge/en/login">URI Online Judge</a></li>
+    <li><a href="https://challenges.reply.com/tamtamy/home.action">Reply Challenges</a></li>
+    <li><a href="https://codingcompetitions.withgoogle.com/kickstart">Kick Start</a></li>
+    <li><a href="https://codingcompetitions.withgoogle.com/codejam">Code Jam</a></li>
+    <li><a href="https://codingbat.com/">CodingBat</a></li>
+    <li><a href="https://codesignal.com/">CodeSignal</a></li>
+    <li><a href="https://edabit.com/">Edabit</a></li>
+    <li><a href="https://dare2compete.com/">Dare2Compete </a></li>
+    <li><a href="https://judocoder.com/challenges/">JudoCoder </a></li>
   </ul>
 </details>
