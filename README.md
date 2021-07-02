@@ -210,7 +210,6 @@ frontend website
 <summary>
 <strong>Coding Challenge Websites</strong>
 </summary>
-<details>
   <ul>
     <li><a href="https://www.topcoder.com/challenges/?pageIndex=1">TopCoder</a></li>
     <li><a href="https://www.coderbyte.com/">Coderbyte </a></li>
@@ -221,5 +220,4 @@ frontend website
     <li><a href="https://www.codewars.com/">Codewars </a></li>
     <li><a href="https://leetcode.com/">LeetCode </a></li>
   </ul>
-</details>
 </details>
