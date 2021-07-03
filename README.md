@@ -46,7 +46,6 @@ You can create segments for html blogs, documentations, repositories, books and 
 <ul>
     <li><a href="https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-wJX42730UtT4Yv9feNvCuQ&utm_medium=udemyads&utm_source=aff-campaign">Web Development By Doing: HTML / CSS From Scratch</a></li>
     <li><a href="https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-_DOkslmcJoCEChR4iCx5bw&utm_medium=udemyads&utm_source=aff-campaign">Learn HTML & CSS: How To Start Your Web Development Career</a></li>
-    <li><a href="https://www.coursera.org/learn/website-coding?specialization=website-development&ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-S.LpXJHS6zH04EtxWMY5rA&siteID=JVFxdTr9V80-S.LpXJHS6zH04EtxWMY5rA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80">Learn HTML & CSS: How To Start Your Web Development Career</a></li>
     <li><a href="https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-XOO.vj_kLoFIKkCA_..iPg&utm_medium=udemyads&utm_source=aff-campaign">Master the Basics of HTML5 & CSS3: Beginner Web Development</a></li>
 </ul>
 </details>
@@ -204,7 +203,7 @@ books and the rest by adding contents.
 </summary>
   <ul>
      <li><a href="https://github.com/realpython/python-guide">Hitchhiker's Guide to Python</a></li>
-      <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a><li>
+    <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a><li>
   </ul>
 </details>
 
