@@ -33,8 +33,21 @@ You can create segments for html blogs, documentations, repositories, books and 
     <li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
     <li><a href="https://progate.com/courses/html">Progate</a></li>
     <li><a href="https://html5rocks.com"> HTML5 Rocks</a></li>
+       <li><a href="https://www.afterhoursprogramming.com/tutorial/html/">After Hours Programming</a></li>
     <li><a href="https://htmlreference.io"> HTML5 Reference</a></li>
      <li><a href="https://www.geeksforgeeks.org/html-tutorials/?ref=lbp">GeeksforGeeks</a></li>
+</ul>
+</details>
+
+<details>
+<summary>
+.html courses/videos
+</summary>
+<ul>
+    <li><a href="https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-wJX42730UtT4Yv9feNvCuQ&utm_medium=udemyads&utm_source=aff-campaign">Web Development By Doing: HTML / CSS From Scratch</a></li>
+    <li><a href="https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-_DOkslmcJoCEChR4iCx5bw&utm_medium=udemyads&utm_source=aff-campaign">Learn HTML & CSS: How To Start Your Web Development Career</a></li>
+    <li><a href="https://www.coursera.org/learn/website-coding?specialization=website-development&ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-S.LpXJHS6zH04EtxWMY5rA&siteID=JVFxdTr9V80-S.LpXJHS6zH04EtxWMY5rA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80">Learn HTML & CSS: How To Start Your Web Development Career</a></li>
+    <li><a href="https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-XOO.vj_kLoFIKkCA_..iPg&utm_medium=udemyads&utm_source=aff-campaign">Master the Basics of HTML5 & CSS3: Beginner Web Development</a></li>
 </ul>
 </details>
 
@@ -60,7 +73,8 @@ books and the rest by adding contents.
        <li><a href="https://www.edx.org/learn/javascript">Edx</a></li>
        <li><a href="https://Javascript30.com"> Javascript30</a></li>
        <li><a href="https://1loc.dev/"> Javascript Utilities</a></li>
-     <li><a href="https://www.programiz.com/javascript">Programiz</a></li>
+       <li><a href="https://www.programiz.com/javascript">Programiz</a></li>
+       <li><a href="https://www.afterhoursprogramming.com/tutorial/javascript/">After Hours Programming</a></li>
      <li><a href="https://www.geeksforgeeks.org/javascript-tutorial/?ref=ghm">GeeksforGeeks</a></li>
    </ul>
 </details>
@@ -89,10 +103,19 @@ books and the rest by adding contents.
 </summary>
     <ul>
      <li><a href="https://pythonbasics.org">Python Basics</a></li>
+     <li><a href="https://intellipaat.com/blog/tutorial/python-tutorial/">intelliPaat</a></li>
+     <li><a href="http://www.alan-g.me.uk/l2p/index.htm">Learning To Program</a></li>
+     <li><a href="https://www.afterhoursprogramming.com/tutorial/python/">After Hours Programming</a></li>
+     <li><a href="https://pymbook.readthedocs.io/en/latest/index.html#welcome-to-python-for-you-and-me">Python for you and me</a></li>
      <li><a href="https://learnpython.org">Learn Python</a></li>
      <li><a href="https://py4e.com">Py4e</a></li>
+     <li><a href="https://thepythonguru.com/">ThePythonGuru</a></li>
+     <li><a href="https://www.python-course.eu/python3_course.php">Python Course</a></li>
+     <li><a href="https://stephensugden.com/crash_into_python/">Crash into Python</a></li>
+     <li><a href="http://pythontutor.com/">Pyton Tutor</a></li>
+     <li><a href="https://diveintopython3.net/">Dive Into Python 3</a></li>
      <li><a href="https://pythonprogramming.net">Python Programming</a></li>
-     <li><a href="https://docs.python.org/3/">Python Official Documentation</a></li>
+     <li><a href="https://docs.python.org/3/tutorial/index.html">Python Official Documentation</a></li>
      <li><a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a></li>
      <li><a href="https://www.tutorialspoint.com/python/index.htm">w3schools</a></li>
      <li><a href="https://www.codecademy.com/catalog/language/python">codecademy</a></li>
@@ -100,6 +123,7 @@ books and the rest by adding contents.
      <li><a href="https://www.w3schools.com/python/">TutorialsPoint</a></li>
      <li><a href="https://www.programiz.com/python-programming">Programiz</a></li>
      <li><a href="https://realpython.com">Real Python</a></li>
+     <li><a href="https://www.sololearn.com/learning/1073">Sololearn</a></li>
      <li><a href="https://developers.google.com/edu/python">Google's Python Class</a></li>
      <li><a href="https://www.fullstackpython.com/">Full Stack Python</a></li>
      <li><a href="https://learnxinyminutes.com/docs/python/">Learn X In Y Minutes</a></li>
@@ -118,11 +142,14 @@ books and the rest by adding contents.
 </summary>
    <ul>
      <li><a href="https://www.udemy.com/course/free-python/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-n9wcejNnSiOzMzOge8KRYg&utm_medium=udemyads&utm_source=aff-campaign">Python for Absolute Beginners!</a></li>
+     <li><a href="https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-_AdSId0p3CHnD.c78AXWJQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=jU79Zysihs4">2021 Complete Python Bootcamp From Zero to Hero in Python</a></li>
      <li><a href="https://www.udemy.com/course/introduction-to-programming-with-python-beginners-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-l7B_PxBM3rarGy2a37ZOIQ&utm_medium=udemyads&utm_source=aff-campaign">Introduction To Programming with Python</a></li>
      <li><a href="https://www.udemy.com/course/an-introduction-to-python-programming/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nGbPJ1nSdDePVzFs3c.OWA&utm_medium=udemyads&utm_source=aff-campaign">An Introduction to Python Programming</a></li>
      <li><a href="https://www.udemy.com/course/python-3-for-total-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-8o.GeO9j_xbjvsLSjKml6A&utm_medium=udemyads&utm_source=aff-campaign">Learn Python 3.6 for Total Beginners</a></li>
      <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+python+courses&sort=relevance&src=ukw">Free Python Courses</a></li>
      <li><a href="https://www.udemy.com/course/try-django-v1-11-python-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KU104N._QL8WSDddp4avHA&utm_medium=udemyads&utm_source=aff-campaign">Try Django 1.11 // Python Web Development</a></li>
+     <li><a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code - The Complete Python Pro Bootcamp for 2021</a></li>
+     <li><a href="https://www.udemy.com/course/python-the-complete-python-developer-course/">Learn Python Programming Masterclass</a></li>
   </ul>
 </details>
 
@@ -147,6 +174,15 @@ books and the rest by adding contents.
 </summary>
    <ul>
      <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python</a></li>
+     <li><a href="https://www.pdfdrive.com/learning-python-powerful-object-oriented-programming-e169780738.html">Learning Python: powerful object-oriented programming</a></li>
+     <li><a href="https://www.pdfdrive.com/introduction-to-machine-learning-with-python-e58337749.html">Introduction to Machine Learning with Python</a></li>
+     <li><a href="https://python.swaroopch.com/">A Byte of Python</a></li>
+     <li><a href="https://greenteapress.com/wp/learning-with-python/">Learning with Python: How to Think Like a Computer Scientist</a></li>
+     <li><a href="https://www.pdfdrive.com/python-cookbook-recipes-for-mastering-python-3-e187326224.html">Python Cookbook: Recipes for Mastering Python 3</a></li>
+     <li><a href="https://www.academia.edu/44608760/GLOBAL_EDITION_FOURTH_EDITION_Starting_Out_with_Python">Starting Out With Python</a></li>
+     <li><a href="https://learnpythonthehardway.org/book/">Learn Python The Hard Way</a></li>
+     <li><a href="https://inventwithpython.com/invent4thed/">Invent Your Own Computer Games with Python</a></li>
+     <li><a href="https://www.pdfdrive.com/python-crash-course-a-hands-on-project-based-introduction-to-programming-e190067998.html">Python Crash Course: A Hands-On, Project-Based Introduction to Programming</a></li>
      <li><a href="https://www.oreilly.com/library/view/fluent-python/9781491946237/)">Fluent Python</a></li>
   </ul>
 </details>
@@ -188,6 +224,7 @@ books and the rest by adding contents.
     <ul>
         <li><a href="https://css-tricks.com">CSS tricks </a></li>
         <li><a href="https://cssreference.io"> CSS Reference</a></li>
+       <li><a href="https://www.afterhoursprogramming.com/tutorial/css/">After Hours Programming</a></li>
         <li><a href="https://cssportal.com">CSS Portal</a></li>
         <li><a href="https://enjoycss.com">Enjoy CSS</a></li>
         <li><a href="https://cssdeck.com">CSS Deck</a></li>
@@ -293,6 +330,7 @@ frontend courses
     <li><a href="https://codingbat.com/">CodingBat</a></li>
     <li><a href="https://codesignal.com/">CodeSignal</a></li>
     <li><a href="https://edabit.com/">Edabit</a></li>
+    <li><a href="http://www.pythonchallenge.com/">PythonChallenge</a></li>
     <li><a href="https://dare2compete.com/">Dare2Compete </a></li>
     <li><a href="https://judocoder.com/challenges/">JudoCoder </a></li>
   </ul>
