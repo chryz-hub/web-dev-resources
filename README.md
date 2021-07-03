@@ -67,7 +67,7 @@ books and the rest by adding contents.
 
 <details>
 <summary>
-.js courses\ videos 
+.js courses/videos 
 </summary>
    <ul>
      <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+javascript+courses&sort=relevance&src=ukw">Free Javascript Courses</a></li>
@@ -114,11 +114,11 @@ books and the rest by adding contents.
 
 <details>
 <summary>
-.py courses\ videos 
+.py courses/videos 
 </summary>
    <ul>
      <li><a href="https://www.udemy.com/course/free-python/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-n9wcejNnSiOzMzOge8KRYg&utm_medium=udemyads&utm_source=aff-campaign">Python for Absolute Beginners!</a></li>
-     <li><a href="httpshttps://www.udemy.com/course/introduction-to-programming-with-python-beginners-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-l7B_PxBM3rarGy2a37ZOIQ&utm_medium=udemyads&utm_source=aff-campaign">Introduction To Programming with Python</a></li>
+     <li><a href="https://www.udemy.com/course/introduction-to-programming-with-python-beginners-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-l7B_PxBM3rarGy2a37ZOIQ&utm_medium=udemyads&utm_source=aff-campaign">Introduction To Programming with Python</a></li>
      <li><a href="https://www.udemy.com/course/an-introduction-to-python-programming/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nGbPJ1nSdDePVzFs3c.OWA&utm_medium=udemyads&utm_source=aff-campaign">An Introduction to Python Programming</a></li>
      <li><a href="https://www.udemy.com/course/python-3-for-total-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-8o.GeO9j_xbjvsLSjKml6A&utm_medium=udemyads&utm_source=aff-campaign">Learn Python 3.6 for Total Beginners</a></li>
      <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+python+courses&sort=relevance&src=ukw">Free Python Courses</a></li>
