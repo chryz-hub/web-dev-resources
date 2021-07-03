@@ -31,8 +31,10 @@ You can create segments for html blogs, documentations, repositories, books and 
 </summary>
 <ul>
     <li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
+    <li><a href="https://progate.com/courses/html">Progate</a></li>
     <li><a href="https://html5rocks.com"> HTML5 Rocks</a></li>
     <li><a href="https://htmlreference.io"> HTML5 Reference</a></li>
+     <li><a href="https://www.geeksforgeeks.org/html-tutorials/?ref=lbp">GeeksforGeeks</a></li>
 </ul>
 </details>
 
@@ -51,12 +53,25 @@ books and the rest by adding contents.
 </summary>
    <ul>
        <li><a href="https://javascript.info">Javascript.info </a></li>
+       <li><a href="https://progate.com/courses/es6">Progate</a></li>
+       <li><a href="https://www.codecademy.com/catalog/language/javascript">codecademy</a></li>
        <li><a href="https://developer.mozilla.org">Mozilla Developers Network</a></li>
        <li><a href="https://eloquentjavascript.net">Eloquent Javascript</a></li>
+       <li><a href="https://www.edx.org/learn/javascript">Edx</a></li>
        <li><a href="https://Javascript30.com"> Javascript30</a></li>
        <li><a href="https://1loc.dev/"> Javascript Utilities</a></li>
      <li><a href="https://www.programiz.com/javascript">Programiz</a></li>
+     <li><a href="https://www.geeksforgeeks.org/javascript-tutorial/?ref=ghm">GeeksforGeeks</a></li>
    </ul>
+</details>
+
+<details>
+<summary>
+.js courses\ videos 
+</summary>
+   <ul>
+     <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+javascript+courses&sort=relevance&src=ukw">Free Javascript Courses</a></li>
+  </ul>
 </details>
 
 </details>
@@ -77,12 +92,37 @@ books and the rest by adding contents.
      <li><a href="https://learnpython.org">Learn Python</a></li>
      <li><a href="https://py4e.com">Py4e</a></li>
      <li><a href="https://pythonprogramming.net">Python Programming</a></li>
-     <li><a href="https://python.org">Python.org</a></li>
+     <li><a href="https://docs.python.org/3/">Python Official Documentation</a></li>
+     <li><a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a></li>
+     <li><a href="https://www.tutorialspoint.com/python/index.htm">w3schools</a></li>
+     <li><a href="https://www.codecademy.com/catalog/language/python">codecademy</a></li>
+     <li><a href="https://www.kaggle.com/learn/python">Kaggle</a></li>
+     <li><a href="https://www.w3schools.com/python/">TutorialsPoint</a></li>
      <li><a href="https://www.programiz.com/python-programming">Programiz</a></li>
      <li><a href="https://realpython.com">Real Python</a></li>
+     <li><a href="https://developers.google.com/edu/python">Google's Python Class</a></li>
      <li><a href="https://www.fullstackpython.com/">Full Stack Python</a></li>
+     <li><a href="https://learnxinyminutes.com/docs/python/">Learn X In Y Minutes</a></li>
+     <li><a href="https://progate.com/languages/python">Progate</a></li>
+     <li><a href="https://www.pythonforbeginners.com/">PythonForBeginners</a></li>
+     <li><a href="https://www.edx.org/learn/python">Edx</a></li>
+     <li><a href="https://wwhttps://www.geeksforgeeks.org/python-programming-language/">GeeksforGeeks</a></li>
      <li><a href="https://www.pythoncheatsheet.org/">Python Cheatsheet</a></li>
     <li><a href="https://docs.python-guide.org/">The Hitchhiker’s Guide to Python</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>
+.py courses\ videos 
+</summary>
+   <ul>
+     <li><a href="https://www.udemy.com/course/free-python/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-n9wcejNnSiOzMzOge8KRYg&utm_medium=udemyads&utm_source=aff-campaign">Python for Absolute Beginners!</a></li>
+     <li><a href="httpshttps://www.udemy.com/course/introduction-to-programming-with-python-beginners-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-l7B_PxBM3rarGy2a37ZOIQ&utm_medium=udemyads&utm_source=aff-campaign">Introduction To Programming with Python</a></li>
+     <li><a href="https://www.udemy.com/course/an-introduction-to-python-programming/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nGbPJ1nSdDePVzFs3c.OWA&utm_medium=udemyads&utm_source=aff-campaign">An Introduction to Python Programming</a></li>
+     <li><a href="https://www.udemy.com/course/python-3-for-total-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-8o.GeO9j_xbjvsLSjKml6A&utm_medium=udemyads&utm_source=aff-campaign">Learn Python 3.6 for Total Beginners</a></li>
+     <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+python+courses&sort=relevance&src=ukw">Free Python Courses</a></li>
+     <li><a href="https://www.udemy.com/course/try-django-v1-11-python-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KU104N._QL8WSDddp4avHA&utm_medium=udemyads&utm_source=aff-campaign">Try Django 1.11 // Python Web Development</a></li>
   </ul>
 </details>
 
@@ -106,7 +146,6 @@ books and the rest by adding contents.
 .py books
 </summary>
    <ul>
-     <li><a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a></li>
      <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python</a></li>
      <li><a href="https://www.oreilly.com/library/view/fluent-python/9781491946237/)">Fluent Python</a></li>
   </ul>
@@ -154,6 +193,7 @@ books and the rest by adding contents.
         <li><a href="https://cssdeck.com">CSS Deck</a></li>
         <li><a href="https://webcode.tools/css-generator">Web Tools</a></li>
         <li><a href="https://csstriggers.com">CSS Triggers</a></li>
+        <li><a href="https://www.geeksforgeeks.org/css-tutorials/?ref=lbp">GeeksforGeeks</a></li>
         <li><a href="https://cubic-bezier.com">Cubic Bezier</a></li>
     </ul>
 </details>
@@ -187,6 +227,8 @@ books and the rest by adding contents.
 </summary>
     <ul>
       <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
+      <li><a href="https://progate.com/courses/react">Progate</a></li>
+     <li><a href="https://www.geeksforgeeks.org/reactjs-tutorials/?ref=lbp">GeeksforGeeks</a></li>
    </ul>
 </details>
 </details>
@@ -204,6 +246,16 @@ frontend website
       <li><a href="https://www.frontendmentor.io/">Frontend Mentor | Front-end coding challenges using a real-life workflow</a></li>
    </ul>
 </details>
+
+<details>
+<summary>
+frontend courses
+</summary>
+    <ul>
+      <li><a href="https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign">Foundations of Front-End Web Development</a></li>
+   </ul>
+</details>
+
 </details>
 
 <details>
