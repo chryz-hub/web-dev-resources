@@ -217,6 +217,7 @@ books and the rest by adding contents.
 
   </ul>
 </details>
+</details>
 
 <details>
 <summary>
