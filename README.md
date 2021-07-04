@@ -344,7 +344,6 @@ frontend courses
       <li><a href="https://www.freecodecamp.org/learn/front-end-libraries/">Front End Development Libraries</a></li>
    </ul>
 </details>
-</details>
 
 <details>
 <summary>
