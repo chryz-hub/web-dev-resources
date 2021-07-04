@@ -98,7 +98,8 @@ books and the rest by adding contents.
     <li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide() {</a></li>
   </ul>
 </details>
-  
+</details>
+
 <details>
 <summary>
 <strong> Python</strong>
@@ -267,6 +268,7 @@ books and the rest by adding contents.
     <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
   </ul>
 </details>
+</details>
 
 <details>
 <summary>
@@ -367,3 +369,5 @@ frontend courses
     <li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
   </ul>
 </details>
+</details>
+
