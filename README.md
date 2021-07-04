@@ -296,7 +296,6 @@ books and the rest by adding contents.
 </details>
 </details>
 
-
 <details>
 <summary>
 .js(react) repositories
