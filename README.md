@@ -87,9 +87,18 @@ books and the rest by adding contents.
   </ul>
 </details>
 
+<details>
+<summary>
+.js repositories
+</summary>
+  <ul>
+    <li><a href="https://github.com/ryanmcdermott/clean-code-javascript">Clean Code JavaScript</a></li>
+    <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms </a></li>
+    <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
+    <li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide() {</a></li>
+  </ul>
 </details>
-
-    
+  
 <details>
 <summary>
 <strong> Python</strong>
@@ -203,12 +212,11 @@ books and the rest by adding contents.
 </summary>
   <ul>
      <li><a href="https://github.com/realpython/python-guide">Hitchhiker's Guide to Python</a></li>
-    <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a><li>
+     <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
+     <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a><li>
+
   </ul>
 </details>
-
-</details>
-
 
 <details>
 <summary>
@@ -249,6 +257,14 @@ books and the rest by adding contents.
         <li><a href="https://flexboxfroggy.com">Flexbox Froggy</a></li>
     </ul>
 </details>
+
+<details>
+<summary>
+.css repositories
+</summary>
+  <ul>
+    <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
+  </ul>
 </details>
 
 <details>
@@ -332,5 +348,21 @@ frontend courses
     <li><a href="http://www.pythonchallenge.com/">PythonChallenge</a></li>
     <li><a href="https://dare2compete.com/">Dare2Compete </a></li>
     <li><a href="https://judocoder.com/challenges/">JudoCoder </a></li>
+  </ul>
+</details>
+
+<details>
+<summary>
+<strong>Repositories To Enhance Your Programming Skills</strong>
+</summary>
+  <ul>
+    <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a></li>
+    <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
+    <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
+    <li><a href="https://github.com/public-apis/public-apis">Public APIs </a></li>
+    <li><a href="https://github.com/kamranahmedse/developer-roadmap">Developer Roadmap </a></li>
+    <li><a href="https://github.com/sindresorhus/awesome">Awesome</a></li>
+    <li><a href="https://github.com/goldbergyoni/nodebestpractices">Node Best Practices</a></li>
+    <li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
   </ul>
 </details>
