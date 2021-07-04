@@ -294,18 +294,7 @@ books and the rest by adding contents.
      <li><a href="https://www.geeksforgeeks.org/reactjs-tutorials/?ref=lbp">GeeksforGeeks</a></li>
    </ul>
 </details>
-</details>
-
-<details>
-<summary>
-.js(react) repositories
-</summary>
-  <ul>
-    <li><a href="https://github.com/Asabeneh/30-Days-Of-React">30 Days Of React</a></li>
-    <li><a href="https://github.com/Asabeneh/React-For-Everyone">React For Everyone</a></li>
-  </ul>
-</details>
-</details>
+</details
 
 <details>
 <summary>
