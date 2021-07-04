@@ -294,14 +294,15 @@ books and the rest by adding contents.
      <li><a href="https://www.geeksforgeeks.org/reactjs-tutorials/?ref=lbp">GeeksforGeeks</a></li>
    </ul>
 </details>
-</details
+</details>
+
 
 <details>
 <summary>
 <strong>Frontend</strong>
 </summary>
 You can create segments for frontend development blogs, documentations, repositories, books and the rest by adding contents.
-<details>
+</details>
 <summary>
 frontend website
 </summary>
