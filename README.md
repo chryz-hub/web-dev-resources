@@ -92,10 +92,15 @@ books and the rest by adding contents.
 .js repositories
 </summary>
   <ul>
+    <li><a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">30 Days Of JavaScript</a></li>
+    <li><a href="https://github.com/Asabeneh/JavaScript-for-Everyone">JavaScript For Everyone</a></li>
     <li><a href="https://github.com/ryanmcdermott/clean-code-javascript">Clean Code JavaScript</a></li>
+    <li><a href="https://github.com/Asabeneh/Functional-Programming-in-JavaScript">Functional Programming in JavaScript</a></li>
+    <li><a href="https://github.com/lydiahallie/javascript-questions">Javascript Questions</a></li>
     <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms </a></li>
     <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
     <li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide() {</a></li>
+     <li><a href="https://github.com/TheAlgorithms/Javascript">The Algorithms - Javascript</a></li>
   </ul>
 </details>
 </details>
@@ -214,7 +219,10 @@ books and the rest by adding contents.
   <ul>
      <li><a href="https://github.com/realpython/python-guide">Hitchhiker's Guide to Python</a></li>
      <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
+     <li><a href="https://github.com/Asabeneh/Python">Python</a></li>
+     <li><a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a></li>
      <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a><li>
+     <li><a href="https://github.com/TheAlgorithms/Python">The Algorithms - Python</a></li>
 
   </ul>
 </details>
@@ -290,6 +298,17 @@ books and the rest by adding contents.
 
 <details>
 <summary>
+.js(react) repositories
+</summary>
+    <ul>
+      <li><a href="https://github.com/Asabeneh/30-Days-Of-React">30 Days Of React</a></li>
+      <li><a href="https://github.com/Asabeneh/React-For-Everyone">React For Everyone</a></li>
+   </ul>
+</details>
+</details>
+
+<details>
+<summary>
 <strong>Frontend</strong>
 </summary>
 You can create segments for frontend development blogs, documentations, repositories, books and the rest by adding contents.
@@ -359,15 +378,20 @@ frontend courses
 <strong>Repositories To Enhance Your Programming Skills</strong>
 </summary>
   <ul>
+    <li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Dev For Beginners</a></li>
     <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a></li>
+    <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome Beginner Friendly Projects.</a></li>
     <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
+     <li><a href="https://github.com/TheAlgorithms/Algorithms-Explanation">Algorithms-Explanation</a></li>
+    <li><a href="https://github.com/jasonbarry/github-actions-starter-pack">GitHub Actions Starter Pack</a></li>
     <li><a href="https://github.com/public-apis/public-apis">Public APIs </a></li>
+    <li><a href="https://github.com/ripienaar/free-for-dev">Free For Dev</a></li>
     <li><a href="https://github.com/kamranahmedse/developer-roadmap">Developer Roadmap </a></li>
     <li><a href="https://github.com/sindresorhus/awesome">Awesome</a></li>
+    <li><a href="https://github.com/open-guides/og-aws">OG AWS</a></li>
     <li><a href="https://github.com/goldbergyoni/nodebestpractices">Node Best Practices</a></li>
     <li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
   </ul>
 </details>
 </details>
-
