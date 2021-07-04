@@ -319,7 +319,6 @@ frontend website
       <li><a href="https://www.frontendmentor.io/">Frontend Mentor | Front-end coding challenges using a real-life workflow</a></li>
    </ul>
 </details>
-</details>
 
 <details>
 <summary>
@@ -329,7 +328,6 @@ frontend courses
       <li><a href="https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign">Foundations of Front-End Web Development</a></li>
    </ul>
 </details>
-
 </details>
 
 <details>
