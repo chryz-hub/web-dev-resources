@@ -296,6 +296,18 @@ books and the rest by adding contents.
 </details>
 </details>
 
+
+<details>
+<summary>
+.js(react) repositories
+</summary>
+    <ul>
+      <li><a href="https://github.com/Asabeneh/30-Days-Of-React">30 Days Of React</a></li>
+      <li><a href="https://github.com/Asabeneh/React-For-Everyone">React For Everyone</a></li>
+   </ul>
+</details>
+</details>
+
 <details>
 <summary>
 <strong>Frontend</strong>
