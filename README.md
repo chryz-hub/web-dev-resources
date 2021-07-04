@@ -320,6 +320,7 @@ frontend website
       <li><a href="https://www.frontendmentor.io/">Frontend Mentor | Front-end coding challenges using a real-life workflow</a></li>
    </ul>
 </details>
+</details>
 
 <details>
 <summary>
