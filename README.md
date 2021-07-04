@@ -230,10 +230,11 @@ books and the rest by adding contents.
      <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
      <li><a href="https://github.com/30-seconds/30-seconds-of-python">30 seconds of python</a></li>
      <li><a href="https://github.com/GalvanizeOpenSource/python-resources">python-resources</a></li>
-     <li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science Programming Problems</a></li>
+     <li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science   Programming Problems</a></li>
      <li><a href="https://github.com/Asabeneh/Python">Python</a></li>
      <li><a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a></li>
      <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a><li> 
+     <li><a href="https://github.com/TheAlgorithms/Python">The Algorithms - Python</a></li>
   </ul>
 </details>
 </details>
