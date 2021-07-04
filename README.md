@@ -305,7 +305,6 @@ books and the rest by adding contents.
     <li><a href="https://github.com/Asabeneh/React-For-Everyone">React For Everyone</a></li>
   </ul>
 </details>
-</details>
 
 <details>
 <summary>
