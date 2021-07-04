@@ -235,7 +235,6 @@ books and the rest by adding contents.
      <li><a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a></li>
      <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a><li>
      <li><a href="https://github.com/TheAlgorithms/Python">The Algorithms - Python</a></li>
-
   </ul>
 </details>
 </details>
