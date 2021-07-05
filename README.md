@@ -65,6 +65,7 @@ books and the rest by adding contents.
 </summary>
    <ul>
        <li><a href="https://javascript.info">Javascript.info </a></li>
+       <li><a href="https://www.vanillajavascriptprojects.com/">Javacript Projects</a></li>
        <li><a href="https://progate.com/courses/es6">Progate</a></li>
        <li><a href="https://www.codecademy.com/catalog/language/javascript">codecademy</a></li>
        <li><a href="https://developer.mozilla.org">Mozilla Developers Network</a></li>
@@ -102,10 +103,26 @@ books and the rest by adding contents.
     <li><a href="https://github.com/Asabeneh/Functional-Programming-in-JavaScript">Functional Programming in JavaScript</a></li>
     <li><a href="https://github.com/leonardomso/33-js-concepts">33 Concepts Every JavaScript Developer Should Know</a></li>
     <li><a href="https://github.com/30-seconds/30-seconds-of-code">30 seconds of code</a></li>
+    <li><a href="https://github.com/john-smilga/javascript-basic-projects">Javascript Basic Projects</a></li>
+    <li><a href="https://github.com/wesbos/beginner-javascript">Beginner JavaScript</a></li>
+    <li><a href="https://github.com/ironhack-labs/lab-javascript-vikings">LAB | JS Vikings</a></li>
+    <li><a href="https://github.com/goldbergyoni/javascript-testing-best-practices">Javascript Testing Best Practices</a></li>
     <li><a href="https://github.com/lydiahallie/javascript-questions">Javascript Questions</a></li>
-    <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms </a></li>
+    <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a></li>
     <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
     <li><a href="https://github.com/GitbookIO/javascript">Learn JavaScript</a></li>
+    <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript() {...}</a></li>
+    <li><a href="https://github.com/micromata/awesome-javascript-learning">Awesome JavaScript Learning</a></li>
+    <li><a href="https://github.com/javascript-society/javascript-path">JavaScript Path</a></li>
+    <li><a href="https://github.com/sudheerj/javascript-interview-questions">JavaScript Interview Questions & Answers</a></li>
+    <li><a href="https://github.com/humanwhocodes/computer-science-in-javascript">Computer Science in JavaScript</a></li>
+    <li><a href="https://github.com/mgechev/javascript-algorithms">javascript-algorithms</a></li>
+    <li><a href="https://github.com/workshopper/javascripting">JAVASCRIPTING</a></li>
+    <li><a href="https://github.com/loiane/javascript-datastructures-algorithms">Learning JavaScript Data Structures and Algorithms</a></li>
+    <li><a href="https://github.com/TheOdinProject/javascript-exercises">Javascript Exercises</a></li>
+    <li><a href="https://github.com/sorrycc/awesome-javascript">Awesome JavaScript </a></li>
+    <li><a href="https://github.com/coodict/javascript-in-one-pic">JavaScript in one pic</a></li>
+    <li><a href="https://github.com/lydiahallie/javascript-questions">Learn JavaScript</a></li>
     <li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide() {</a></li>
      <li><a href="https://github.com/TheAlgorithms/Javascript">The Algorithms - Javascript</a></li>
   </ul>
@@ -302,6 +319,7 @@ books and the rest by adding contents.
   <ul>
     <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
     <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
+    <li><a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript">You Don't Need JavaScript</a></li>
   </ul>
 </details>
 </details>
@@ -424,7 +442,7 @@ frontend repositories
   <ul>
     <li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Dev For Beginners</a></li>
     <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a></li>
-    <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome Beginner Friendly Projectsa></li>
+    <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome Beginner Friendly Projects</li>
     <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
     <li><a href="https://github.com/Olshansk/interview">Interview</a></li>
