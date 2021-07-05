@@ -243,6 +243,7 @@ books and the rest by adding contents.
     <li><a href="https://github.com/gautam1858/python-awesome">python-awesome</a></li>
     <li><a href="https://github.com/talkpython/100daysofcode-with-python-course">100 DaysOfCode with Python</a></li>
     <li><a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a></li>
+    <li> <a href ="https://github.com/ForrestKnight/open-source-cs-python">The Python Open Source Computer Science Degree</a></li>
     <li><a href="https://github.com/pamoroso/free-python-books">Free Python Books</a></li>
     <li><a href="https://github.com/xxg1413/python">FlyPython</a></li>
     <li><a href="https://github.com/darkprinx/break-the-ice-with-python">Break The Ice With Python</a></li>
