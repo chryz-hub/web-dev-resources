@@ -83,6 +83,8 @@ books and the rest by adding contents.
 .js courses/videos 
 </summary>
    <ul>
+     <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures</a></li>
+     <li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data Visualization</a></li>
      <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+javascript+courses&sort=relevance&src=ukw">Free Javascript Courses</a></li>
   </ul>
 </details>
@@ -93,12 +95,17 @@ books and the rest by adding contents.
 </summary>
   <ul>
     <li><a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">30 Days Of JavaScript</a></li>
+    <li><a href="https://github.com/elsewhencode/project-guidelines">Project Guidelines</a></li>
+    <li><a href="https://github.com/GalvanizeOpenSource/Learn-To-Code-JavaScript">Learn To Code JavaScript</a></li>
     <li><a href="https://github.com/Asabeneh/JavaScript-for-Everyone">JavaScript For Everyone</a></li>
     <li><a href="https://github.com/ryanmcdermott/clean-code-javascript">Clean Code JavaScript</a></li>
     <li><a href="https://github.com/Asabeneh/Functional-Programming-in-JavaScript">Functional Programming in JavaScript</a></li>
+    <li><a href="https://github.com/leonardomso/33-js-concepts">33 Concepts Every JavaScript Developer Should Know</a></li>
+    <li><a href="https://github.com/30-seconds/30-seconds-of-code">30 seconds of code</a></li>
     <li><a href="https://github.com/lydiahallie/javascript-questions">Javascript Questions</a></li>
     <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms </a></li>
     <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
+    <li><a href="https://github.com/GitbookIO/javascript">Learn JavaScript</a></li>
     <li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide() {</a></li>
      <li><a href="https://github.com/TheAlgorithms/Javascript">The Algorithms - Javascript</a></li>
   </ul>
@@ -162,8 +169,11 @@ books and the rest by adding contents.
      <li><a href="https://www.udemy.com/course/python-3-for-total-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-8o.GeO9j_xbjvsLSjKml6A&utm_medium=udemyads&utm_source=aff-campaign">Learn Python 3.6 for Total Beginners</a></li>
      <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+python+courses&sort=relevance&src=ukw">Free Python Courses</a></li>
      <li><a href="https://www.udemy.com/course/try-django-v1-11-python-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KU104N._QL8WSDddp4avHA&utm_medium=udemyads&utm_source=aff-campaign">Try Django 1.11 // Python Web Development</a></li>
+     <li><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">Scientific Computing with Python</a></li>
+     <li><a href="https://www.freecodecamp.org/learn/data-analysis-with-python/">Data Analysis with Python</a></li>
      <li><a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code - The Complete Python Pro Bootcamp for 2021</a></li>
      <li><a href="https://www.udemy.com/course/python-the-complete-python-developer-course/">Learn Python Programming Masterclass</a></li>
+     <li><a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">Machine Learning with Python</a></li>
   </ul>
 </details>
 
@@ -217,13 +227,29 @@ books and the rest by adding contents.
 .py repositories
 </summary>
   <ul>
-     <li><a href="https://github.com/realpython/python-guide">Hitchhiker's Guide to Python</a></li>
-     <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
-     <li><a href="https://github.com/Asabeneh/Python">Python</a></li>
-     <li><a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a></li>
-     <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a><li>
-     <li><a href="https://github.com/TheAlgorithms/Python">The Algorithms - Python</a></li>
-
+    <li><a href="https://github.com/realpython/python-guide">Hitchhiker's Guide to Python</a></li>
+    <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
+    <li><a href="https://github.com/rasbt/python_reference">Python Reference</a></li>
+    <li><a href="https://github.com/quobit/awesome-python-in-education">awesome-python-in-education</a></li>
+    <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a></li>
+    <li><a href="https://github.com/30-seconds/30-seconds-of-python">30 seconds of python</a></li>
+    <li><a href="https://github.com/GalvanizeOpenSource/python-resources">python-resources</a></li>
+    <li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science   Programming Problems</a></li>
+    <li><a href="https://github.com/Asabeneh/Python">Python</a></li>
+    <li><a href="https://github.com/AsciiKay/Beginners-Python-Examples">Beginners-Python-Programs</a></li>
+    <li><a href="https://github.com/Akuli/python-tutorial">Python programming tutorial for beginners</a></li>
+    <li><a href="https://github.com/louisfb01/start-machine-learning-in-2020">Start Machine Learning</a></li>
+    <li><a href="https://github.com/jerry-git/learn-python3">learn-python3</a></li>
+    <li><a href="https://github.com/gautam1858/python-awesome">python-awesome</a></li>
+    <li><a href="https://github.com/talkpython/100daysofcode-with-python-course">100 DaysOfCode with Python</a></li>
+    <li><a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a></li>
+    <li><a href="https://github.com/pamoroso/free-python-books">Free Python Books</a></li>
+    <li><a href="https://github.com/xxg1413/python">FlyPython</a></li>
+    <li><a href="https://github.com/darkprinx/break-the-ice-with-python">Break The Ice With Python</a></li>
+    <li><a href="https://github.com/Junnplus/awesome-python-books">Awesome Python Books</a></li>
+    <li><a href="https://github.com/trekhleb/learn-python">learn-python</a></li>
+    <li><a href="https://github.com/joaoventura/full-speed-python">full-speed-python</a></li>
+    <li><a href="https://github.com/TheAlgorithms/Python">The Algorithms - Python</a></li>
   </ul>
 </details>
 </details>
@@ -274,6 +300,7 @@ books and the rest by adding contents.
 </summary>
   <ul>
     <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
+    <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
   </ul>
 </details>
 </details>
@@ -294,16 +321,18 @@ books and the rest by adding contents.
      <li><a href="https://www.geeksforgeeks.org/reactjs-tutorials/?ref=lbp">GeeksforGeeks</a></li>
    </ul>
 </details>
-</details>
 
 <details>
 <summary>
 .js(react) repositories
 </summary>
-  <ul>
-    <li><a href="https://github.com/Asabeneh/30-Days-Of-React">30 Days Of React</a></li>
-    <li><a href="https://github.com/Asabeneh/React-For-Everyone">React For Everyone</a></li>
-  </ul>
+    <ul>
+      <li><a href="https://github.com/Asabeneh/30-Days-Of-React">30 Days Of React</a></li>
+      <li><a href="https://github.com/sudheerj/reactjs-interview-questions">React Interview Questions & Answers</a></li>
+      <li><a href="https://github.com/30-seconds/30-seconds-of-react">30 seconds of react</a></li>
+      <li><a href="https://github.com/Asabeneh/React-For-Everyone">React For Everyone</a></li>
+   </ul>
+</details>
 </details>
 
 <details>
@@ -317,8 +346,9 @@ frontend website
 </summary>
     <ul>
       <li><a href="https://www.frontendmentor.io/">Frontend Mentor | Front-end coding challenges using a real-life workflow</a></li>
+      <li><a href="https://thatjsdude.com/interview/">Front end Interview Questions</a></li>
+      <li><a href="https://dev.to/macmacky/70-javascript-interview-questions-5gfi">70 JavaScript Interview Questions</a></li>
    </ul>
-</details>
 </details>
 
 <details>
@@ -327,9 +357,22 @@ frontend courses
 </summary>
     <ul>
       <li><a href="https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign">Foundations of Front-End Web Development</a></li>
+      <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/">Responsive Web Design</a></li>
+      <li><a href="https://www.freecodecamp.org/learn/front-end-libraries/">Front End Development Libraries</a></li>
    </ul>
 </details>
 
+<details>
+<summary>
+frontend repositories
+</summary>
+    <ul>
+      <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front End Checklist</a></li>
+      <li><a href="https://github.com/yangshun/front-end-interview-handbook">Front End Interview Handbook</a></li>
+    <li><a href="https://github.com/MarkoDenic/web-development-resources">Awesome Web Development Resources</a></li>
+    <li><a href="https://github.com/markodenic/awesome-html-css-js-tips">Awesome HTML/CSS/JS Tips</a></li>
+   </ul>
+</details>
 </details>
 
 <details>
@@ -380,13 +423,22 @@ frontend courses
   <ul>
     <li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Dev For Beginners</a></li>
     <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a></li>
-    <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome Beginner Friendly Projects.</a></li>
+    <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome Beginner Friendly Projectsa></li>
     <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
+    <li><a href="https://github.com/Olshansk/interview">Interview</a></li>
+    <li><a href="https://github.com/arialdomartini/Back-End-Developer-Interview-Questions">Back-End Developer Interview Questions</a></li>
+    <li><a href="https://github.com/apptension/developer-handbook">Developer Handbook</a></li>
+    <li><a href="https://github.com/30-seconds/30-seconds-of-interviews">30 seconds of interviews</a></li>
      <li><a href="https://github.com/TheAlgorithms/Algorithms-Explanation">Algorithms-Explanation</a></li>
     <li><a href="https://github.com/jasonbarry/github-actions-starter-pack">GitHub Actions Starter Pack</a></li>
+    <li><a href="https://github.com/DopplerHQ/awesome-interview-questions">Awesome Interviews </a></li>
     <li><a href="https://github.com/public-apis/public-apis">Public APIs </a></li>
+    <li><a href="https://github.com/viraptor/reverse-interview">Reverse interview</a></li>
+    <li><a href="https://github.com/donnemartin/system-design-primer">The System Design Primer</a></li>
+    <li><a href="https://github.com/ashleymcnamara/learn_to_code">learn to code </a></li>
     <li><a href="https://github.com/ripienaar/free-for-dev">Free For Dev</a></li>
+    <li><a href="https://github.com/jayshah19949596/CodingInterviews">Coding Interviews</a></li>
     <li><a href="https://github.com/kamranahmedse/developer-roadmap">Developer Roadmap </a></li>
     <li><a href="https://github.com/sindresorhus/awesome">Awesome</a></li>
     <li><a href="https://github.com/open-guides/og-aws">OG AWS</a></li>
