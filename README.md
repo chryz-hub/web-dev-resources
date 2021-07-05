@@ -335,9 +335,11 @@ books and the rest by adding contents.
 .js(react) website
 </summary>
     <ul>
+      <li><a href="https://reactjs.org/docs/getting-started.html">React Docs</a></li>
       <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
       <li><a href="https://progate.com/courses/react">Progate</a></li>
      <li><a href="https://www.geeksforgeeks.org/reactjs-tutorials/?ref=lbp">GeeksforGeeks</a></li>
+      <li><a href="https://reactforbeginners.com/">React For Beginners</a></li>
    </ul>
 </details>
 
@@ -347,9 +349,16 @@ books and the rest by adding contents.
 </summary>
     <ul>
       <li><a href="https://github.com/Asabeneh/30-Days-Of-React">30 Days Of React</a></li>
+      <li><a href="https://github.com/enaqx/awesome-react">Awesome React</a></li>
+      <li><a href="https://github.com/necolas/react-native-web">React Native for Web</a></li>
+      <li><a href="https://github.com/kriasoft/react-starter-kit">React Starter Kit</a></li>
+      <li><a href="https://github.com/reactjs">React Community</a></li>
+      <li><a href="https://github.com/jondot/awesome-react-native">Awesome React Native</a></li>
       <li><a href="https://github.com/sudheerj/reactjs-interview-questions">React Interview Questions & Answers</a></li>
       <li><a href="https://github.com/30-seconds/30-seconds-of-react">30 seconds of react</a></li>
+      <li><a href="https://github.com/brillout/awesome-react-components">Absolutely Awesome React Components & Libraries</a></li>
       <li><a href="https://github.com/Asabeneh/React-For-Everyone">React For Everyone</a></li>
+      <li><a href="https://github.com/wesbos/React-For-Beginners-Starter-Files">React For Beginners</a></li>
    </ul>
 </details>
 </details>
