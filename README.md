@@ -185,6 +185,8 @@ books and the rest by adding contents.
    <ul>
      <li><a href="https://www.udemy.com/course/free-python/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-n9wcejNnSiOzMzOge8KRYg&utm_medium=udemyads&utm_source=aff-campaign">Python for Absolute Beginners!</a></li>
      <li><a href="https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-_AdSId0p3CHnD.c78AXWJQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=jU79Zysihs4">2021 Complete Python Bootcamp From Zero to Hero in Python</a></li>
+     <li><a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2">Introduction To Computer Science And Programming Using Python</a></li>
+     <li><a href="https://www.youtube.com/watch?v=JJmcL1N2KQs">Python Crash Course by Traversy Media</a></li>
      <li><a href="https://www.udemy.com/course/introduction-to-programming-with-python-beginners-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-l7B_PxBM3rarGy2a37ZOIQ&utm_medium=udemyads&utm_source=aff-campaign">Introduction To Programming with Python</a></li>
      <li><a href="https://www.udemy.com/course/an-introduction-to-python-programming/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nGbPJ1nSdDePVzFs3c.OWA&utm_medium=udemyads&utm_source=aff-campaign">An Introduction to Python Programming</a></li>
      <li><a href="https://www.udemy.com/course/python-3-for-total-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-8o.GeO9j_xbjvsLSjKml6A&utm_medium=udemyads&utm_source=aff-campaign">Learn Python 3.6 for Total Beginners</a></li>
