@@ -31,6 +31,8 @@ You can create segments for html blogs, documentations, repositories, books and 
 </summary>
 <ul>
     <li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
+    <li><a href="https://www.w3resource.com/html/HTML-tutorials.php">HTML Tutorials</a></li>
+    <li><a href="https://www.w3resource.com/html5/introduction.php">HTML5 Tutorials</a></li>
     <li><a href="https://progate.com/courses/html">Progate</a></li>
     <li><a href="https://html5rocks.com"> HTML5 Rocks</a></li>
        <li><a href="https://www.afterhoursprogramming.com/tutorial/html/">After Hours Programming</a></li>
@@ -64,18 +66,19 @@ books and the rest by adding contents.
 .js website
 </summary>
    <ul>
-       <li><a href="https://javascript.info">Javascript.info </a></li>
-       <li><a href="https://www.vanillajavascriptprojects.com/">Javacript Projects</a></li>
-       <li><a href="https://progate.com/courses/es6">Progate</a></li>
-       <li><a href="https://www.codecademy.com/catalog/language/javascript">codecademy</a></li>
-       <li><a href="https://developer.mozilla.org">Mozilla Developers Network</a></li>
-       <li><a href="https://eloquentjavascript.net">Eloquent Javascript</a></li>
-       <li><a href="https://www.edx.org/learn/javascript">Edx</a></li>
-       <li><a href="https://Javascript30.com"> Javascript30</a></li>
-       <li><a href="https://1loc.dev/"> Javascript Utilities</a></li>
-       <li><a href="https://www.programiz.com/javascript">Programiz</a></li>
-       <li><a href="https://www.afterhoursprogramming.com/tutorial/javascript/">After Hours Programming</a></li>
-     <li><a href="https://www.geeksforgeeks.org/javascript-tutorial/?ref=ghm">GeeksforGeeks</a></li>
+      <li><a href="https://javascript.info">Javascript.info </a></li>
+      <li><a href="https://www.vanillajavascriptprojects.com/">Javacript Projects</a></li>
+      <li><a href="https://progate.com/courses/es6">Progate</a></li>
+      <li><a href="https://www.codecademy.com/catalog/language/javascript">codecademy</a></li>
+      <li><a href="https://developer.mozilla.org">Mozilla Developers Network</a></li>
+      <li><a href="https://eloquentjavascript.net">Eloquent Javascript</a></li>
+      <li><a href="https://www.edx.org/learn/javascript">Edx</a></li>
+      <li><a href="https://Javascript30.com"> Javascript30</a></li>
+      <li><a href="https://www.w3resource.com/javascript/javascript.php">Javascript Tutorials</a></li>
+      <li><a href="https://1loc.dev/"> Javascript Utilities</a></li>
+      <li><a href="https://www.programiz.com/javascript">Programiz</a></li>
+      <li><a href="https://www.afterhoursprogramming.com/tutorial/javascript/">After Hours Programming</a></li>
+      <li><a href="https://www.geeksforgeeks.org/javascript-tutorial/?ref=ghm">GeeksforGeeks</a></li>
    </ul>
 </details>
 
@@ -141,6 +144,7 @@ books and the rest by adding contents.
 </summary>
     <ul>
      <li><a href="https://pythonbasics.org">Python Basics</a></li>
+    <li><a href="https://www.w3resource.com/python/python-tutorial.php">Python Tutorials</a></li>
      <li><a href="https://intellipaat.com/blog/tutorial/python-tutorial/">intelliPaat</a></li>
      <li><a href="http://www.alan-g.me.uk/l2p/index.htm">Learning To Program</a></li>
      <li><a href="https://www.afterhoursprogramming.com/tutorial/python/">After Hours Programming</a></li>
@@ -190,6 +194,7 @@ books and the rest by adding contents.
      <li><a href="https://www.freecodecamp.org/learn/data-analysis-with-python/">Data Analysis with Python</a></li>
      <li><a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code - The Complete Python Pro Bootcamp for 2021</a></li>
      <li><a href="https://www.udemy.com/course/python-the-complete-python-developer-course/">Learn Python Programming Masterclass</a></li>
+     <li><a href="https://www.youtube.com/watch?v=vQqisFjAnsE&list=PLpMTHmi814W0nSToTOC0Q18kREOjcJspW">Python Tutorial Based on the Official Documentation</a></li>
      <li><a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">Machine Learning with Python</a></li>
   </ul>
 </details>
@@ -206,6 +211,15 @@ books and the rest by adding contents.
      <li><a href="Talk Python To Me">https://talkpython.fm/</a></li>
      <li><a href="https://realpython.com/podcasts/rpp/">The Real Python Podcast</a></li>
      <li><a href="https://testandcode.com/">Test and Code</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>
+.py blogs 
+</summary>
+   <ul>
+     <li><a href="https://dev.to/aatmaj/launching-the-learning-python-course-5f31">Learning Python course</a></li>
   </ul>
 </details>
 
@@ -253,10 +267,14 @@ books and the rest by adding contents.
     <li><a href="https://github.com/GalvanizeOpenSource/python-resources">python-resources</a></li>
     <li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science   Programming Problems</a></li>
     <li><a href="https://github.com/Asabeneh/Python">Python</a></li>
+    <li><a href="https://github.com/towardsai/tutorials">100 Plus Python Coding Problems With Solutions</a></li>
+    <li><a href="https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions">Python</a></li>
+     <li><a href="https://github.com/amboulouma/python-ultimate-tutorial">Python Ultimate Tutorial</a></li>
     <li><a href="https://github.com/AsciiKay/Beginners-Python-Examples">Beginners-Python-Programs</a></li>
     <li><a href="https://github.com/Akuli/python-tutorial">Python programming tutorial for beginners</a></li>
     <li><a href="https://github.com/louisfb01/start-machine-learning-in-2020">Start Machine Learning</a></li>
     <li><a href="https://github.com/jerry-git/learn-python3">learn-python3</a></li>
+    <li><a href="https://github.com/nairuzabulhul/.CodeBits">CodeBits</a></li>
     <li><a href="https://github.com/gautam1858/python-awesome">python-awesome</a></li>
     <li><a href="https://github.com/talkpython/100daysofcode-with-python-course">100 DaysOfCode with Python</a></li>
     <li><a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a></li>
@@ -285,6 +303,7 @@ books and the rest by adding contents.
     <ul>
         <li><a href="https://css-tricks.com">CSS tricks </a></li>
         <li><a href="https://cssreference.io"> CSS Reference</a></li>
+    <li><a href="https://www.w3resource.com/css/CSS-tutorials.php">CSS Tutorials</a></li>
        <li><a href="https://www.afterhoursprogramming.com/tutorial/css/">After Hours Programming</a></li>
         <li><a href="https://cssportal.com">CSS Portal</a></li>
         <li><a href="https://enjoycss.com">Enjoy CSS</a></li>
@@ -319,6 +338,7 @@ books and the rest by adding contents.
   <ul>
     <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
     <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
+    <li><a href="https://github.com/troxler/awesome-css-frameworks">Awesome CSS Frameworks</a></li>
     <li><a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript">You Don't Need JavaScript</a></li>
   </ul>
 </details>
@@ -396,8 +416,9 @@ frontend repositories
 </summary>
     <ul>
       <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front End Checklist</a></li>
-      <li><a href="https://github.com/yangshun/front-end-interview-handbook">Front End Interview Handbook</a></li>
-    <li><a href="https://github.com/MarkoDenic/web-development-resources">Awesome Web Development Resources</a></li>
+      <li><a href="https://github.com/khan4019/front-end-Interview-Questions">Front end Interview Questions</a></li>
+      <li><a href="https://github.com/yangshun/front-end-interview-handbook">Front End Interview   Handbook</a></li>
+      <li><a href="https://github.com/MarkoDenic/web-development-resources">Awesome Web Development Resources</a></li>
     <li><a href="https://github.com/markodenic/awesome-html-css-js-tips">Awesome HTML/CSS/JS Tips</a></li>
    </ul>
 </details>
