@@ -28,14 +28,16 @@ You can create segments for html blogs, documentations, repositories, books and 
 
 <details>
 <summary> 
-<li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
-<li><a href="https://www.w3resource.com/html/HTML-tutorials.php">HTML Tutorials</a></li>
-<li><a href="https://www.w3resource.com/html5/introduction.php">HTML5 Tutorials</a></li>
-<li><a href="https://progate.com/courses/html">Progate</a></li>
-<li><a href="https://html5rocks.com"> HTML5 Rocks</a></li>
-<li><a href="https://www.afterhoursprogramming.com/tutorial/html/">After Hours Programming</a></li>
-<li><a href="https://htmlreference.io"> HTML5 Reference</a></li>
-<li><a href="https://www.geeksforgeeks.org/html-tutorials/?ref=lbp">GeeksforGeeks</a></li>
+<ul>
+  <li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
+  <li><a href="https://www.w3resource.com/html/HTML-tutorials.php">HTML Tutorials</a></li>
+  <li><a href="https://www.w3resource.com/html5/introduction.php">HTML5 Tutorials</a></li>
+  <li><a href="https://progate.com/courses/html">Progate</a></li>
+  <li><a href="https://html5rocks.com"> HTML5 Rocks</a></li>
+  <li><a href="https://www.afterhoursprogramming.com/tutorial/html/">After Hours Programming</a></li>
+  <li><a href="https://htmlreference.io"> HTML5 Reference</a></li>
+  <li><a href="https://www.geeksforgeeks.org/html-tutorials/?ref=lbp">GeeksforGeeks</a></li>
+</ul>
 </summary>
 <blockquote>
 </blockquote>
