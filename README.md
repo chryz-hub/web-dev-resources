@@ -25,6 +25,7 @@ If you want to contribute to a project and make it better, your help is very wel
 <strong> HTML</strong>
 </summary>
 You can create segments for html blogs, documentations, repositories, books and the rest by adding contents.
+
 <details>
 <summary>
 .html website
@@ -61,6 +62,7 @@ You can create segments for html blogs, documentations, repositories, books and 
 </summary>
 You can create segments for javascript blogs, documentations, repositories,
 books and the rest by adding contents.
+
 <details>
 <summary>
 .js website
@@ -138,6 +140,7 @@ books and the rest by adding contents.
 </summary>
 You can create segments for python blogs, documentations, repositories,
 books and the rest by adding contents.
+
 <details>
 <summary>
 .py website
@@ -298,6 +301,7 @@ books and the rest by adding contents.
 </summary>
 You can create segments for css blogs, documentations, repositories,
 books and the rest by adding contents.
+
 <details>
 <summary>
 .css website
@@ -352,6 +356,7 @@ books and the rest by adding contents.
 </summary>
 You can create segments for react blogs, documentations, repositories,
 books and the rest by adding contents.
+
 <details>
 <summary>
 .js(react) website
@@ -390,6 +395,7 @@ books and the rest by adding contents.
 <strong>Frontend</strong>
 </summary>
 You can create segments for frontend development blogs, documentations, repositories, books and the rest by adding contents.
+
 <details>
 <summary>
 frontend website
