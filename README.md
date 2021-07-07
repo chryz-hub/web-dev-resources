@@ -49,84 +49,76 @@ You can create segments for html blogs, documentations, repositories, books and 
 
 </blockquote></details>
 
-<details>
-<summary>
-<strong> Javascript</strong>
-</summary>
-You can create segments for javascript blogs, documentations, repositories,
-books and the rest by adding contents.
+<details><summary><strong> Javascript </summary><blockquote></strong>
+You can create segments for javascript blogs, documentations, repositories, books and the rest by adding contents.
 <br />
 <br />
-<details>
-<summary>
-.js website
-</summary>
-   <ul>
-      <li><a href="https://javascript.info">Javascript.info </a></li>
-      <li><a href="https://www.vanillajavascriptprojects.com/">Javacript Projects</a></li>
-      <li><a href="https://progate.com/courses/es6">Progate</a></li>
-      <li><a href="https://www.codecademy.com/catalog/language/javascript">codecademy</a></li>
-      <li><a href="https://developer.mozilla.org">Mozilla Developers Network</a></li>
-      <li><a href="https://eloquentjavascript.net">Eloquent Javascript</a></li>
-      <li><a href="https://www.edx.org/learn/javascript">Edx</a></li>
-      <li><a href="https://Javascript30.com"> Javascript30</a></li>
-      <li><a href="https://www.w3resource.com/javascript/javascript.php">Javascript Tutorials</a></li>
-      <li><a href="https://1loc.dev/"> Javascript Utilities</a></li>
-      <li><a href="https://www.programiz.com/javascript">Programiz</a></li>
-      <li><a href="https://www.afterhoursprogramming.com/tutorial/javascript/">After Hours Programming</a></li>
-      <li><a href="https://www.geeksforgeeks.org/javascript-tutorial/?ref=ghm">GeeksforGeeks</a></li>
-   </ul>
-</details>
+<details><summary> .js website </summary><blockquote>
 
-<details>
-<summary>
-.js courses/videos 
-</summary>
-   <ul>
-     <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures</a></li>
-     <li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data Visualization</a></li>
-     <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+javascript+courses&sort=relevance&src=ukw">Free Javascript Courses</a></li>
-  </ul>
-</details>
+<ul>
+  <li><a href="https://javascript.info">Javascript.info </a></li>
+  <li><a href="https://www.vanillajavascriptprojects.com/">Javacript Projects</a></li>
+  <li><a href="https://progate.com/courses/es6">Progate</a></li>
+  <li><a href="https://www.codecademy.com/catalog/language/javascript">codecademy</a></li>
+  <li><a href="https://developer.mozilla.org">Mozilla Developers Network</a></li>
+  <li><a href="https://eloquentjavascript.net">Eloquent Javascript</a></li>
+  <li><a href="https://www.edx.org/learn/javascript">Edx</a></li>
+  <li><a href="https://Javascript30.com"> Javascript30</a></li>
+  <li><a href="https://www.w3resource.com/javascript/javascript.php">Javascript Tutorials</a></li>
+  <li><a href="https://1loc.dev/"> Javascript Utilities</a></li>
+  <li><a href="https://www.programiz.com/javascript">Programiz</a></li>
+  <li><a href="https://www.afterhoursprogramming.com/tutorial/javascript/">After Hours Programming</a></li>
+  <li><a href="https://www.geeksforgeeks.org/javascript-tutorial/?ref=ghm">GeeksforGeeks</a></li>
+</ul>
 
-<details>
-<summary>
-.js repositories
-</summary>
-  <ul>
-    <li><a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">30 Days Of JavaScript</a></li>
-    <li><a href="https://github.com/elsewhencode/project-guidelines">Project Guidelines</a></li>
-    <li><a href="https://github.com/GalvanizeOpenSource/Learn-To-Code-JavaScript">Learn To Code JavaScript</a></li>
-    <li><a href="https://github.com/Asabeneh/JavaScript-for-Everyone">JavaScript For Everyone</a></li>
-    <li><a href="https://github.com/ryanmcdermott/clean-code-javascript">Clean Code JavaScript</a></li>
-    <li><a href="https://github.com/Asabeneh/Functional-Programming-in-JavaScript">Functional Programming in JavaScript</a></li>
-    <li><a href="https://github.com/leonardomso/33-js-concepts">33 Concepts Every JavaScript Developer Should Know</a></li>
-    <li><a href="https://github.com/30-seconds/30-seconds-of-code">30 seconds of code</a></li>
-    <li><a href="https://github.com/john-smilga/javascript-basic-projects">Javascript Basic Projects</a></li>
-    <li><a href="https://github.com/wesbos/beginner-javascript">Beginner JavaScript</a></li>
-    <li><a href="https://github.com/ironhack-labs/lab-javascript-vikings">LAB | JS Vikings</a></li>
-    <li><a href="https://github.com/goldbergyoni/javascript-testing-best-practices">Javascript Testing Best Practices</a></li>
-    <li><a href="https://github.com/lydiahallie/javascript-questions">Javascript Questions</a></li>
-    <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a></li>
-    <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
-    <li><a href="https://github.com/GitbookIO/javascript">Learn JavaScript</a></li>
-    <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript() {...}</a></li>
-    <li><a href="https://github.com/micromata/awesome-javascript-learning">Awesome JavaScript Learning</a></li>
-    <li><a href="https://github.com/javascript-society/javascript-path">JavaScript Path</a></li>
-    <li><a href="https://github.com/sudheerj/javascript-interview-questions">JavaScript Interview Questions & Answers</a></li>
-    <li><a href="https://github.com/humanwhocodes/computer-science-in-javascript">Computer Science in JavaScript</a></li>
-    <li><a href="https://github.com/mgechev/javascript-algorithms">javascript-algorithms</a></li>
-    <li><a href="https://github.com/workshopper/javascripting">JAVASCRIPTING</a></li>
-    <li><a href="https://github.com/loiane/javascript-datastructures-algorithms">Learning JavaScript Data Structures and Algorithms</a></li>
-    <li><a href="https://github.com/TheOdinProject/javascript-exercises">Javascript Exercises</a></li>
-    <li><a href="https://github.com/sorrycc/awesome-javascript">Awesome JavaScript </a></li>
-    <li><a href="https://github.com/coodict/javascript-in-one-pic">JavaScript in one pic</a></li>
-    <li><a href="https://github.com/lydiahallie/javascript-questions">Learn JavaScript</a></li>
-    <li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide() {</a></li>
-     <li><a href="https://github.com/TheAlgorithms/Javascript">The Algorithms - Javascript</a></li>
-  </ul>
-</details>
-</details>
+</blockquote></details>
+
+<details><summary> .js courses/videos </summary><blockquote>
+
+<ul>
+  <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures</a></li>
+  <li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data Visualization</a></li>
+  <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+javascript+courses&sort=relevance&src=ukw">Free Javascript Courses</a></li>
+</ul>
+
+</blockquote></details>
+
+<details><summary> .js repositories </summary><blockquote>
+
+<ul>
+  <li><a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">30 Days Of JavaScript</a></li>
+  <li><a href="https://github.com/elsewhencode/project-guidelines">Project Guidelines</a></li>
+  <li><a href="https://github.com/GalvanizeOpenSource/Learn-To-Code-JavaScript">Learn To Code JavaScript</a></li>
+  <li><a href="https://github.com/Asabeneh/JavaScript-for-Everyone">JavaScript For Everyone</a></li>
+  <li><a href="https://github.com/ryanmcdermott/clean-code-javascript">Clean Code JavaScript</a></li>
+  <li><a href="https://github.com/Asabeneh/Functional-Programming-in-JavaScript">Functional Programming in JavaScript</a></li>
+  <li><a href="https://github.com/leonardomso/33-js-concepts">33 Concepts Every JavaScript Developer Should Know</a></li>
+  <li><a href="https://github.com/30-seconds/30-seconds-of-code">30 seconds of code</a></li>
+  <li><a href="https://github.com/john-smilga/javascript-basic-projects">Javascript Basic Projects</a></li>
+  <li><a href="https://github.com/wesbos/beginner-javascript">Beginner JavaScript</a></li>
+  <li><a href="https://github.com/ironhack-labs/lab-javascript-vikings">LAB | JS Vikings</a></li>
+  <li><a href="https://github.com/goldbergyoni/javascript-testing-best-practices">Javascript Testing Best Practices</a></li>
+  <li><a href="https://github.com/lydiahallie/javascript-questions">Javascript Questions</a></li>
+  <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a></li>
+  <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
+  <li><a href="https://github.com/GitbookIO/javascript">Learn JavaScript</a></li>
+  <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript() {...}</a></li>
+  <li><a href="https://github.com/micromata/awesome-javascript-learning">Awesome JavaScript Learning</a></li>
+  <li><a href="https://github.com/javascript-society/javascript-path">JavaScript Path</a></li>
+  <li><a href="https://github.com/sudheerj/javascript-interview-questions">JavaScript Interview Questions & Answers</a></li>
+  <li><a href="https://github.com/humanwhocodes/computer-science-in-javascript">Computer Science in JavaScript</a></li>
+  <li><a href="https://github.com/mgechev/javascript-algorithms">javascript-algorithms</a></li>
+  <li><a href="https://github.com/workshopper/javascripting">JAVASCRIPTING</a></li>
+  <li><a href="https://github.com/loiane/javascript-datastructures-algorithms">Learning JavaScript Data Structures and Algorithms</a></li>
+  <li><a href="https://github.com/TheOdinProject/javascript-exercises">Javascript Exercises</a></li>
+  <li><a href="https://github.com/sorrycc/awesome-javascript">Awesome JavaScript </a></li>
+  <li><a href="https://github.com/coodict/javascript-in-one-pic">JavaScript in one pic</a></li>
+  <li><a href="https://github.com/lydiahallie/javascript-questions">Learn JavaScript</a></li>
+  <li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide() {</a></li>
+  <li><a href="https://github.com/TheAlgorithms/Javascript">The Algorithms - Javascript</a></li>
+</ul>
+
+</blockquote></details>
 
 <details>
 <summary>
