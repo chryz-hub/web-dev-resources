@@ -21,10 +21,10 @@ If you want to contribute to a project and make it better, your help is very wel
 ## Web-Dev Resources
 
 <details><summary><strong> HTML </summary><blockquote></strong>
-<strong>You can create segments for html blogs, documentations, repositories, books and the rest by adding contents.</strong>
+You can create segments for html blogs, documentations, repositories, books and the rest by adding contents.
 <br />
 <br />
-<details><summary><strong>.html websites </summary><blockquote></strong>
+<details><summary>.html websites </summary><blockquote>
 <ul>
   <li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
   <li><a href="https://www.w3resource.com/html/HTML-tutorials.php">HTML Tutorials</a></li>
@@ -37,7 +37,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> .html courses/videos </summary><blockquote></strong>
+<details><summary> .html courses/videos </summary><blockquote>
 <ul>
   <li><a href="https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-wJX42730UtT4Yv9feNvCuQ&utm_medium=udemyads&utm_source=aff-campaign">Web Development By Doing: HTML / CSS From Scratch</a></li>
   <li><a href="https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-_DOkslmcJoCEChR4iCx5bw&utm_medium=udemyads&utm_source=aff-campaign">Learn HTML & CSS: How To Start Your Web Development Career</a></li>
@@ -47,10 +47,10 @@ If you want to contribute to a project and make it better, your help is very wel
 </details>
 
 <details><summary><strong> Javascript </summary><blockquote></strong>
-<strong>You can create segments for javascript blogs, documentations, repositories, books and the rest by adding contents.</strong>
+You can create segments for javascript blogs, documentations, repositories, books and the rest by adding contents.
 <br />
 <br />
-<details><summary><strong> .js websites </summary><blockquote></strong>
+<details><summary> .js websites </summary><blockquote>
 <ul>
   <li><a href="https://javascript.info">Javascript.info </a></li>
   <li><a href="https://www.vanillajavascriptprojects.com/">Javacript Projects</a></li>
@@ -68,7 +68,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong>.js courses/videos </summary><blockquote></strong>
+<details><summary> .js courses/videos </summary><blockquote>
 <ul>
   <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures</a></li>
   <li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data Visualization</a></li>
@@ -76,7 +76,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> .js repositories </summary><blockquote></strong>
+<details><summary> .js repositories </summary><blockquote>
 <ul>
   <li><a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">30 Days Of JavaScript</a></li>
   <li><a href="https://github.com/elsewhencode/project-guidelines">Project Guidelines</a></li>
@@ -113,10 +113,10 @@ If you want to contribute to a project and make it better, your help is very wel
 </details>
 
 <details><summary><strong> Python </summary><blockquote></strong>
-<strong>You can create segments for python blogs, documentations, repositories, books and the rest by adding contents.</strong>
+You can create segments for python blogs, documentations, repositories, books and the rest by adding contents.
 <br />
 <br />
-<details><summary><strong> .py websites </summary><blockquote></strong>
+<details><summary> .py websites </summary><blockquote>
 <ul>
   <li><a href="https://pythonbasics.org">Python Basics</a></li>
   <li><a href="https://www.w3resource.com/python/python-tutorial.php">Python Tutorials</a></li>
@@ -153,7 +153,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> .py courses/videos </summary><blockquote></strong>
+<details><summary> .py courses/videos </summary><blockquote>
 <ul>
   <li><a href="https://www.udemy.com/course/free-python/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-n9wcejNnSiOzMzOge8KRYg&utm_medium=udemyads&utm_source=aff-campaign">Python for Absolute Beginners!</a></li>
   <li><a href="https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-_AdSId0p3CHnD.c78AXWJQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=jU79Zysihs4">2021 Complete Python Bootcamp From Zero to Hero in Python</a></li>
@@ -173,7 +173,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> .py repositories </summary><blockquote></strong>
+<details><summary> .py repositories </summary><blockquote>
 <ul>
  <li><a href="https://github.com/realpython/python-guide">Hitchhiker's Guide to Python</a></li>
  <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
@@ -206,7 +206,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> .py podcasts </summary><blockquote></strong>
+<details><summary> .py podcasts </summary><blockquote>
 <ul>
   <li><a href="https://djangochat.com/">Django Chat</a></li>
   <li><a href="https://podcastinit.com/">Podcast.\_\_init__</a></li>
@@ -218,13 +218,13 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> .py blogs </summary><blockquote></strong>
+<details><summary> .py blogs </summary><blockquote>
 <ul>
   <li><a href="https://dev.to/aatmaj/launching-the-learning-python-course-5f31">Learning Python course</a></li>
 </ul>
 </blockquote></details>
 
-<details><summary><strong> .py books </summary><blockquote></strong>
+<details><summary> .py books </summary><blockquote>
 <ul>
   <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python</a></li>
   <li><a href="https://www.pdfdrive.com/learning-python-powerful-object-oriented-programming-e169780738.html">Learning Python: powerful object-oriented programming</a></li>
@@ -240,7 +240,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> .py newsletters </summary><blockquote></strong>
+<details><summary> .py newsletters </summary><blockquote>
 <ul>
   <li><a href="http://pycoders.com/">Pycoder's Weekly</a></li>
   <li><a href="https://realpython.com/python-tricks/">Python Tricks</a></li>
@@ -249,11 +249,12 @@ If you want to contribute to a project and make it better, your help is very wel
 </blockquote></details>
 </details>
 
+
 <details><summary><strong> CSS </summary><blockquote></strong>
-<strong>You can create segments for css blogs, documentations, repositories, books and the rest by adding contents.</strong>
+You can create segments for css blogs, documentations, repositories, books and the rest by adding contents.
 <br />
 <br />
-<details><summary><strong> .css websites </summary><blockquote></strong>
+<details><summary> .css websites </summary><blockquote>
 <ul>
   <li><a href="https://css-tricks.com">CSS tricks </a></li>
   <li><a href="https://cssreference.io"> CSS Reference</a></li>
@@ -269,7 +270,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> .css games </summary><blockquote></strong>
+<details><summary> .css games </summary><blockquote>
 <ul>
   <li><a href="https://cssbattle.dev">CSS Battle</a></li>
   <li><a href="https://flukeout.github.io/"> CSS Diner</a></li>
@@ -282,7 +283,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> .css repositories </summary><blockquote></strong>
+<details><summary> .css repositories </summary><blockquote>
 <ul>
   <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
   <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
@@ -292,11 +293,12 @@ If you want to contribute to a project and make it better, your help is very wel
 </blockquote></details>
 </details>
 
+
 <details><summary><strong> React JS </summary><blockquote></strong>
-<strong>You can create segments for react blogs, documentations, repositories, books and the rest by adding contents.</strong>
+You can create segments for react blogs, documentations, repositories, books and the rest by adding contents.
 <br />
 <br />
-<details><summary><strong> .js(react) websites </summary><blockquote></strong>
+<details><summary> .js(react) websites </summary><blockquote>
 <ul>
   <li><a href="https://reactjs.org/docs/getting-started.html">React Docs</a></li>
   <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
@@ -306,7 +308,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> .js(react) repositories </summary><blockquote></strong>
+<details><summary> .js(react) repositories </summary><blockquote>
 <ul>
   <li><a href="https://github.com/Asabeneh/30-Days-Of-React">30 Days Of React</a></li>
   <li><a href="https://github.com/enaqx/awesome-react">Awesome React</a></li>
@@ -322,7 +324,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> .css repositories </summary><blockquote></strong>
+<details><summary> .css repositories </summary><blockquote>
 <ul>
   <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
   <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
@@ -334,10 +336,10 @@ If you want to contribute to a project and make it better, your help is very wel
 
 
 <details><summary><strong> Frontend </summary><blockquote></strong>
-<strong>You can create segments for frontend development blogs, documentations, repositories, books and the rest by adding contents.</strong>
+You can create segments for frontend development blogs, documentations, repositories, books and the rest by adding contents.
 <br />
 <br />
-<details><summary><strong> frontend websites </summary><blockquote></strong>
+<details><summary> frontend websites </summary><blockquote>
 <ul>
   <li><a href="https://www.frontendmentor.io/">Frontend Mentor | Front-end coding challenges using a real-life workflow</a></li>
   <li><a href="https://thatjsdude.com/interview/">Front end Interview Questions</a></li>
@@ -345,7 +347,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> frontend courses/videos </summary><blockquote></strong>
+<details><summary> frontend courses/videos </summary><blockquote>
 <ul>
   <li><a href="https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign">Foundations of Front-End Web Development</a></li>
   <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/">Responsive Web Design</a></li>
@@ -353,7 +355,7 @@ If you want to contribute to a project and make it better, your help is very wel
 </ul>
 </blockquote></details>
 
-<details><summary><strong> frontend repositories </summary><blockquote></strong>
+<details><summary> frontend repositories </summary><blockquote>
 <ul>
   <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front End Checklist</a></li>
   <li><a href="https://github.com/khan4019/front-end-Interview-Questions">Front end Interview Questions</a></li>
