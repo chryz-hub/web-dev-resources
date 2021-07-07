@@ -24,7 +24,7 @@ If you want to contribute to a project and make it better, your help is very wel
 You can create segments for html blogs, documentations, repositories, books and the rest by adding contents.
 <br />
 <br />
-<details><summary> .html website </summary><blockquote>
+<details><summary> .html websites </summary><blockquote>
 
 <ul>
   <li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
@@ -54,7 +54,7 @@ You can create segments for html blogs, documentations, repositories, books and 
 You can create segments for javascript blogs, documentations, repositories, books and the rest by adding contents.
 <br />
 <br />
-<details><summary> .js website </summary><blockquote>
+<details><summary> .js websites </summary><blockquote>
 
 <ul>
   <li><a href="https://javascript.info">Javascript.info </a></li>
@@ -120,7 +120,7 @@ You can create segments for javascript blogs, documentations, repositories, book
 </ul>
 
 </blockquote></details>
-</blockquote></details>
+</details>
 
 
 <details>
