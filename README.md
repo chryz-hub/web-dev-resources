@@ -27,8 +27,9 @@ If you want to contribute to a project and make it better, your help is very wel
 
 <br />
 You can create segments for html blogs, documentations, repositories, books and the rest by adding contents.
-<br />
+
 <details>
+<br />
 <summary>
 .html website
 </summary>
