@@ -25,6 +25,7 @@ You can create segments for html blogs, documentations, repositories, books and 
 <br />
 <br />
 <details><summary> .html website </summary><blockquote>
+<details>
 <summary> 
 <ul>
   <li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
