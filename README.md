@@ -24,8 +24,10 @@ If you want to contribute to a project and make it better, your help is very wel
 <summary>
 <strong> HTML</strong>
 </summary>
+You can create segments for html blogs, documentations, repositories, books and the rest by adding contents.
+
 <br />
-<br />
+
 <details>
 <summary>
 .html website
