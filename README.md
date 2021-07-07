@@ -26,26 +26,17 @@ You can create segments for html blogs, documentations, repositories, books and 
 <br />
 <details><summary> .html website </summary><blockquote>
 
-<details><summary> nest1 </summary><blockquote>
+<ul>
+  <li><a href="https://html5doctor.com"> HTML5 Doctor</a></li>
+  <li><a href="https://www.w3resource.com/html/HTML-tutorials.php">HTML Tutorials</a></li>
+  <li><a href="https://www.w3resource.com/html5/introduction.php">HTML5 Tutorials</a></li>
+  <li><a href="https://progate.com/courses/html">Progate</a></li>
+  <li><a href="https://html5rocks.com"> HTML5 Rocks</a></li>
+  <li><a href="https://www.afterhoursprogramming.com/tutorial/html/">After Hours Programming</a></li>
+  <li><a href="https://htmlreference.io"> HTML5 Reference</a></li>
+  <li><a href="https://www.geeksforgeeks.org/html-tutorials/?ref=lbp">GeeksforGeeks</a></li>
+</ul>
 
-~~~
-a
-b
-c
-~~~
-</blockquote></details>
-<details><summary> nest2 </summary><blockquote>
-
-a
-b
-c
-</blockquote></details>
-
-~~~
-file1
-file2
-file3
-~~~
 </blockquote></details>
 
 <details><summary> boot </summary><blockquote>
