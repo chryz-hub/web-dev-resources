@@ -249,150 +249,124 @@ You can create segments for python blogs, documentations, repositories, books an
 </blockquote></details>
 </details>
 
-<details>
-<summary>
-<strong> CSS</strong>
-</summary>
-You can create segments for css blogs, documentations, repositories,
-books and the rest by adding contents.
+
+<details><summary><strong> CSS </summary><blockquote></strong>
+You can create segments for css blogs, documentations, repositories, books and the rest by adding contents.
 <br />
 <br />
-<details>
-<summary>
-.css website
-</summary>
-    <ul>
-        <li><a href="https://css-tricks.com">CSS tricks </a></li>
-        <li><a href="https://cssreference.io"> CSS Reference</a></li>
-    <li><a href="https://www.w3resource.com/css/CSS-tutorials.php">CSS Tutorials</a></li>
-       <li><a href="https://www.afterhoursprogramming.com/tutorial/css/">After Hours Programming</a></li>
-        <li><a href="https://cssportal.com">CSS Portal</a></li>
-        <li><a href="https://enjoycss.com">Enjoy CSS</a></li>
-        <li><a href="https://cssdeck.com">CSS Deck</a></li>
-        <li><a href="https://webcode.tools/css-generator">Web Tools</a></li>
-        <li><a href="https://csstriggers.com">CSS Triggers</a></li>
-        <li><a href="https://www.geeksforgeeks.org/css-tutorials/?ref=lbp">GeeksforGeeks</a></li>
-        <li><a href="https://cubic-bezier.com">Cubic Bezier</a></li>
-    </ul>
-</details>
-    
-<details>
-<summary>
-.css games
-</summary>
-    <ul>
-        <li><a href="https://cssbattle.dev">CSS Battle</a></li>
-        <li><a href="https://flukeout.github.io/"> CSS Diner</a></li>
-        <li><a href="https://gridcritters.com">Grid Critters</a></li>
-        <li><a href="https://cssgridgraden.com">Grid Garden</a></li>
-        <li><a href="https://codepip.com">Codepip</a></li>
-        <li><a href="https://flexboxdefense.com">Flexbox Defense</a></li>
-        <li><a href="https://mastery.games/flexboxzombies/">Flexbox Zombies</a></li>
-        <li><a href="https://flexboxfroggy.com">Flexbox Froggy</a></li>
-    </ul>
+<details><summary> .css websites </summary><blockquote>
+<ul>
+  <li><a href="https://css-tricks.com">CSS tricks </a></li>
+  <li><a href="https://cssreference.io"> CSS Reference</a></li>
+  <li><a href="https://www.w3resource.com/css/CSS-tutorials.php">CSS Tutorials</a></li>
+  <li><a href="https://www.afterhoursprogramming.com/tutorial/css/">After Hours Programming</a></li>
+  <li><a href="https://cssportal.com">CSS Portal</a></li>
+  <li><a href="https://enjoycss.com">Enjoy CSS</a></li>
+  <li><a href="https://cssdeck.com">CSS Deck</a></li>
+  <li><a href="https://webcode.tools/css-generator">Web Tools</a></li>
+  <li><a href="https://csstriggers.com">CSS Triggers</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css-tutorials/?ref=lbp">GeeksforGeeks</a></li>
+  <li><a href="https://cubic-bezier.com">Cubic Bezier</a></li>
+</ul>
+</blockquote></details>
+
+<details><summary> .css games </summary><blockquote>
+<ul>
+  <li><a href="https://cssbattle.dev">CSS Battle</a></li>
+  <li><a href="https://flukeout.github.io/"> CSS Diner</a></li>
+  <li><a href="https://gridcritters.com">Grid Critters</a></li>
+  <li><a href="https://cssgridgraden.com">Grid Garden</a></li>
+  <li><a href="https://codepip.com">Codepip</a></li>
+  <li><a href="https://flexboxdefense.com">Flexbox Defense</a></li>
+  <li><a href="https://mastery.games/flexboxzombies/">Flexbox Zombies</a></li>
+  <li><a href="https://flexboxfroggy.com">Flexbox Froggy</a></li>
+</ul>
+</blockquote></details>
+
+<details><summary> .css repositories </summary><blockquote>
+<ul>
+  <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
+  <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
+  <li><a href="https://github.com/troxler/awesome-css-frameworks">Awesome CSS Frameworks</a></li>
+  <li><a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript">You Don't Need JavaScript</a></li>
+</ul>
+</blockquote></details>
 </details>
 
-<details>
-<summary>
-.css repositories
-</summary>
-  <ul>
-    <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
-    <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
-    <li><a href="https://github.com/troxler/awesome-css-frameworks">Awesome CSS Frameworks</a></li>
-    <li><a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript">You Don't Need JavaScript</a></li>
-  </ul>
-</details>
-</details>
 
-<details>
-<summary>
-<strong>React JS</strong>
-</summary>
-You can create segments for react blogs, documentations, repositories,
-books and the rest by adding contents.
+<details><summary><strong> React JS </summary><blockquote></strong>
+You can create segments for react blogs, documentations, repositories, books and the rest by adding contents.
 <br />
 <br />
-<details>
-<summary>
-.js(react) website
-</summary>
-    <ul>
-      <li><a href="https://reactjs.org/docs/getting-started.html">React Docs</a></li>
-      <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
-      <li><a href="https://progate.com/courses/react">Progate</a></li>
-     <li><a href="https://www.geeksforgeeks.org/reactjs-tutorials/?ref=lbp">GeeksforGeeks</a></li>
-      <li><a href="https://reactforbeginners.com/">React For Beginners</a></li>
-   </ul>
+<details><summary> .js(react) websites </summary><blockquote>
+<ul>
+  <li><a href="https://reactjs.org/docs/getting-started.html">React Docs</a></li>
+  <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
+  <li><a href="https://progate.com/courses/react">Progate</a></li>
+  <li><a href="https://www.geeksforgeeks.org/reactjs-tutorials/?ref=lbp">GeeksforGeeks</a></li>
+  <li><a href="https://reactforbeginners.com/">React For Beginners</a></li>
+</ul>
+</blockquote></details>
+
+<details><summary> .js(react) repositories </summary><blockquote>
+<ul>
+  <li><a href="https://github.com/Asabeneh/30-Days-Of-React">30 Days Of React</a></li>
+  <li><a href="https://github.com/enaqx/awesome-react">Awesome React</a></li>
+  <li><a href="https://github.com/necolas/react-native-web">React Native for Web</a></li>
+  <li><a href="https://github.com/kriasoft/react-starter-kit">React Starter Kit</a></li>
+  <li><a href="https://github.com/reactjs">React Community</a></li>
+  <li><a href="https://github.com/jondot/awesome-react-native">Awesome React Native</a></li>
+  <li><a href="https://github.com/sudheerj/reactjs-interview-questions">React Interview Questions & Answers</a></li>
+  <li><a href="https://github.com/30-seconds/30-seconds-of-react">30 seconds of react</a></li>
+  <li><a href="https://github.com/brillout/awesome-react-components">Absolutely Awesome React Components & Libraries</a></li>
+  <li><a href="https://github.com/Asabeneh/React-For-Everyone">React For Everyone</a></li>
+  <li><a href="https://github.com/wesbos/React-For-Beginners-Starter-Files">React For Beginners</a></li>
+</ul>
+</blockquote></details>
+
+<details><summary> .css repositories </summary><blockquote>
+<ul>
+  <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
+  <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
+  <li><a href="https://github.com/troxler/awesome-css-frameworks">Awesome CSS Frameworks</a></li>
+  <li><a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript">You Don't Need JavaScript</a></li>
+</ul>
+</blockquote></details>
 </details>
 
-<details>
-<summary>
-.js(react) repositories
-</summary>
-    <ul>
-      <li><a href="https://github.com/Asabeneh/30-Days-Of-React">30 Days Of React</a></li>
-      <li><a href="https://github.com/enaqx/awesome-react">Awesome React</a></li>
-      <li><a href="https://github.com/necolas/react-native-web">React Native for Web</a></li>
-      <li><a href="https://github.com/kriasoft/react-starter-kit">React Starter Kit</a></li>
-      <li><a href="https://github.com/reactjs">React Community</a></li>
-      <li><a href="https://github.com/jondot/awesome-react-native">Awesome React Native</a></li>
-      <li><a href="https://github.com/sudheerj/reactjs-interview-questions">React Interview Questions & Answers</a></li>
-      <li><a href="https://github.com/30-seconds/30-seconds-of-react">30 seconds of react</a></li>
-      <li><a href="https://github.com/brillout/awesome-react-components">Absolutely Awesome React Components & Libraries</a></li>
-      <li><a href="https://github.com/Asabeneh/React-For-Everyone">React For Everyone</a></li>
-      <li><a href="https://github.com/wesbos/React-For-Beginners-Starter-Files">React For Beginners</a></li>
-   </ul>
-</details>
-</details>
 
-<details>
-<summary>
-<strong>Frontend</strong>
-</summary>
+<details><summary><strong> Frontend </summary><blockquote></strong>
 You can create segments for frontend development blogs, documentations, repositories, books and the rest by adding contents.
 <br />
 <br />
-<details>
-<summary>
-frontend website
-</summary>
-    <ul>
-      <li><a href="https://www.frontendmentor.io/">Frontend Mentor | Front-end coding challenges using a real-life workflow</a></li>
-      <li><a href="https://thatjsdude.com/interview/">Front end Interview Questions</a></li>
-      <li><a href="https://dev.to/macmacky/70-javascript-interview-questions-5gfi">70 JavaScript Interview Questions</a></li>
-   </ul>
+<details><summary> frontend websites </summary><blockquote>
+<ul>
+  <li><a href="https://www.frontendmentor.io/">Frontend Mentor | Front-end coding challenges using a real-life workflow</a></li>
+  <li><a href="https://thatjsdude.com/interview/">Front end Interview Questions</a></li>
+  <li><a href="https://dev.to/macmacky/70-javascript-interview-questions-5gfi">70 JavaScript Interview Questions</a></li>
+</ul>
+</blockquote></details>
+
+<details><summary> frontend courses/videos </summary><blockquote>
+<ul>
+  <li><a href="https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign">Foundations of Front-End Web Development</a></li>
+  <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/">Responsive Web Design</a></li>
+  <li><a href="https://www.freecodecamp.org/learn/front-end-libraries/">Front End Development Libraries</a></li>
+</ul>
+</blockquote></details>
+
+<details><summary> frontend repositories </summary><blockquote>
+<ul>
+  <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front End Checklist</a></li>
+  <li><a href="https://github.com/khan4019/front-end-Interview-Questions">Front end Interview Questions</a></li>
+  <li><a href="https://github.com/yangshun/front-end-interview-handbook">Front End Interview   Handbook</a></li>
+  <li><a href="https://github.com/MarkoDenic/web-development-resources">Awesome Web Development Resources</a></li>
+  <li><a href="https://github.com/markodenic/awesome-html-css-js-tips">Awesome HTML/CSS/JS Tips</a></li>
+</ul>
+</blockquote></details>
 </details>
 
-<details>
-<summary>
-frontend courses
-</summary>
-    <ul>
-      <li><a href="https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign">Foundations of Front-End Web Development</a></li>
-      <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/">Responsive Web Design</a></li>
-      <li><a href="https://www.freecodecamp.org/learn/front-end-libraries/">Front End Development Libraries</a></li>
-   </ul>
-</details>
-
-<details>
-<summary>
-frontend repositories
-</summary>
-    <ul>
-      <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front End Checklist</a></li>
-      <li><a href="https://github.com/khan4019/front-end-Interview-Questions">Front end Interview Questions</a></li>
-      <li><a href="https://github.com/yangshun/front-end-interview-handbook">Front End Interview   Handbook</a></li>
-      <li><a href="https://github.com/MarkoDenic/web-development-resources">Awesome Web Development Resources</a></li>
-    <li><a href="https://github.com/markodenic/awesome-html-css-js-tips">Awesome HTML/CSS/JS Tips</a></li>
-   </ul>
-</details>
-</details>
-
-<details>
-<summary>
-<strong>Coding Challenge Websites</strong>
-</summary>
+<details><summary><strong> Coding Challenge Websites </summary><blockquote></strong>
   <ul>
     <li><a href="https://www.topcoder.com/challenges/?pageIndex=1">TopCoder</a></li>
     <li><a href="https://www.coderbyte.com/">Coderbyte </a></li>
@@ -428,13 +402,11 @@ frontend repositories
     <li><a href="https://dare2compete.com/">Dare2Compete </a></li>
     <li><a href="https://judocoder.com/challenges/">JudoCoder </a></li>
   </ul>
+</blockquote></details>
 </details>
 
-<details>
-<summary>
-<strong>Repositories To Enhance Your Programming Skills</strong>
-</summary>
-  <ul>
+<details><summary><strong> Repositories To Enhance Your Programming Skills </summary><blockquote></strong>
+<ul>
     <li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Dev For Beginners</a></li>
     <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a></li>
     <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome Beginner Friendly Projects</li>
@@ -459,5 +431,5 @@ frontend repositories
     <li><a href="https://github.com/goldbergyoni/nodebestpractices">Node Best Practices</a></li>
     <li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
   </ul>
-</details>
+</blockquote></details>
 </details>
