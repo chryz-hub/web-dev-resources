@@ -175,36 +175,34 @@ You can create segments for python blogs, documentations, repositories, books an
 
 <details><summary> .py repositories </summary><blockquote>
 <ul>
-  <li><a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">30 Days Of JavaScript</a></li>
-  <li><a href="https://github.com/elsewhencode/project-guidelines">Project Guidelines</a></li>
-  <li><a href="https://github.com/GalvanizeOpenSource/Learn-To-Code-JavaScript">Learn To Code JavaScript</a></li>
-  <li><a href="https://github.com/Asabeneh/JavaScript-for-Everyone">JavaScript For Everyone</a></li>
-  <li><a href="https://github.com/ryanmcdermott/clean-code-javascript">Clean Code JavaScript</a></li>
-  <li><a href="https://github.com/Asabeneh/Functional-Programming-in-JavaScript">Functional Programming in JavaScript</a></li>
-  <li><a href="https://github.com/leonardomso/33-js-concepts">33 Concepts Every JavaScript Developer Should Know</a></li>
-  <li><a href="https://github.com/30-seconds/30-seconds-of-code">30 seconds of code</a></li>
-  <li><a href="https://github.com/john-smilga/javascript-basic-projects">Javascript Basic Projects</a></li>
-  <li><a href="https://github.com/wesbos/beginner-javascript">Beginner JavaScript</a></li>
-  <li><a href="https://github.com/ironhack-labs/lab-javascript-vikings">LAB | JS Vikings</a></li>
-  <li><a href="https://github.com/goldbergyoni/javascript-testing-best-practices">Javascript Testing Best Practices</a></li>
-  <li><a href="https://github.com/lydiahallie/javascript-questions">Javascript Questions</a></li>
-  <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a></li>
-  <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
-  <li><a href="https://github.com/GitbookIO/javascript">Learn JavaScript</a></li>
-  <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript() {...}</a></li>
-  <li><a href="https://github.com/micromata/awesome-javascript-learning">Awesome JavaScript Learning</a></li>
-  <li><a href="https://github.com/javascript-society/javascript-path">JavaScript Path</a></li>
-  <li><a href="https://github.com/sudheerj/javascript-interview-questions">JavaScript Interview Questions & Answers</a></li>
-  <li><a href="https://github.com/humanwhocodes/computer-science-in-javascript">Computer Science in JavaScript</a></li>
-  <li><a href="https://github.com/mgechev/javascript-algorithms">javascript-algorithms</a></li>
-  <li><a href="https://github.com/workshopper/javascripting">JAVASCRIPTING</a></li>
-  <li><a href="https://github.com/loiane/javascript-datastructures-algorithms">Learning JavaScript Data Structures and Algorithms</a></li>
-  <li><a href="https://github.com/TheOdinProject/javascript-exercises">Javascript Exercises</a></li>
-  <li><a href="https://github.com/sorrycc/awesome-javascript">Awesome JavaScript </a></li>
-  <li><a href="https://github.com/coodict/javascript-in-one-pic">JavaScript in one pic</a></li>
-  <li><a href="https://github.com/lydiahallie/javascript-questions">Learn JavaScript</a></li>
-  <li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide() {</a></li>
-  <li><a href="https://github.com/TheAlgorithms/Javascript">The Algorithms - Javascript</a></li>
+ <li><a href="https://github.com/realpython/python-guide">Hitchhiker's Guide to Python</a></li>
+ <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
+ <li><a href="https://github.com/rasbt/python_reference">Python Reference</a></li>
+ <li><a href="https://github.com/quobit/awesome-python-in-education">awesome-python-in-education</a></li>
+ <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a></li>
+ <li><a href="https://github.com/30-seconds/30-seconds-of-python">30 seconds of python</a></li>
+ <li><a href="https://github.com/GalvanizeOpenSource/python-resources">python-resources</a></li>
+ <li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science   Programming Problems</a></li>
+ <li><a href="https://github.com/Asabeneh/Python">Python</a></li>
+ <li><a href="https://github.com/towardsai/tutorials">100 Plus Python Coding Problems With Solutions</a></li>
+ <li><a href="https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions">Python</a></li>
+ <li><a href="https://github.com/amboulouma/python-ultimate-tutorial">Python Ultimate Tutorial</a></li>
+ <li><a href="https://github.com/AsciiKay/Beginners-Python-Examples">Beginners-Python-Programs</a></li>
+ <li><a href="https://github.com/Akuli/python-tutorial">Python programming tutorial for beginners</a></li>
+ <li><a href="https://github.com/louisfb01/start-machine-learning-in-2020">Start Machine Learning</a></li>
+ <li><a href="https://github.com/jerry-git/learn-python3">learn-python3</a></li>
+ <li><a href="https://github.com/nairuzabulhul/.CodeBits">CodeBits</a></li>
+ <li><a href="https://github.com/gautam1858/python-awesome">python-awesome</a></li>
+ <li><a href="https://github.com/talkpython/100daysofcode-with-python-course">100 DaysOfCode with Python</a></li>
+ <li><a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a></li>
+ <li> <a href ="https://github.com/ForrestKnight/open-source-cs-python">The Python Open Source Computer Science Degree</a></li>
+ <li><a href="https://github.com/pamoroso/free-python-books">Free Python Books</a></li>
+ <li><a href="https://github.com/xxg1413/python">FlyPython</a></li>
+ <li><a href="https://github.com/darkprinx/break-the-ice-with-python">Break The Ice With Python</a></li>
+ <li><a href="https://github.com/Junnplus/awesome-python-books">Awesome Python Books</a></li>
+ <li><a href="https://github.com/trekhleb/learn-python">learn-python</a></li>
+ <li><a href="https://github.com/joaoventura/full-speed-python">full-speed-python</a></li>
+ <li><a href="https://github.com/TheAlgorithms/Python">The Algorithms - Python</a></li>
 </ul>
 </blockquote></details>
 
@@ -247,39 +245,6 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="http://pycoders.com/">Pycoder's Weekly</a></li>
   <li><a href="https://realpython.com/python-tricks/">Python Tricks</a></li>
   <li><a href="http://www.pythonweekly.com/">Python Weekly</a></li>
-</ul>
-</blockquote></details>
-
-<details><summary> .py repositories </summary><blockquote>
-<ul>
- <li><a href="https://github.com/realpython/python-guide">Hitchhiker's Guide to Python</a></li>
-<li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
-<li><a href="https://github.com/rasbt/python_reference">Python Reference</a></li>
-<li><a href="https://github.com/quobit/awesome-python-in-education">awesome-python-in-education</a></li>
-<li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a></li>
-<li><a href="https://github.com/30-seconds/30-seconds-of-python">30 seconds of python</a></li>
-<li><a href="https://github.com/GalvanizeOpenSource/python-resources">python-resources</a></li>
-<li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science   Programming Problems</a></li>
-<li><a href="https://github.com/Asabeneh/Python">Python</a></li>
-<li><a href="https://github.com/towardsai/tutorials">100 Plus Python Coding Problems With Solutions</a></li>
-<li><a href="https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions">Python</a></li>
-  <li><a href="https://github.com/amboulouma/python-ultimate-tutorial">Python Ultimate Tutorial</a></li>
-<li><a href="https://github.com/AsciiKay/Beginners-Python-Examples">Beginners-Python-Programs</a></li>
-<li><a href="https://github.com/Akuli/python-tutorial">Python programming tutorial for beginners</a></li>
-<li><a href="https://github.com/louisfb01/start-machine-learning-in-2020">Start Machine Learning</a></li>
-<li><a href="https://github.com/jerry-git/learn-python3">learn-python3</a></li>
-<li><a href="https://github.com/nairuzabulhul/.CodeBits">CodeBits</a></li>
-<li><a href="https://github.com/gautam1858/python-awesome">python-awesome</a></li>
-<li><a href="https://github.com/talkpython/100daysofcode-with-python-course">100 DaysOfCode with Python</a></li>
-<li><a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a></li>
-<li> <a href ="https://github.com/ForrestKnight/open-source-cs-python">The Python Open Source Computer Science Degree</a></li>
-<li><a href="https://github.com/pamoroso/free-python-books">Free Python Books</a></li>
-<li><a href="https://github.com/xxg1413/python">FlyPython</a></li>
-<li><a href="https://github.com/darkprinx/break-the-ice-with-python">Break The Ice With Python</a></li>
-<li><a href="https://github.com/Junnplus/awesome-python-books">Awesome Python Books</a></li>
-<li><a href="https://github.com/trekhleb/learn-python">learn-python</a></li>
-<li><a href="https://github.com/joaoventura/full-speed-python">full-speed-python</a></li>
-<li><a href="https://github.com/TheAlgorithms/Python">The Algorithms - Python</a></li>
 </ul>
 </blockquote></details>
 </details>
