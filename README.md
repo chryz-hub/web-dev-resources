@@ -48,6 +48,7 @@ You can create segments for html blogs, documentations, repositories, books and 
 </ul>
 
 </blockquote></details>
+</blockquote></details>
 
 <details><summary><strong> Javascript </summary><blockquote></strong>
 You can create segments for javascript blogs, documentations, repositories, books and the rest by adding contents.
@@ -119,6 +120,8 @@ You can create segments for javascript blogs, documentations, repositories, book
 </ul>
 
 </blockquote></details>
+</blockquote></details>
+
 
 <details>
 <summary>
