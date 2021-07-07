@@ -511,8 +511,6 @@ frontend repositories
 </details>
 </details>
 
-## Nested
-
 <details><summary> root </summary><blockquote>
 
 <details><summary> bin </summary><blockquote>
