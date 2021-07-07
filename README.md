@@ -212,7 +212,7 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://podcastinit.com/">Podcast.\_\_init__</a></li>
   <li><a href="https://pythonbytes.fm">Python Bytes</a></li>
   <li><a href="https://runninginproduction.com/">Running in Production</a></li>
-  <li><a href="Talk Python To Me">https://talkpython.fm/</a></li>
+  <li><a href="https://talkpython.fm/">Talk Python To Me</a></li>
   <li><a href="https://realpython.com/podcasts/rpp/">The Real Python Podcast</a></li>
   <li><a href="https://testandcode.com/">Test and Code</a></li>
 </ul>
