@@ -23,8 +23,9 @@ If you want to contribute to a project and make it better, your help is very wel
 <details>
 <summary>
 <strong> HTML</strong>
-You can create segments for html blogs, documentations, repositories, books and the rest by adding contents.
 </summary>
+You can create segments for html blogs, documentations, repositories, books and the rest by adding contents.
+<br>
 
 <details>
 <summary>
