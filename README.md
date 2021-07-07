@@ -184,8 +184,8 @@ You can create segments for python blogs, documentations, repositories, books an
  <li><a href="https://github.com/GalvanizeOpenSource/python-resources">python-resources</a></li>
  <li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science   Programming Problems</a></li>
  <li><a href="https://github.com/Asabeneh/Python">Python</a></li>
- <li><a href="https://github.com/towardsai/tutorials">100 Plus Python Coding Problems With Solutions</a></li>
- <li><a href="https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions">Python</a></li>
+ <li><a href="https://github.com/towardsai/tutorials">Tutorials</a></li>
+ <li><a href="https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions">100 Plus Python Coding Problems With Solutions</a></li>
  <li><a href="https://github.com/amboulouma/python-ultimate-tutorial">Python Ultimate Tutorial</a></li>
  <li><a href="https://github.com/AsciiKay/Beginners-Python-Examples">Beginners-Python-Programs</a></li>
  <li><a href="https://github.com/Akuli/python-tutorial">Python programming tutorial for beginners</a></li>
