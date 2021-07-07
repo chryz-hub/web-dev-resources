@@ -41,6 +41,21 @@ You can create segments for html blogs, documentations, repositories, books and 
 <blockquote>
 </blockquote>
 
+</details>
+<details><summary> nest2 </summary><blockquote>
+
+a
+b
+c
+</blockquote></details>
+
+~~~
+file1
+file2
+file3
+~~~
+</blockquote></details>
+
 <details><summary> boot </summary><blockquote>
 
 x
