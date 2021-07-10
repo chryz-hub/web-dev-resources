@@ -330,17 +330,6 @@ You can create segments for react blogs, documentations, repositories, books and
 </ul>
 </blockquote></details>
 
-<details><summary> .css repositories </summary><blockquote>
-<ul>
-  <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
-  <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
-  <li><a href="https://github.com/troxler/awesome-css-frameworks">Awesome CSS Frameworks</a></li>
-  <li><a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript">You Don't Need JavaScript</a></li>
-</ul>
-</blockquote></details>
-</details>
-
-
 <details><summary><strong> Frontend </summary><blockquote></strong>
 You can create segments for frontend development blogs, documentations, repositories, books and the rest by adding contents.
 <br />
