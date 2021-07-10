@@ -330,6 +330,13 @@ You can create segments for react blogs, documentations, repositories, books and
 </ul>
 </blockquote></details>
 
+<details><summary> .js(react) courses/videos </summary><blockquote>
+<ul>
+  <li><a href="https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/">Learn React JS in This Free 7-Hour Course</a></li>
+</ul>
+</blockquote></details>
+</details>
+
 <details><summary><strong> Frontend </summary><blockquote></strong>
 You can create segments for frontend development blogs, documentations, repositories, books and the rest by adding contents.
 <br />
