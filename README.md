@@ -110,6 +110,12 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://github.com/TheAlgorithms/Javascript">The Algorithms - Javascript</a></li>
 </ul>
 </blockquote></details>
+
+<details><summary> .js books </summary><blockquote>
+<ul>
+  <li><a href="https://ubahthebuilder.gumroad.com/l/js-50">JavaScript Notes and Illustrations (50 concepts)</a></li>
+</ul>
+</blockquote></details>
 </details>
 
 <details><summary><strong> Python </summary><blockquote></strong>
