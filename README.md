@@ -333,6 +333,31 @@ You can create segments for react blogs, documentations, repositories, books and
 <details><summary> .js(react) courses/videos </summary><blockquote>
 <ul>
   <li><a href="https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/">Learn React JS in This Free 7-Hour Course</a></li>
+  <li><a href="https://www.classcentral.com/course/react-native-11687">Multiplatform Mobile App Development with React Native</a></li>
+  <li><a href="https://www.classcentral.com/course/front-end-react-11322">Front-End Web Development with React</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-introduction-to-reactjs-8770">Introduction to ReactJS</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-cs50-s-mobile-app-development-with-react-native-11505">CS50's Mobile App Development with React Native</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-react-router-and-redux-11641">React Router and Redux</a></li>
+  <li><a href="https://www.classcentral.com/course/youtube-react-tutorials-45764">React Tutorials</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-developing-cloud-applications-with-node-js-and-react-20968">Developing Cloud Applications with Node.js and React</a></li>
+  <li><a href="https://www.classcentral.com/course/udemy-react-vs-angular-vs-vuejs-by-example-27055">React vs Angular vs Vue.js by Example</a></li>
+  <li><a href="https://www.classcentral.com/course/youtube-complete-react-tutorial-with-redux-45791">Complete React Tutorial (with Redux)</a></li>
+  <li><a href="https://www.classcentral.com/course/youtube-react-redux-firebase-app-tutorial-45792">React, Redux & Firebase App Tutorial</a></li>
+  <li><a href="https://www.classcentral.com/course/udemy-new-react-firebase-real-time-serverless-app-32088">React + Firebase: For Beginners</a></li>
+  <li><a href="https://www.classcentral.com/course/youtube-react-native-tutorial-for-beginners-45789">React Native Tutorial for Beginners</a></li>
+  <li><a href="https://www.classcentral.com/course/udemy-learning-react-and-redux-decoupling-with-st-26992">React and Redux Masterclass</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
 </ul>
 </blockquote></details>
 </details>
