@@ -70,9 +70,15 @@ You can create segments for javascript blogs, documentations, repositories, book
 
 <details><summary> .js courses/videos </summary><blockquote>
 <ul>
+  <li><a href="https://www.classcentral.com/course/javascript-4295">Interactivity with JavaScript</a></li>
+  <li><a href="https://www.classcentral.com/course/web-application-development-4288">Web Application Development with JavaScript and MongoDB</a></li>
+  <li><a href="https://www.classcentral.com/course/javascript-basics-36577">JavaScript Basics</a></li>
+  <li><a href="https://www.classcentral.com/course/javascript-data-manipulation-43871">Data Manipulation in JavaScript</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-programming-for-the-web-with-javascript-8518">Programming for the Web with JavaScript</a></li>
   <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures</a></li>
   <li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data Visualization</a></li>
   <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+javascript+courses&sort=relevance&src=ukw">Free Javascript Courses</a></li>
+  <li><a href="https://www.classcentral.com/course/javascript-jquery-json-9568">JavaScript, jQuery, and JSON</a></li>
 </ul>
 </blockquote></details>
 
@@ -377,7 +383,13 @@ You can create segments for frontend development blogs, documentations, reposito
 <details><summary> frontend courses/videos </summary><blockquote>
 <ul>
   <li><a href="https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign">Foundations of Front-End Web Development</a></li>
+  <li><a href="https://www.classcentral.com/course/kadenze-web-coding-fundamentals-html-css-and-javascript-3781">Web Coding Fundamentals: HTML, CSS and Javascript</a></li>
+  <li><a href="https://www.classcentral.com/course/freecodecamp-front-end-libraries-34061">Front End Development Libraries</a></li>
+  <li><a href="https://www.classcentral.com/course/web-frameworks-4240">Front-End Web UI Frameworks and Tools</a></li>
+  <li><a href="https://www.classcentral.com/course/web-frameworks-4240">Front-End Web UI Frameworks and Tools</a></li>
   <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/">Responsive Web Design</a></li>
+  <li><a href="https://www.classcentral.com/course/html-css-javascript-for-web-developers-4270">HTML, CSS, and Javascript for Web Developers</a></li>
+  <li><a href="https://www.classcentral.com/course/duke-programming-web-4256">Programming Foundations with JavaScript, HTML and CSS</a></li>
   <li><a href="https://www.freecodecamp.org/learn/front-end-libraries/">Front End Development Libraries</a></li>
 </ul>
 </blockquote></details>
