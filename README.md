@@ -70,9 +70,15 @@ You can create segments for javascript blogs, documentations, repositories, book
 
 <details><summary> .js courses/videos </summary><blockquote>
 <ul>
+  <li><a href="https://www.classcentral.com/course/javascript-4295">Interactivity with JavaScript</a></li>
+  <li><a href="https://www.classcentral.com/course/web-application-development-4288">Web Application Development with JavaScript and MongoDB</a></li>
+  <li><a href="https://www.classcentral.com/course/javascript-basics-36577">JavaScript Basics</a></li>
+  <li><a href="https://www.classcentral.com/course/javascript-data-manipulation-43871">Data Manipulation in JavaScript</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-programming-for-the-web-with-javascript-8518">Programming for the Web with JavaScript</a></li>
   <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures</a></li>
   <li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data Visualization</a></li>
   <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+javascript+courses&sort=relevance&src=ukw">Free Javascript Courses</a></li>
+  <li><a href="https://www.classcentral.com/course/javascript-jquery-json-9568">JavaScript, jQuery, and JSON</a></li>
 </ul>
 </blockquote></details>
 
@@ -108,6 +114,12 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://github.com/lydiahallie/javascript-questions">Learn JavaScript</a></li>
   <li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide() {</a></li>
   <li><a href="https://github.com/TheAlgorithms/Javascript">The Algorithms - Javascript</a></li>
+</ul>
+</blockquote></details>
+
+<details><summary> .js books </summary><blockquote>
+<ul>
+  <li><a href="https://ubahthebuilder.gumroad.com/l/js-50">JavaScript Notes and Illustrations (50 concepts)</a></li>
 </ul>
 </blockquote></details>
 </details>
@@ -324,16 +336,37 @@ You can create segments for react blogs, documentations, repositories, books and
 </ul>
 </blockquote></details>
 
-<details><summary> .css repositories </summary><blockquote>
+<details><summary> .js(react) courses/videos </summary><blockquote>
 <ul>
-  <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
-  <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
-  <li><a href="https://github.com/troxler/awesome-css-frameworks">Awesome CSS Frameworks</a></li>
-  <li><a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript">You Don't Need JavaScript</a></li>
+  <li><a href="https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/">Learn React JS in This Free 7-Hour Course</a></li>
+  <li><a href="https://www.classcentral.com/course/react-native-11687">Multiplatform Mobile App Development with React Native</a></li>
+  <li><a href="https://www.classcentral.com/course/front-end-react-11322">Front-End Web Development with React</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-introduction-to-reactjs-8770">Introduction to ReactJS</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-cs50-s-mobile-app-development-with-react-native-11505">CS50's Mobile App Development with React Native</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-react-router-and-redux-11641">React Router and Redux</a></li>
+  <li><a href="https://www.classcentral.com/course/youtube-react-tutorials-45764">React Tutorials</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-developing-cloud-applications-with-node-js-and-react-20968">Developing Cloud Applications with Node.js and React</a></li>
+  <li><a href="https://www.classcentral.com/course/udemy-react-vs-angular-vs-vuejs-by-example-27055">React vs Angular vs Vue.js by Example</a></li>
+  <li><a href="https://www.classcentral.com/course/youtube-complete-react-tutorial-with-redux-45791">Complete React Tutorial (with Redux)</a></li>
+  <li><a href="https://www.classcentral.com/course/youtube-react-redux-firebase-app-tutorial-45792">React, Redux & Firebase App Tutorial</a></li>
+  <li><a href="https://www.classcentral.com/course/udemy-new-react-firebase-real-time-serverless-app-32088">React + Firebase: For Beginners</a></li>
+  <li><a href="https://www.classcentral.com/course/youtube-react-native-tutorial-for-beginners-45789">React Native Tutorial for Beginners</a></li>
+  <li><a href="https://www.classcentral.com/course/udemy-learning-react-and-redux-decoupling-with-st-26992">React and Redux Masterclass</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
 </ul>
 </blockquote></details>
 </details>
-
 
 <details><summary><strong> Frontend </summary><blockquote></strong>
 You can create segments for frontend development blogs, documentations, repositories, books and the rest by adding contents.
@@ -350,7 +383,13 @@ You can create segments for frontend development blogs, documentations, reposito
 <details><summary> frontend courses/videos </summary><blockquote>
 <ul>
   <li><a href="https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign">Foundations of Front-End Web Development</a></li>
+  <li><a href="https://www.classcentral.com/course/kadenze-web-coding-fundamentals-html-css-and-javascript-3781">Web Coding Fundamentals: HTML, CSS and Javascript</a></li>
+  <li><a href="https://www.classcentral.com/course/freecodecamp-front-end-libraries-34061">Front End Development Libraries</a></li>
+  <li><a href="https://www.classcentral.com/course/web-frameworks-4240">Front-End Web UI Frameworks and Tools</a></li>
+  <li><a href="https://www.classcentral.com/course/web-frameworks-4240">Front-End Web UI Frameworks and Tools</a></li>
   <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/">Responsive Web Design</a></li>
+  <li><a href="https://www.classcentral.com/course/html-css-javascript-for-web-developers-4270">HTML, CSS, and Javascript for Web Developers</a></li>
+  <li><a href="https://www.classcentral.com/course/duke-programming-web-4256">Programming Foundations with JavaScript, HTML and CSS</a></li>
   <li><a href="https://www.freecodecamp.org/learn/front-end-libraries/">Front End Development Libraries</a></li>
 </ul>
 </blockquote></details>
