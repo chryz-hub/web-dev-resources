@@ -39,6 +39,7 @@ You can create segments for html blogs, documentations, repositories, books and 
 
 <details><summary> .html courses/videos </summary><blockquote>
 <ul>
+  <li><a href="https://www.classcentral.com/course/introhtml-4307?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Introduction to HTML5</a></li>
   <li><a href="https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-wJX42730UtT4Yv9feNvCuQ&utm_medium=udemyads&utm_source=aff-campaign">Web Development By Doing: HTML / CSS From Scratch</a></li>
   <li><a href="https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-_DOkslmcJoCEChR4iCx5bw&utm_medium=udemyads&utm_source=aff-campaign">Learn HTML & CSS: How To Start Your Web Development Career</a></li>
   <li><a href="https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-XOO.vj_kLoFIKkCA_..iPg&utm_medium=udemyads&utm_source=aff-campaign">Master the Basics of HTML5 & CSS3: Beginner Web Development</a></li>
@@ -447,7 +448,9 @@ You can create segments for frontend development blogs, documentations, reposito
 </blockquote></details>
 </details>
 
-<details><summary><strong> Repositories To Enhance Your Programming Skills </summary><blockquote></strong>
+<details><summary><strong> Other Learning/Programming Resources </summary><blockquote></strong>
+
+<details><summary><strong> Repositories</summary><blockquote></strong>
 <ul>
     <li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Dev For Beginners</a></li>
     <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a></li>
@@ -473,5 +476,12 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/goldbergyoni/nodebestpractices">Node Best Practices</a></li>
     <li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
   </ul>
+</blockquote></details>
+
+<details><summary> Courses/Videos </summary><blockquote>
+<ul>
+  <li><a href="https://www.classcentral.com/course/edx-cs50-s-introduction-to-computer-science-442?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">CS50's Introduction to Computer Science</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-programming-basics-1650?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Programming Basics</a></li>
+</ul>
 </blockquote></details>
 </details>
