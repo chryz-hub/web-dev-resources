@@ -286,6 +286,12 @@ You can create segments for css blogs, documentations, repositories, books and t
 </ul>
 </blockquote></details>
 
+<details><summary> .css courses/videos </summary><blockquote>
+<ul>
+  <li><a href="https://www.classcentral.com/course/introcss-4294?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Introduction to CSS3</a></li>
+</ul>
+</blockquote></details>
+
 <details><summary> .css games </summary><blockquote>
 <ul>
   <li><a href="https://cssbattle.dev">CSS Battle</a></li>
@@ -305,12 +311,6 @@ You can create segments for css blogs, documentations, repositories, books and t
   <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
   <li><a href="https://github.com/troxler/awesome-css-frameworks">Awesome CSS Frameworks</a></li>
   <li><a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript">You Don't Need JavaScript</a></li>
-</ul>
-</blockquote></details>
-
-<details><summary> .css courses/videos </summary><blockquote>
-<ul>
-  <li><a href="https://www.classcentral.com/course/introcss-4294?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Introduction to CSS3</a></li>
 </ul>
 </blockquote></details>
 </details>
