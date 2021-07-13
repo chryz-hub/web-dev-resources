@@ -307,8 +307,13 @@ You can create segments for css blogs, documentations, repositories, books and t
   <li><a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript">You Don't Need JavaScript</a></li>
 </ul>
 </blockquote></details>
-</details>
 
+<details><summary> .css courses/videos </summary><blockquote>
+<ul>
+  <li><a href="https://www.classcentral.com/course/introcss-4294?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Introduction to CSS3</a></li>
+</ul>
+</blockquote></details>
+</details>
 
 <details><summary><strong> React JS </summary><blockquote></strong>
 You can create segments for react blogs, documentations, repositories, books and the rest by adding contents.
