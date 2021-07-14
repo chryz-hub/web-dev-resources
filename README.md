@@ -58,11 +58,11 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://progate.com/courses/es6">Progate</a></li>
   <li><a href="https://www.codecademy.com/catalog/language/javascript">codecademy</a></li>
   <li><a href="https://developer.mozilla.org">Mozilla Developers Network</a></li>
-  <li><a href="https://eloquentjavascript.net">Eloquent Javascript</a></li>
   <li><a href="https://www.edx.org/learn/javascript">Edx</a></li>
   <li><a href="https://Javascript30.com"> Javascript30</a></li>
   <li><a href="https://www.w3resource.com/javascript/javascript.php">Javascript Tutorials</a></li>
   <li><a href="https://1loc.dev/"> Javascript Utilities</a></li>
+  <li><a href="https://ui.dev/beginners-guide-to-javascript-prototype/">A Beginner's Guide to JavaScript's Prototype </a></li>
   <li><a href="https://www.programiz.com/javascript">Programiz</a></li>
   <li><a href="https://www.afterhoursprogramming.com/tutorial/javascript/">After Hours Programming</a></li>
   <li><a href="https://www.geeksforgeeks.org/javascript-tutorial/?ref=ghm">GeeksforGeeks</a></li>
@@ -111,6 +111,7 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://github.com/loiane/javascript-datastructures-algorithms">Learning JavaScript Data Structures and Algorithms</a></li>
   <li><a href="https://github.com/TheOdinProject/javascript-exercises">Javascript Exercises</a></li>
   <li><a href="https://github.com/sorrycc/awesome-javascript">Awesome JavaScript </a></li>
+  <li><a href="https://github.com/nas5w/javascript-tips-and-tidbits">JavaScript tips and tidibits</a></li>
   <li><a href="https://github.com/coodict/javascript-in-one-pic">JavaScript in one pic</a></li>
   <li><a href="https://github.com/lydiahallie/javascript-questions">Learn JavaScript</a></li>
   <li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide() {</a></li>
@@ -121,6 +122,7 @@ You can create segments for javascript blogs, documentations, repositories, book
 <details><summary> .js books </summary><blockquote>
 <ul>
   <li><a href="https://ubahthebuilder.gumroad.com/l/js-50">JavaScript Notes and Illustrations (50 concepts)</a></li>
+  <li><a href="https://eloquentjavascript.net/">Eloquent JavaScript </a></li>
 </ul>
 </blockquote></details>
 </details>
@@ -333,6 +335,7 @@ You can create segments for react blogs, documentations, repositories, books and
   <li><a href="https://reactjs.org/docs/getting-started.html">React Docs</a></li>
   <li><a href="https://www.devintro.com/p/free-ultimate-react-resources-zero">Free ultimate React resources. Zero to Hero in React</a></li>
   <li><a href="https://progate.com/courses/react">Progate</a></li>
+  <li><a href="https://ui.dev/react-interview-questions/"> React Interview Questions</a></li>
   <li><a href="https://www.geeksforgeeks.org/reactjs-tutorials/?ref=lbp">GeeksforGeeks</a></li>
   <li><a href="https://reactforbeginners.com/">React For Beginners</a></li>
 </ul>
