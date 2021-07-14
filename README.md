@@ -93,11 +93,13 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://github.com/Asabeneh/Functional-Programming-in-JavaScript">Functional Programming in JavaScript</a></li>
   <li><a href="https://github.com/leonardomso/33-js-concepts">33 Concepts Every JavaScript Developer Should Know</a></li>
   <li><a href="https://github.com/30-seconds/30-seconds-of-code">30 seconds of code</a></li>
+  <li><a href="https://github.com/thejsway/thejsway">he JavaScript Way</a></li>
   <li><a href="https://github.com/john-smilga/javascript-basic-projects">Javascript Basic Projects</a></li>
   <li><a href="https://github.com/wesbos/beginner-javascript">Beginner JavaScript</a></li>
   <li><a href="https://github.com/ironhack-labs/lab-javascript-vikings">LAB | JS Vikings</a></li>
   <li><a href="https://github.com/goldbergyoni/javascript-testing-best-practices">Javascript Testing Best Practices</a></li>
   <li><a href="https://github.com/lydiahallie/javascript-questions">Javascript Questions</a></li>
+  <li><a href="https://gist.github.com/Geoff-Ford/c985b67a1a27deadb970d828b6a90282">Master the JavaScript Interview</a></li>
   <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a></li>
   <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
   <li><a href="https://github.com/GitbookIO/javascript">Learn JavaScript</a></li>
@@ -183,6 +185,8 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2">Introduction To Computer Science And Programming Using Python</a></li>
   <li><a href="https://www.youtube.com/watch?v=JJmcL1N2KQs">Python Crash Course by Traversy Media</a></li>
   <li><a href="https://www.udemy.com/course/introduction-to-programming-with-python-beginners-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-l7B_PxBM3rarGy2a37ZOIQ&utm_medium=udemyads&utm_source=aff-campaign">Introduction To Programming with Python</a></li>
+  <li><a href="https://www.rithmschool.com/courses/python-fundamentals-part-1">Rithm School Python Fundamentals Part I</a></li>
+  <li><a href="https://www.rithmschool.com/courses/python-fundamentals-part-2">Rithm School Python Fundamentals Part II</a></li>
   <li><a href="https://www.udemy.com/course/an-introduction-to-python-programming/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nGbPJ1nSdDePVzFs3c.OWA&utm_medium=udemyads&utm_source=aff-campaign">An Introduction to Python Programming</a></li>
   <li><a href="https://www.udemy.com/course/python-3-for-total-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-8o.GeO9j_xbjvsLSjKml6A&utm_medium=udemyads&utm_source=aff-campaign">Learn Python 3.6 for Total Beginners</a></li>
   <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+python+courses&sort=relevance&src=ukw">Free Python Courses</a></li>
@@ -360,6 +364,7 @@ You can create segments for react blogs, documentations, repositories, books and
 <details><summary> .js(react) courses/videos </summary><blockquote>
 <ul>
   <li><a href="https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/">Learn React JS in This Free 7-Hour Course</a></li>
+  <li><a href="https://scrimba.com/playlist/p7P5Hd">Learn React for free</a></li>
   <li><a href="https://www.classcentral.com/course/react-native-11687">Multiplatform Mobile App Development with React Native</a></li>
   <li><a href="https://www.classcentral.com/course/front-end-react-11322">Front-End Web Development with React</a></li>
   <li><a href="https://www.classcentral.com/course/edx-introduction-to-reactjs-8770">Introduction to ReactJS</a></li>
@@ -408,7 +413,8 @@ You can create segments for frontend development blogs, documentations, reposito
 <details><summary> frontend repositories </summary><blockquote>
 <ul>
   <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front End Checklist</a></li>
-  <li><a href="https://github.com/khan4019/front-end-Interview-Questions">Front end Interview Questions</a></li>
+  <li><a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Front end Interview Questions</a></li>
+  <li><a href="https://github.com/khan4019/front-end-Interview-Questions">Front-end Developer Interview Questions</a></li>
   <li><a href="https://github.com/yangshun/front-end-interview-handbook">Front End Interview   Handbook</a></li>
   <li><a href="https://github.com/MarkoDenic/web-development-resources">Awesome Web Development Resources</a></li>
   <li><a href="https://github.com/markodenic/awesome-html-css-js-tips">Awesome HTML/CSS/JS Tips</a></li>
@@ -457,13 +463,14 @@ You can create segments for frontend development blogs, documentations, reposito
 
 <details><summary><strong> Other Learning/Programming Resources </summary><blockquote></strong>
 
-<details><summary><strong> Repositories</summary><blockquote></strong>
+<details><summary>Repositories</summary><blockquote>
 <ul>
     <li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Dev For Beginners</a></li>
     <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a></li>
     <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome Beginner Friendly Projects</li>
     <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
+    <li><a href="https://github.com/AsishRaju/450-DSA">450-DSA Cracker </a></li>
     <li><a href="https://github.com/Olshansk/interview">Interview</a></li>
     <li><a href="https://github.com/arialdomartini/Back-End-Developer-Interview-Questions">Back-End Developer Interview Questions</a></li>
     <li><a href="https://github.com/apptension/developer-handbook">Developer Handbook</a></li>
