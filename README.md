@@ -168,10 +168,15 @@ You can create segments for python blogs, documentations, repositories, books an
 
 <details><summary> .py courses/videos </summary><blockquote>
 <ul>
+  <li><a href="https://www.coursera.org/learn/python-crash-course">Crash Course on Python</a></li>
+  <li><a href="https://www.coursera.org/learn/python">Programming for Everybody (Getting Started with Python)</a></li>
+  <li><a href="https://www.coursera.org/learn/python-data">Python Data Structures</a></li>
+  <li><a href="https://www.coursera.org/specializations/python-3-programming">Python 3 Programming Specialization</a></li>
   <li><a href="https://www.classcentral.com/course/interactivepython1-408?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">An Introduction to Interactive Programming in Python (Part 1)</a></li>
   <li><a href="https://www.classcentral.com/course/programming1-385?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Learn to Program: The Fundamentals</a></li>
   <li><a href="https://www.classcentral.com/course/python-programming-9549?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Python Programming Essentials</a></li>
   <li><a href="https://www.udemy.com/course/free-python/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-n9wcejNnSiOzMzOge8KRYg&utm_medium=udemyads&utm_source=aff-campaign">Python for Absolute Beginners!</a></li>
+  <li><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a></li>
   <li><a href="https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-_AdSId0p3CHnD.c78AXWJQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=jU79Zysihs4">2021 Complete Python Bootcamp From Zero to Hero in Python</a></li>
   <li><a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2">Introduction To Computer Science And Programming Using Python</a></li>
   <li><a href="https://www.youtube.com/watch?v=JJmcL1N2KQs">Python Crash Course by Traversy Media</a></li>
@@ -243,10 +248,14 @@ You can create segments for python blogs, documentations, repositories, books an
 <details><summary> .py books </summary><blockquote>
 <ul>
   <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python</a></li>
+  <li><a href="https://greenteapress.com/wp/learning-with-python/">Learning with Python- How to Think Like a Computer Scientist</a></li>
   <li><a href="https://www.pdfdrive.com/learning-python-powerful-object-oriented-programming-e169780738.html">Learning Python: powerful object-oriented programming</a></li>
   <li><a href="https://www.pdfdrive.com/introduction-to-machine-learning-with-python-e58337749.html">Introduction to Machine Learning with Python</a></li>
   <li><a href="https://python.swaroopch.com/">A Byte of Python</a></li>
   <li><a href="https://greenteapress.com/wp/learning-with-python/">Learning with Python: How to Think Like a Computer Scientist</a></li>
+  <li><a href="https://nostarch.com/beyond-basic-stuff-python">Beyond the Basic Stuff with Python</a></li>
+  <li><a href="https://nostarch.com/Dive-Into-Algorithms">Dive Into Algorithms</a></li>
+  <li><a href="https://nostarch.com/crackingcodes">Cracking Codes with Python</a></li>
   <li><a href="https://www.pdfdrive.com/python-cookbook-recipes-for-mastering-python-3-e187326224.html">Python Cookbook: Recipes for Mastering Python 3</a></li>
   <li><a href="https://www.academia.edu/44608760/GLOBAL_EDITION_FOURTH_EDITION_Starting_Out_with_Python">Starting Out With Python</a></li>
   <li><a href="https://learnpythonthehardway.org/book/">Learn Python The Hard Way</a></li>
