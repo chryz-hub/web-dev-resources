@@ -132,7 +132,7 @@ You can create segments for python blogs, documentations, repositories, books an
 <details><summary> .py websites </summary><blockquote>
 <ul>
   <li><a href="https://pythonbasics.org">Python Basics</a></li>
-  <li><a href="https://www.w3resource.com/python/python-tutorial.php">Python Tutorials</a></li>
+  <li><a href="https://www.w3resource.com/python/python-tutorial.php">w3resource</a></li>
   <li><a href="https://intellipaat.com/blog/tutorial/python-tutorial/">intelliPaat</a></li>
   <li><a href="http://www.alan-g.me.uk/l2p/index.htm">Learning To Program</a></li>
   <li><a href="https://www.afterhoursprogramming.com/tutorial/python/">After Hours Programming</a></li>
