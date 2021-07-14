@@ -286,6 +286,12 @@ You can create segments for css blogs, documentations, repositories, books and t
 </ul>
 </blockquote></details>
 
+<details><summary> .css courses/videos </summary><blockquote>
+<ul>
+  <li><a href="https://www.classcentral.com/course/introcss-4294?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Introduction to CSS3</a></li>
+</ul>
+</blockquote></details>
+
 <details><summary> .css games </summary><blockquote>
 <ul>
   <li><a href="https://cssbattle.dev">CSS Battle</a></li>
@@ -308,7 +314,6 @@ You can create segments for css blogs, documentations, repositories, books and t
 </ul>
 </blockquote></details>
 </details>
-
 
 <details><summary><strong> React JS </summary><blockquote></strong>
 You can create segments for react blogs, documentations, repositories, books and the rest by adding contents.
@@ -358,16 +363,6 @@ You can create segments for react blogs, documentations, repositories, books and
   <li><a href="https://www.classcentral.com/course/udemy-learning-react-and-redux-decoupling-with-st-26992">React and Redux Masterclass</a></li>
 
 
-
-
-
-
-
-
-
-
-
-
 </ul>
 </blockquote></details>
 </details>
@@ -389,7 +384,7 @@ You can create segments for frontend development blogs, documentations, reposito
   <li><a href="https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign">Foundations of Front-End Web Development</a></li>
   <li><a href="https://www.classcentral.com/course/kadenze-web-coding-fundamentals-html-css-and-javascript-3781">Web Coding Fundamentals: HTML, CSS and Javascript</a></li>
   <li><a href="https://www.classcentral.com/course/freecodecamp-front-end-libraries-34061">Front End Development Libraries</a></li>
-  <li><a href="https://www.classcentral.com/course/web-frameworks-4240">Front-End Web UI Frameworks and Tools</a></li>
+  <li><a href="https://www.classcentral.com/course/udacity-intro-to-html-and-css-2659?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Intro to HTML and CSS</a></li>
   <li><a href="https://www.classcentral.com/course/web-frameworks-4240">Front-End Web UI Frameworks and Tools</a></li>
   <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/">Responsive Web Design</a></li>
   <li><a href="https://www.classcentral.com/course/html-css-javascript-for-web-developers-4270">HTML, CSS, and Javascript for Web Developers</a></li>
@@ -481,6 +476,7 @@ You can create segments for frontend development blogs, documentations, reposito
 <details><summary> Courses/Videos </summary><blockquote>
 <ul>
   <li><a href="https://www.classcentral.com/course/edx-cs50-s-introduction-to-computer-science-442?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">CS50's Introduction to Computer Science</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-computer-science-101-2175?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Computer Science 101</a></li>
   <li><a href="https://www.classcentral.com/course/edx-programming-basics-1650?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Programming Basics</a></li>
 </ul>
 </blockquote></details>
