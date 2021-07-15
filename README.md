@@ -224,10 +224,10 @@ You can create segments for python blogs, documentations, repositories, books an
  <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a></li>
  <li><a href="https://github.com/30-seconds/30-seconds-of-python">30 seconds of python</a></li>
  <li><a href="https://github.com/GalvanizeOpenSource/python-resources">python-resources</a></li>
- <li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science   Programming Problems</a></li>
  <li><a href="https://github.com/Asabeneh/Python">Python</a></li>
  <li><a href="https://github.com/arpan74/ctci-python-solutions">Cracking the Coding Interview in Python</a></li>
  <li><a href="https://github.com/towardsai/tutorials">Tutorials</a></li>
+  <li><a href="https://github.com/devAmoghS/Python-Interview-Problems-for-Practice">Python Interview Problems For Practice</a></li>
  <li><a href="https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions">100 Plus Python Coding Problems With Solutions</a></li>
  <li><a href="https://github.com/amboulouma/python-ultimate-tutorial">Python Ultimate Tutorial</a></li>
  <li><a href="https://github.com/AsciiKay/Beginners-Python-Examples">Beginners-Python-Programs</a></li>
@@ -499,9 +499,13 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
     <li><a href="https://github.com/jamiebuilds/itsy-bitsy-data-structures">Itsy Bitsy Data Structures</a></li>
     <li><a href="https://github.com/iamtodor/data-science-interview-questions-and-answers">Data Science Interview Questions And Answers</a></li>
-    <li><a href="https://github.com/alexeygrigorev/data-science-interviews">FAQGURU</a></li>
+    <li><a href="https://github.com/Just-A-Visitor/Algorithmic-Pseudocode">Algorithmic Pseudocode</a></li>
+    <li><a href="https://github.com/FAQGURU/FAQGURU">FAQ GURU</a></li>
+    <li><a href="https://github.com/devAmoghS/Machine-Learning-with-Python">Machine-Learning-with-Python</a></li>
+    <li><a href="https://github.com/rbhatia46/Data-Science-Interview-Resources">Data Science Interview Resources </a></li>
+    <li><a href="https://github.com/MrMimic/data-scientist-roadmap">Data Scientist Roadmap</a></li>
     <li><a href="https://github.com/mtdvio/every-programmer-should-know">Every Programmer Should Know </a></li>
-    <li><a href="https://github.com/FAQGURU/FAQGURU">Data Science Interviews</a></li>
+    <li><a href="https://github.com/alexeygrigorev/data-science-interviews">Data Science Interviews</a></li>
     <li><a href="https://github.com/binhnguyennus/awesome-scalability">Awesome Scalability</a></li>
     <li><a href="https://github.com/twowaits/SDE-Interview-Questions">SDE Interview Questions</a></li>
     <li><a href="https://github.com/checkcheckzz/system-design-interview">System Design Interview</a></li>
@@ -511,6 +515,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/AsishRaju/450-DSA">450-DSA Cracker </a></li>
     <li><a href="https://github.com/khangich/machine-learning-interview">Machine Learning Interviews</a></li>
     <li><a href="https://github.com/Olshansk/interview">Interview</a></li>
+    <li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science Programming Problems</a></li>
     <li><a href="https://github.com/prasadgujar/low-level-design-primer">Interlow-level-design-primerview</a></li>
    <li><a href="https://github.com/amilajack/reading">Computer Science Reading List</a></li>
     <li><a href="https://github.com/Olshansk/interview">Interview</a></li>
@@ -550,8 +555,8 @@ You can create segments for frontend development blogs, documentations, reposito
 <details><summary> Blogs </summary><blockquote>
 <ul>
   <li><a href="https://katemats.com/blog/interview-questions/">Epic List of Interview Questions</a></li>
-  <li><a href="https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f">Technical Interviews: the 8 Most Common Mistakes Programmers Make1</a></li>
-  <li><a href="https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f">Technical Interviews: the 8 Most Common Mistakes Programmers Make1</a></li>
+  <li><a href="https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f">Technical Interviews: the 8 Most Common Mistakes Programmers Make</a></li>
+  <li><a href="http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/">Becoming a Data Scientist – Curriculum via Metromap </a></li>
   <li><a href="https://triplebyte.com/blog/how-to-pass-a-programming-interview">How to pass a programming interview</a></li>
   <li><a href="https://www.interviewcake.com/coding-interview-tips">Coding Interview Tips</a></li>
 </ul>
