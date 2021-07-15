@@ -60,6 +60,7 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://progate.com/courses/es6">Progate</a></li>
   <li><a href="https://www.codecademy.com/catalog/language/javascript">codecademy</a></li>
   <li><a href="https://www.edx.org/learn/javascript">Edx</a></li>
+  <li><a href="http://www.thatjsdude.com/interview/js1.html">JS: Interview Algorithm</a></li>
   <li><a href="https://Javascript30.com"> Javascript30</a></li>
   <li><a href="https://www.w3resource.com/javascript/javascript.php">w3resource</a></li>
   <li><a href="https://1loc.dev/"> Javascript Utilities</a></li>
@@ -106,6 +107,8 @@ You can create segments for javascript blogs, documentations, repositories, book
     <li><a href="https://github.com/vvscode/js--interview-questions">JS interview questions</a></li>
   <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript</a></li>
   <li><a href="https://github.com/micromata/awesome-javascript-learning">Awesome JavaScript Learning</a></li>
+  <li><a href="https://github.com/amilajack/js-algorithms">JS Algos</a></li>
+  <li><a href="https://github.com/benoitvallon/computer-science-in-javascript">Computer Science in JavaScript (ES5 and ES6)</a></li>
   <li><a href="https://github.com/rohan-paul/Awesome-JavaScript-Interviews">Awesome JavaScript Interviews</a></li>
   <li><a href="https://github.com/javascript-society/javascript-path">JavaScript Path</a></li>
   <li><a href="https://github.com/sudheerj/javascript-interview-questions">JavaScript Interview Questions & Answers</a></li>
@@ -166,6 +169,7 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.programiz.com/python-programming">Programiz</a></li>
   <li><a href="https://realpython.com">Real Python</a></li>
   <li><a href="https://www.sololearn.com/learning/1073">Sololearn</a></li>
+  <li><a href="http://algosaur.us/data-structures-basics/">Algosaurus- A graphic guide to algorithms</a></li>
   <li><a href="https://developers.google.com/edu/python">Google's Python Class</a></li>
   <li><a href="https://www.fullstackpython.com/">Full Stack Python</a></li>
   <li><a href="https://learnxinyminutes.com/docs/python/">Learn X In Y Minutes</a></li>
@@ -458,7 +462,13 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://geektastic.com/">geektastic</a></li>
     <li><a href="http://www.programmr.com/">Programmr</a></li>
     <li><a href="https://codegym.cc/">CodeGym</a></li>
+    <li><a href="https://www.interviewcake.com/">Interview Cake</a></li>
+    <li><a href="https://www.dailycodingproblem.com/">Daily Coding Problem</a></li> 
     <li><a href="https://codepen.io/challenges">CodePen</a></li>
+    <li><a href="https://www.pramp.com/#/">Pramp</a></li>
+    <li><a href="https://www.testdome.com/Tests">Testdome </a></li>
+    <li><a href="https://www.interviewbit.com/">InterviewBit</a></li>
+    <li><a href="https://interviewing.io/">interviewing.io</a></li>
     <li><a href="https://practice.geeksforgeeks.org/">GeeksForGeeks</a></li>
     <li><a href="https://www.urionlinejudge.com.br/judge/en/login">URI Online Judge</a></li>
     <li><a href="https://challenges.reply.com/tamtamy/home.action">Reply Challenges</a></li>
@@ -502,6 +512,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/Olshansk/interview">Interview</a></li>
     <li><a href="https://github.com/sadanandpai/javascript-code-challenges">JavaScript Modern Interview Code Challenges</a></li>
     <li><a href="https://github.com/prasadgujar/low-level-design-primer">Interlow-level-design-primerview</a></li>
+   <li><a href="https://github.com/amilajack/reading">Computer Science Reading List</a></li>
     <li><a href="https://github.com/Olshansk/interview">Interview</a></li>
     <li><a href="https://github.com/puncsky/system-design-and-architecture">System Design and Architecture</a></li>
     <li><a href="https://github.com/jdsutton/Technical-Interview-Megarepo">Technical Interview Megarepo</a></li>
@@ -532,6 +543,7 @@ You can create segments for frontend development blogs, documentations, reposito
   <li><a href="https://www.classcentral.com/course/edx-cs50-s-introduction-to-computer-science-442?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">CS50's Introduction to Computer Science</a></li>
   <li><a href="https://www.classcentral.com/course/edx-computer-science-101-2175?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Computer Science 101</a></li>
   <li><a href="https://www.classcentral.com/course/edx-programming-basics-1650?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Programming Basics</a></li>
+  <li><a href="https://www.khanacademy.org/computing/computer-science/algorithms">Computer Science Algorithms</a></li>
 </ul>
 </blockquote></details>
 </details>
