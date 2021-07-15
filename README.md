@@ -499,6 +499,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
     <li><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a></li>
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
+    <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
     <li><a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank">Competitive Programming Question Bank</a></li>
     <li><a href="https://github.com/jamiebuilds/itsy-bitsy-data-structures">Itsy Bitsy Data Structures</a></li>
     <li><a href="https://github.com/iamtodor/data-science-interview-questions-and-answers">Data Science Interview Questions And Answers</a></li>
@@ -561,7 +562,7 @@ You can create segments for frontend development blogs, documentations, reposito
 <ul>
   <li><a href="https://katemats.com/blog/interview-questions/">Epic List of Interview Questions</a></li>
   <li><a href="https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f">Technical Interviews: the 8 Most Common Mistakes Programmers Make</a></li>
-  <li><a href="https://medium.com/nerd-for-tech/software-development-life-cycle-cde7f069d5f3?source=rss-c38e7450a841------2">Technical Interviews: the 8 Most Common Mistakes Programmers Make</a></li>
+  <li><a href="https://medium.com/nerd-for-tech/software-development-life-cycle-cde7f069d5f3?source=rss-c38e7450a841------2">Software Development Life Cycle</a></li>
   <li><a href="http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/">Becoming a Data Scientist – Curriculum via Metromap </a></li>
   <li><a href="https://medium.com/nerd-for-tech/software-testing-74d197498082">Software Testing</a></li>
   <li><a href="https://triplebyte.com/blog/how-to-pass-a-programming-interview">How to pass a programming interview</a></li>
