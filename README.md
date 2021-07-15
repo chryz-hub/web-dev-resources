@@ -95,6 +95,7 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://github.com/leonardomso/33-js-concepts">33 Concepts Every JavaScript Developer Should Know</a></li>
   <li><a href="https://github.com/30-seconds/30-seconds-of-code">30 seconds of code</a></li>
   <li><a href="https://github.com/thejsway/thejsway">The JavaScript Way</a></li>
+  <li><a href="https://github.com/JSsnippets/JavaScript-snippets">JavaScript-snippets </a></li>
   <li><a href="https://github.com/john-smilga/javascript-basic-projects">Javascript Basic Projects</a></li>
   <li><a href="https://github.com/wesbos/beginner-javascript">Beginner JavaScript</a></li>
   <li><a href="https://www.rithmschool.com/courses/javascript-computer-science-fundamentals">Rithm School Computer Science Fundamentals with JavaScript</a></li>
@@ -104,10 +105,11 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://gist.github.com/Geoff-Ford/c985b67a1a27deadb970d828b6a90282">Master the JavaScript Interview</a></li>
   <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a></li>
   <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
-  <li><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">123-JavaScript-Interview-Questions</a></li>
+  <li><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">123-JavaScript Interview Questions</a></li>
   <li><a href="https://github.com/GitbookIO/javascript">Learn JavaScript</a></li>
+  <li><a href="https://github.com/knaxus/problem-solving-javascript">Problem Solving using Javascript</a></li>
   <li><a href="https://github.com/sadanandpai/javascript-code-challenges">JavaScript Modern Interview Code Challenges</a></li>
-    <li><a href="https://github.com/vvscode/js--interview-questions">JS interview questions</a></li>
+  <li><a href="https://github.com/vvscode/js--interview-questions">JS interview questions</a></li>
   <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript</a></li>
   <li><a href="https://github.com/micromata/awesome-javascript-learning">Awesome JavaScript Learning</a></li>
   <li><a href="https://github.com/amilajack/js-algorithms">JS Algos</a></li>
@@ -497,11 +499,13 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
     <li><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a></li>
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
+    <li><a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank">Competitive Programming Question Bank</a></li>
     <li><a href="https://github.com/jamiebuilds/itsy-bitsy-data-structures">Itsy Bitsy Data Structures</a></li>
     <li><a href="https://github.com/iamtodor/data-science-interview-questions-and-answers">Data Science Interview Questions And Answers</a></li>
     <li><a href="https://github.com/Just-A-Visitor/Algorithmic-Pseudocode">Algorithmic Pseudocode</a></li>
     <li><a href="https://github.com/FAQGURU/FAQGURU">FAQ GURU</a></li>
-    <li><a href="https://github.com/devAmoghS/Machine-Learning-with-Python">Machine-Learning-with-Python</a></li>
+    <li><a href="https://github.com/sachuverma/DataStructures-Algorithms">DATA STRUCTURES & ALGORITHMS</a></li>
+    <li><a href="https://github.com/devAmoghS/Machine-Learning-with-Python">Machine Learning-With Python</a></li>
     <li><a href="https://github.com/rbhatia46/Data-Science-Interview-Resources">Data Science Interview Resources </a></li>
     <li><a href="https://github.com/MrMimic/data-scientist-roadmap">Data Scientist Roadmap</a></li>
     <li><a href="https://github.com/mtdvio/every-programmer-should-know">Every Programmer Should Know </a></li>
@@ -538,6 +542,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/kamranahmedse/developer-roadmap">Developer Roadmap </a></li>
     <li><a href="https://github.com/sindresorhus/awesome">Awesome</a></li>
     <li><a href="https://github.com/open-guides/og-aws">OG AWS</a></li>
+    <li><a href="https://github.com/kettanaito/naming-cheatsheet">Naming cheatsheet</a></li>
     <li><a href="https://github.com/goldbergyoni/nodebestpractices">Node Best Practices</a></li>
     <li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
   </ul>
@@ -556,7 +561,9 @@ You can create segments for frontend development blogs, documentations, reposito
 <ul>
   <li><a href="https://katemats.com/blog/interview-questions/">Epic List of Interview Questions</a></li>
   <li><a href="https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f">Technical Interviews: the 8 Most Common Mistakes Programmers Make</a></li>
+  <li><a href="https://medium.com/nerd-for-tech/software-development-life-cycle-cde7f069d5f3?source=rss-c38e7450a841------2">Technical Interviews: the 8 Most Common Mistakes Programmers Make</a></li>
   <li><a href="http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/">Becoming a Data Scientist – Curriculum via Metromap </a></li>
+  <li><a href="https://medium.com/nerd-for-tech/software-testing-74d197498082">Software Testing</a></li>
   <li><a href="https://triplebyte.com/blog/how-to-pass-a-programming-interview">How to pass a programming interview</a></li>
   <li><a href="https://www.interviewcake.com/coding-interview-tips">Coding Interview Tips</a></li>
 </ul>
