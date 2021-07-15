@@ -107,6 +107,7 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
   <li><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">123-JavaScript Interview Questions</a></li>
   <li><a href="https://github.com/GitbookIO/javascript">Learn JavaScript</a></li>
+  <li><a href="https://github.com/yeungon/In-JavaScript-we-trust">In JS we trust</a></li>
   <li><a href="https://github.com/knaxus/problem-solving-javascript">Problem Solving using Javascript</a></li>
   <li><a href="https://github.com/sadanandpai/javascript-code-challenges">JavaScript Modern Interview Code Challenges</a></li>
   <li><a href="https://github.com/vvscode/js--interview-questions">JS interview questions</a></li>
@@ -434,9 +435,12 @@ You can create segments for frontend development blogs, documentations, reposito
 <details><summary> frontend repositories </summary><blockquote>
 <ul>
   <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front End Checklist</a></li>
-  <li><a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Front end Interview Questions</a></li>
-  <li><a href="https://github.com/khan4019/front-end-Interview-Questions">Front-end Developer Interview Questions</a></li>
+  <li><a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Front end Developer Interview Questions</a></li>
+  <li><a href="https://github.com/khan4019/front-end-Interview-Questions">Front end Interview Questions</a></li>
+  <li><a href="https://github.com/sunil12738/frontend-developer-interview-questions">Frontend UI Developer Interview Questions</a></li>
+  <li><a href="https://github.com/wwwebman/front-end-interview-questions">Front End Interview Questions and Answers</a></li>
   <li><a href="https://github.com/yangshun/front-end-interview-handbook">Front End Interview   Handbook</a></li>
+  <li><a href="https://github.com/harishekhar/frontend-interview-questions">Interview Questions</a></li>
   <li><a href="https://github.com/MarkoDenic/web-development-resources">Awesome Web Development Resources</a></li>
   <li><a href="https://github.com/bcherny/frontend-interview-questions">The Best Frontend JavaScript Interview Questions: Answers</a></li>
   <li><a href="https://github.com/markodenic/awesome-html-css-js-tips">Awesome HTML/CSS/JS Tips</a></li>
@@ -505,6 +509,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/iamtodor/data-science-interview-questions-and-answers">Data Science Interview Questions And Answers</a></li>
     <li><a href="https://github.com/Just-A-Visitor/Algorithmic-Pseudocode">Algorithmic Pseudocode</a></li>
     <li><a href="https://github.com/FAQGURU/FAQGURU">FAQ GURU</a></li>
+    <li><a href="https://github.com/sudheerj/vuejs-interview-questions">vuejs-interview-questions</a></li>
     <li><a href="https://github.com/sachuverma/DataStructures-Algorithms">DATA STRUCTURES & ALGORITHMS</a></li>
     <li><a href="https://github.com/devAmoghS/Machine-Learning-with-Python">Machine Learning-With Python</a></li>
     <li><a href="https://github.com/rbhatia46/Data-Science-Interview-Resources">Data Science Interview Resources </a></li>
@@ -520,10 +525,16 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/AsishRaju/450-DSA">450-DSA Cracker </a></li>
     <li><a href="https://github.com/khangich/machine-learning-interview">Machine Learning Interviews</a></li>
     <li><a href="https://github.com/Olshansk/interview">Interview</a></li>
+    <li><a href="https://github.com/goldbergyoni/javascript-testing-best-practices">JavaScript & Node.js Best Testing Practices</a></li>
+    <li><a href="https://github.com/sudheerj/angular-interview-questions">Angular Interview Questions & Answers</a></li>
     <li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science Programming Problems</a></li>
-    <li><a href="https://github.com/prasadgujar/low-level-design-primer">Interlow-level-design-primerview</a></li>
-   <li><a href="https://github.com/amilajack/reading">Computer Science Reading List</a></li>
+    <li><a href="https://github.com/prasadgujar/low-level-design-primer">Interlow level design primerview</a></li>
+    <li><a href="https://github.com/amilajack/reading">Computer Science Reading List</a></li>
     <li><a href="https://github.com/Olshansk/interview">Interview</a></li>
+    <li><a href="https://github.com/aershov24/web-developer-interview-questions">Web Developer Interview Questions</a></li>
+    <li><a href="https://github.com/goldbergyoni/various-testing-examples">Javascript Testing A-Z</a></li>
+    <li><a href="https://github.com/goldbergyoni/ui-testing-best-practices">UI Testing Best Practices</a></li>
+    <li><a href="https://github.com/goldbergyoni/nodebestpractices">Node.js Best Practices</a></li>
     <li><a href="https://github.com/puncsky/system-design-and-architecture">System Design and Architecture</a></li>
     <li><a href="https://github.com/jdsutton/Technical-Interview-Megarepo">Technical Interview Megarepo</a></li>
     <li><a href="https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers">Full-stack Developer Interview Questions and Answers</a></li>
@@ -543,6 +554,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/kamranahmedse/developer-roadmap">Developer Roadmap </a></li>
     <li><a href="https://github.com/sindresorhus/awesome">Awesome</a></li>
     <li><a href="https://github.com/open-guides/og-aws">OG AWS</a></li>
+    <li><a href="https://github.com/aershov24/full-stack-interview-questions">Full Stack Interview Questions </a></li>
     <li><a href="https://github.com/kettanaito/naming-cheatsheet">Naming cheatsheet</a></li>
     <li><a href="https://github.com/goldbergyoni/nodebestpractices">Node Best Practices</a></li>
     <li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
