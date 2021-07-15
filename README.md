@@ -480,7 +480,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
     <li><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a></li>
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
-    <li><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">23-JavaScript-Interview-Questions</a></li>
+    <li><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">123-JavaScript-Interview-Questions</a></li>
     <li><a href="https://github.com/alexeygrigorev/data-science-interviews">FAQGURU</a></li>
     <li><a href="https://github.com/FAQGURU/FAQGURU">Data Science Interviews</a></li>
     <li><a href="https://github.com/binhnguyennus/awesome-scalability">Awesome Scalability</a></li>
