@@ -538,6 +538,15 @@ You can create segments for frontend development blogs, documentations, reposito
   </ul>
 </blockquote></details>
 
+<details><summary> Courses/Videos </summary><blockquote>
+<ul>
+  <li><a href="https://www.classcentral.com/course/edx-cs50-s-introduction-to-computer-science-442?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">CS50's Introduction to Computer Science</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-computer-science-101-2175?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Computer Science 101</a></li>
+  <li><a href="https://www.classcentral.com/course/edx-programming-basics-1650?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Programming Basics</a></li>
+  <li><a href="https://www.khanacademy.org/computing/computer-science/algorithms">Computer Science Algorithms</a></li>
+</ul>
+</blockquote></details>
+
 <details><summary> Blogs </summary><blockquote>
 <ul>
   <li><a href="https://katemats.com/blog/interview-questions/">Epic List of Interview Questions</a></li>
