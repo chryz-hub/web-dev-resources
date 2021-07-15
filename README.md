@@ -103,8 +103,10 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a></li>
   <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
   <li><a href="https://github.com/GitbookIO/javascript">Learn JavaScript</a></li>
+    <li><a href="https://github.com/vvscode/js--interview-questions">JS interview questions</a></li>
   <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript</a></li>
   <li><a href="https://github.com/micromata/awesome-javascript-learning">Awesome JavaScript Learning</a></li>
+  <li><a href="https://github.com/rohan-paul/Awesome-JavaScript-Interviews">Awesome JavaScript Interviews</a></li>
   <li><a href="https://github.com/javascript-society/javascript-path">JavaScript Path</a></li>
   <li><a href="https://github.com/sudheerj/javascript-interview-questions">JavaScript Interview Questions & Answers</a></li>
   <li><a href="https://github.com/humanwhocodes/computer-science-in-javascript">Computer Science in JavaScript</a></li>
@@ -217,6 +219,7 @@ You can create segments for python blogs, documentations, repositories, books an
  <li><a href="https://github.com/GalvanizeOpenSource/python-resources">python-resources</a></li>
  <li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science   Programming Problems</a></li>
  <li><a href="https://github.com/Asabeneh/Python">Python</a></li>
+ <li><a href="https://github.com/arpan74/ctci-python-solutions">Cracking the Coding Interview in Python</a></li>
  <li><a href="https://github.com/towardsai/tutorials">Tutorials</a></li>
  <li><a href="https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions">100 Plus Python Coding Problems With Solutions</a></li>
  <li><a href="https://github.com/amboulouma/python-ultimate-tutorial">Python Ultimate Tutorial</a></li>
@@ -426,6 +429,7 @@ You can create segments for frontend development blogs, documentations, reposito
   <li><a href="https://github.com/khan4019/front-end-Interview-Questions">Front-end Developer Interview Questions</a></li>
   <li><a href="https://github.com/yangshun/front-end-interview-handbook">Front End Interview   Handbook</a></li>
   <li><a href="https://github.com/MarkoDenic/web-development-resources">Awesome Web Development Resources</a></li>
+  <li><a href="https://github.com/bcherny/frontend-interview-questions">The Best Frontend JavaScript Interview Questions: Answers</a></li>
   <li><a href="https://github.com/markodenic/awesome-html-css-js-tips">Awesome HTML/CSS/JS Tips</a></li>
 </ul>
 </blockquote></details>
@@ -480,8 +484,12 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
     <li><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a></li>
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
+    <li><a href="https://www.rithmschool.com/courses/javascript-computer-science-fundamentals">Rithm School Computer Science Fundamentals with JavaScript</a></li>
+    <li><a href="https://github.com/jamiebuilds/itsy-bitsy-data-structures">Itsy Bitsy Data Structures</a></li>
+    <li><a href="https://github.com/iamtodor/data-science-interview-questions-and-answers">Data Science Interview Questions And Answers</a></li>
     <li><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">123-JavaScript-Interview-Questions</a></li>
     <li><a href="https://github.com/alexeygrigorev/data-science-interviews">FAQGURU</a></li>
+    <li><a href="https://github.com/mtdvio/every-programmer-should-know">Every Programmer Should Know </a></li>
     <li><a href="https://github.com/FAQGURU/FAQGURU">Data Science Interviews</a></li>
     <li><a href="https://github.com/binhnguyennus/awesome-scalability">Awesome Scalability</a></li>
     <li><a href="https://github.com/twowaits/SDE-Interview-Questions">SDE Interview Questions</a></li>
