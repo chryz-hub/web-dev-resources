@@ -97,13 +97,16 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://github.com/thejsway/thejsway">The JavaScript Way</a></li>
   <li><a href="https://github.com/john-smilga/javascript-basic-projects">Javascript Basic Projects</a></li>
   <li><a href="https://github.com/wesbos/beginner-javascript">Beginner JavaScript</a></li>
+  <li><a href="https://www.rithmschool.com/courses/javascript-computer-science-fundamentals">Rithm School Computer Science Fundamentals with JavaScript</a></li>
   <li><a href="https://github.com/ironhack-labs/lab-javascript-vikings">LAB | JS Vikings</a></li>
   <li><a href="https://github.com/goldbergyoni/javascript-testing-best-practices">Javascript Testing Best Practices</a></li>
   <li><a href="https://github.com/lydiahallie/javascript-questions">Javascript Questions</a></li>
   <li><a href="https://gist.github.com/Geoff-Ford/c985b67a1a27deadb970d828b6a90282">Master the JavaScript Interview</a></li>
   <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a></li>
   <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
+  <li><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">123-JavaScript-Interview-Questions</a></li>
   <li><a href="https://github.com/GitbookIO/javascript">Learn JavaScript</a></li>
+  <li><a href="https://github.com/sadanandpai/javascript-code-challenges">JavaScript Modern Interview Code Challenges</a></li>
     <li><a href="https://github.com/vvscode/js--interview-questions">JS interview questions</a></li>
   <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript</a></li>
   <li><a href="https://github.com/micromata/awesome-javascript-learning">Awesome JavaScript Learning</a></li>
@@ -494,23 +497,20 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
     <li><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a></li>
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
-    <li><a href="https://www.rithmschool.com/courses/javascript-computer-science-fundamentals">Rithm School Computer Science Fundamentals with JavaScript</a></li>
     <li><a href="https://github.com/jamiebuilds/itsy-bitsy-data-structures">Itsy Bitsy Data Structures</a></li>
     <li><a href="https://github.com/iamtodor/data-science-interview-questions-and-answers">Data Science Interview Questions And Answers</a></li>
-    <li><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">123-JavaScript-Interview-Questions</a></li>
     <li><a href="https://github.com/alexeygrigorev/data-science-interviews">FAQGURU</a></li>
     <li><a href="https://github.com/mtdvio/every-programmer-should-know">Every Programmer Should Know </a></li>
     <li><a href="https://github.com/FAQGURU/FAQGURU">Data Science Interviews</a></li>
     <li><a href="https://github.com/binhnguyennus/awesome-scalability">Awesome Scalability</a></li>
     <li><a href="https://github.com/twowaits/SDE-Interview-Questions">SDE Interview Questions</a></li>
     <li><a href="https://github.com/checkcheckzz/system-design-interview">System Design Interview</a></li>
-    <li><a href="https://github.com/donnemartin/interactive-coding-challenges">Interactive-coding-challenges</a></li>
+    <li><a href="https://github.com/donnemartin/interactive-coding-challenges">Interactive Coding Challenges</a></li>
     <li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science Programming Problems</a></li>
     <li><a href="https://github.com/elsewhencode/project-guidelines">Project Guidelines</a></li>
     <li><a href="https://github.com/AsishRaju/450-DSA">450-DSA Cracker </a></li>
     <li><a href="https://github.com/khangich/machine-learning-interview">Machine Learning Interviews</a></li>
     <li><a href="https://github.com/Olshansk/interview">Interview</a></li>
-    <li><a href="https://github.com/sadanandpai/javascript-code-challenges">JavaScript Modern Interview Code Challenges</a></li>
     <li><a href="https://github.com/prasadgujar/low-level-design-primer">Interlow-level-design-primerview</a></li>
    <li><a href="https://github.com/amilajack/reading">Computer Science Reading List</a></li>
     <li><a href="https://github.com/Olshansk/interview">Interview</a></li>
@@ -538,12 +538,13 @@ You can create segments for frontend development blogs, documentations, reposito
   </ul>
 </blockquote></details>
 
-<details><summary> Courses/Videos </summary><blockquote>
+<details><summary> Blogs </summary><blockquote>
 <ul>
-  <li><a href="https://www.classcentral.com/course/edx-cs50-s-introduction-to-computer-science-442?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">CS50's Introduction to Computer Science</a></li>
-  <li><a href="https://www.classcentral.com/course/edx-computer-science-101-2175?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Computer Science 101</a></li>
-  <li><a href="https://www.classcentral.com/course/edx-programming-basics-1650?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Programming Basics</a></li>
-  <li><a href="https://www.khanacademy.org/computing/computer-science/algorithms">Computer Science Algorithms</a></li>
+  <li><a href="https://katemats.com/blog/interview-questions/">Epic List of Interview Questions</a></li>
+  <li><a href="https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f">Technical Interviews: the 8 Most Common Mistakes Programmers Make1</a></li>
+  <li><a href="https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f">Technical Interviews: the 8 Most Common Mistakes Programmers Make1</a></li>
+  <li><a href="https://triplebyte.com/blog/how-to-pass-a-programming-interview">How to pass a programming interview</a></li>
+  <li><a href="https://www.interviewcake.com/coding-interview-tips">Coding Interview Tips</a></li>
 </ul>
 </blockquote></details>
 </details>
