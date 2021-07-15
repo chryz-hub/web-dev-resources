@@ -40,6 +40,8 @@ You can create segments for html blogs, documentations, repositories, books and 
 <details><summary> .html courses/videos </summary><blockquote>
 <ul>
   <li><a href="https://www.classcentral.com/course/introhtml-4307?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Introduction to HTML5</a></li>
+  <li><a href="https://www.udemy.com/course/practical-html/">Learn Practical HTML Crash Course in 85-Minutes</a></li>
+  <li><a href="https://www.udemy.com/course/html-introduction-course-learn-html-in-2-hours/">HTML Introduction Course</a></li>
   <li><a href="https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-wJX42730UtT4Yv9feNvCuQ&utm_medium=udemyads&utm_source=aff-campaign">Web Development By Doing: HTML / CSS From Scratch</a></li>
   <li><a href="https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-_DOkslmcJoCEChR4iCx5bw&utm_medium=udemyads&utm_source=aff-campaign">Learn HTML & CSS: How To Start Your Web Development Career</a></li>
   <li><a href="https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-XOO.vj_kLoFIKkCA_..iPg&utm_medium=udemyads&utm_source=aff-campaign">Master the Basics of HTML5 & CSS3: Beginner Web Development</a></li>
@@ -54,13 +56,12 @@ You can create segments for javascript blogs, documentations, repositories, book
 <details><summary> .js websites </summary><blockquote>
 <ul>
   <li><a href="https://javascript.info">Javascript.info </a></li>
-  <li><a href="https://www.vanillajavascriptprojects.com/">Javacript Projects</a></li>
+  <li><a href="https://www.vanillajavascriptprojects.com/">Vanilla Javacript Projects</a></li>
   <li><a href="https://progate.com/courses/es6">Progate</a></li>
   <li><a href="https://www.codecademy.com/catalog/language/javascript">codecademy</a></li>
-  <li><a href="https://developer.mozilla.org">Mozilla Developers Network</a></li>
   <li><a href="https://www.edx.org/learn/javascript">Edx</a></li>
   <li><a href="https://Javascript30.com"> Javascript30</a></li>
-  <li><a href="https://www.w3resource.com/javascript/javascript.php">Javascript Tutorials</a></li>
+  <li><a href="https://www.w3resource.com/javascript/javascript.php">w3resource</a></li>
   <li><a href="https://1loc.dev/"> Javascript Utilities</a></li>
   <li><a href="https://ui.dev/beginners-guide-to-javascript-prototype/">A Beginner's Guide to JavaScript's Prototype </a></li>
   <li><a href="https://www.programiz.com/javascript">Programiz</a></li>
@@ -78,7 +79,7 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://www.classcentral.com/course/edx-programming-for-the-web-with-javascript-8518">Programming for the Web with JavaScript</a></li>
   <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures</a></li>
   <li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data Visualization</a></li>
-  <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+javascript+courses&sort=relevance&src=ukw">Free Javascript Courses</a></li>
+  <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+javascript+courses&sort=relevance&src=ukw">Free Udemy Javascript Courses</a></li>
   <li><a href="https://www.classcentral.com/course/javascript-jquery-json-9568">JavaScript, jQuery, and JSON</a></li>
 </ul>
 </blockquote></details>
@@ -86,7 +87,6 @@ You can create segments for javascript blogs, documentations, repositories, book
 <details><summary> .js repositories </summary><blockquote>
 <ul>
   <li><a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">30 Days Of JavaScript</a></li>
-  <li><a href="https://github.com/elsewhencode/project-guidelines">Project Guidelines</a></li>
   <li><a href="https://github.com/GalvanizeOpenSource/Learn-To-Code-JavaScript">Learn To Code JavaScript</a></li>
   <li><a href="https://github.com/Asabeneh/JavaScript-for-Everyone">JavaScript For Everyone</a></li>
   <li><a href="https://github.com/ryanmcdermott/clean-code-javascript">Clean Code JavaScript</a></li>
@@ -118,6 +118,12 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://github.com/lydiahallie/javascript-questions">Learn JavaScript</a></li>
   <li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide() {</a></li>
   <li><a href="https://github.com/TheAlgorithms/Javascript">The Algorithms - Javascript</a></li>
+</ul>
+</blockquote></details>
+
+<details><summary> .js blogs </summary><blockquote>
+<ul>
+    <li><a href="https://dev.to/macmacky/70-javascript-interview-questions-5gfi">70 JavaScript Interview Questions</a></li>
 </ul>
 </blockquote></details>
 
@@ -189,7 +195,7 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.rithmschool.com/courses/python-fundamentals-part-2">Rithm School Python Fundamentals Part II</a></li>
   <li><a href="https://www.udemy.com/course/an-introduction-to-python-programming/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nGbPJ1nSdDePVzFs3c.OWA&utm_medium=udemyads&utm_source=aff-campaign">An Introduction to Python Programming</a></li>
   <li><a href="https://www.udemy.com/course/python-3-for-total-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-8o.GeO9j_xbjvsLSjKml6A&utm_medium=udemyads&utm_source=aff-campaign">Learn Python 3.6 for Total Beginners</a></li>
-  <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+python+courses&sort=relevance&src=ukw">Free Python Courses</a></li>
+  <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+python+courses&sort=relevance&src=ukw">Free Udemy Python Courses</a></li>
   <li><a href="https://www.udemy.com/course/try-django-v1-11-python-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KU104N._QL8WSDddp4avHA&utm_medium=udemyads&utm_source=aff-campaign">Try Django 1.11 // Python Web Development</a></li>
   <li><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">Scientific Computing with Python</a></li>
   <li><a href="https://www.freecodecamp.org/learn/data-analysis-with-python/">Data Analysis with Python</a></li>
@@ -293,6 +299,7 @@ You can create segments for css blogs, documentations, repositories, books and t
   <li><a href="https://www.afterhoursprogramming.com/tutorial/css/">After Hours Programming</a></li>
   <li><a href="https://cssportal.com">CSS Portal</a></li>
   <li><a href="https://enjoycss.com">Enjoy CSS</a></li>
+  <li><a href="https://csslayout.io/">CSS Layout </a></li>
   <li><a href="https://cssdeck.com">CSS Deck</a></li>
   <li><a href="https://webcode.tools/css-generator">Web Tools</a></li>
   <li><a href="https://csstriggers.com">CSS Triggers</a></li>
@@ -391,8 +398,10 @@ You can create segments for frontend development blogs, documentations, reposito
 <details><summary> frontend websites </summary><blockquote>
 <ul>
   <li><a href="https://www.frontendmentor.io/">Frontend Mentor | Front-end coding challenges using a real-life workflow</a></li>
+  <li><a href="https://responsive.page/">Responsive Design Patterns</a></li>
+  <li><a href="https://getfrontend.tips/all.html">Front-end Tips</a></li>
   <li><a href="https://thatjsdude.com/interview/">Front end Interview Questions</a></li>
-  <li><a href="https://dev.to/macmacky/70-javascript-interview-questions-5gfi">70 JavaScript Interview Questions</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer">MDN- Front end web developer</a></li>
 </ul>
 </blockquote></details>
 
@@ -470,8 +479,13 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome Beginner Friendly Projects</li>
     <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
+    <li><a href="https://github.com/checkcheckzz/system-design-interview">System Design Interview</a></li>
+    <li><a href="https://github.com/donnemartin/interactive-coding-challenges">Interactive-coding-challenges</a></li>
+    <li><a href="https://github.com/GalvanizeOpenSource/100-ds-problems">100 Data Science Programming Problems</a></li>
+    <li><a href="https://github.com/elsewhencode/project-guidelines">Project Guidelines</a></li>
     <li><a href="https://github.com/AsishRaju/450-DSA">450-DSA Cracker </a></li>
     <li><a href="https://github.com/Olshansk/interview">Interview</a></li>
+    <li><a href="https://github.com/kdn251/interviews">Interviews</a></li>
     <li><a href="https://github.com/arialdomartini/Back-End-Developer-Interview-Questions">Back-End Developer Interview Questions</a></li>
     <li><a href="https://github.com/apptension/developer-handbook">Developer Handbook</a></li>
     <li><a href="https://github.com/30-seconds/30-seconds-of-interviews">30 seconds of interviews</a></li>
