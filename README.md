@@ -115,6 +115,7 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript</a></li>
   <li><a href="https://github.com/micromata/awesome-javascript-learning">Awesome JavaScript Learning</a></li>
   <li><a href="https://github.com/amilajack/js-algorithms">JS Algos</a></li>
+  <li><a href="https://github.com/learning-zone/javascript-interview-questions">Learning zone- JavaScript Interview Questions</a></li>
   <li><a href="https://github.com/benoitvallon/computer-science-in-javascript">Computer Science in JavaScript (ES5 and ES6)</a></li>
   <li><a href="https://github.com/rohan-paul/Awesome-JavaScript-Interviews">Awesome JavaScript Interviews</a></li>
   <li><a href="https://github.com/javascript-society/javascript-path">JavaScript Path</a></li>
@@ -345,6 +346,7 @@ You can create segments for css blogs, documentations, repositories, books and t
 <ul>
   <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
   <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
+  <li><a href="https://github.com/learning-zone/css-interview-questions">Learning zone- CSS interview questions</a></li>
   <li><a href="https://github.com/troxler/awesome-css-frameworks">Awesome CSS Frameworks</a></li>
   <li><a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript">You Don't Need JavaScript</a></li>
 </ul>
@@ -373,6 +375,7 @@ You can create segments for react blogs, documentations, repositories, books and
   <li><a href="https://github.com/necolas/react-native-web">React Native for Web</a></li>
   <li><a href="https://github.com/kriasoft/react-starter-kit">React Starter Kit</a></li>
   <li><a href="https://github.com/reactjs">React Community</a></li>
+  <li><a href="https://github.com/learning-zone/react-interview-questions">Learning zone- React Interview Questions</a></li>
   <li><a href="https://github.com/jondot/awesome-react-native">Awesome React Native</a></li>
   <li><a href="https://github.com/sudheerj/reactjs-interview-questions">React Interview Questions & Answers</a></li>
   <li><a href="https://github.com/30-seconds/30-seconds-of-react">30 seconds of react</a></li>
