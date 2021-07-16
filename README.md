@@ -105,6 +105,7 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://gist.github.com/Geoff-Ford/c985b67a1a27deadb970d828b6a90282">Master the JavaScript Interview</a></li>
   <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a></li>
   <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Yet</a></li>
+  <li><a href="https://github.com/learning-zone/javascript-interview-questions">Learning zone -JavaScript Interview Questions</a></li>
   <li><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">123-JavaScript Interview Questions</a></li>
   <li><a href="https://github.com/GitbookIO/javascript">Learn JavaScript</a></li>
   <li><a href="https://github.com/yeungon/In-JavaScript-we-trust">In JS we trust</a></li>
@@ -235,9 +236,9 @@ You can create segments for python blogs, documentations, repositories, books an
  <li><a href="https://github.com/amboulouma/python-ultimate-tutorial">Python Ultimate Tutorial</a></li>
  <li><a href="https://github.com/AsciiKay/Beginners-Python-Examples">Beginners-Python-Programs</a></li>
  <li><a href="https://github.com/Akuli/python-tutorial">Python programming tutorial for beginners</a></li>
- <li><a href="https://github.com/louisfb01/start-machine-learning-in-2020">Start Machine Learning</a></li>
  <li><a href="https://github.com/jerry-git/learn-python3">learn-python3</a></li>
  <li><a href="https://github.com/nairuzabulhul/.CodeBits">CodeBits</a></li>
+  <li><a href="https://github.com/learning-zone/python-interview-questions">Python Interview Questions</a></li>
  <li><a href="https://github.com/gautam1858/python-awesome">python-awesome</a></li>
  <li><a href="https://github.com/talkpython/100daysofcode-with-python-course">100 DaysOfCode with Python</a></li>
  <li><a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a></li>
@@ -509,6 +510,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/iamtodor/data-science-interview-questions-and-answers">Data Science Interview Questions And Answers</a></li>
     <li><a href="https://github.com/Just-A-Visitor/Algorithmic-Pseudocode">Algorithmic Pseudocode</a></li>
     <li><a href="https://github.com/FAQGURU/FAQGURU">FAQ GURU</a></li>
+    <li><a href="https://github.com/learning-zone/website-templates#html5-website-templates-for-begginers-and-professionals">HTML5 Website Templates (For Begginers and Professionals)</a></li>
     <li><a href="https://github.com/sudheerj/vuejs-interview-questions">vuejs-interview-questions</a></li>
     <li><a href="https://github.com/sachuverma/DataStructures-Algorithms">DATA STRUCTURES & ALGORITHMS</a></li>
     <li><a href="https://github.com/devAmoghS/Machine-Learning-with-Python">Machine Learning-With Python</a></li>
@@ -539,6 +541,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/jdsutton/Technical-Interview-Megarepo">Technical Interview Megarepo</a></li>
     <li><a href="https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers">Full-stack Developer Interview Questions and Answers</a></li>
     <li><a href="https://github.com/kdn251/interviews">Interviews</a></li>
+    <li><a href="https://github.com/louisfb01/start-machine-learning-in-2020">Start Machine Learning</a></li>
     <li><a href="https://github.com/arialdomartini/Back-End-Developer-Interview-Questions">Back-End Developer Interview Questions</a></li>
     <li><a href="https://github.com/apptension/developer-handbook">Developer Handbook</a></li>
     <li><a href="https://github.com/30-seconds/30-seconds-of-interviews">30 seconds of interviews</a></li>
@@ -556,7 +559,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/open-guides/og-aws">OG AWS</a></li>
     <li><a href="https://github.com/aershov24/full-stack-interview-questions">Full Stack Interview Questions </a></li>
     <li><a href="https://github.com/kettanaito/naming-cheatsheet">Naming cheatsheet</a></li>
-    <li><a href="https://github.com/goldbergyoni/nodebestpractices">Node Best Practices</a></li>
+    <li><a href="https://github.com/learning-zone/nodejs-interview-questions">Node.js Interview Questions</a></li>
     <li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
   </ul>
 </blockquote></details>
