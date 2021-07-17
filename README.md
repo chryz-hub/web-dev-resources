@@ -7,7 +7,8 @@
 <a href="https://github.com/chryz-hub/web-dev-resources/network/members"><img src="https://img.shields.io/github/forks/chryz-Hub/web-dev-resources?style=plastic"></a>
 <a href="https://github.com/chryz-hub/web-dev-resources/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues/chryz-Hub/web-dev-resources?color=yellow&style=plastic"></a>
 <a href="https://github.com/chryz-hub/web-dev-resources/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/chryz-Hub/web-dev-resources?style=plastic"></a>
-<a href="https://github.com/chryz-hub/web-dev-resources/pulls?q=is%3Aopen+is%3Apr"><img src="https://img.shields.io/github/issues-pr/chryz-Hub/web-dev-resources?color=blue"></a>
+<a href="https://github.com/chryz-hub/web-dev-resources/pulls?q=is%3Aopen+is%3Apr"><img src="https://img.shields.io/github/issues-pr/chryz-Hub/web-dev-resources?color=blue&style=plastic
+"></a>
 <a href="https://github.com/chryz-hub/web-dev-resources/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed/chryz-Hub/web-dev-resources?color=blue&style=plastic"></a>
 
 
