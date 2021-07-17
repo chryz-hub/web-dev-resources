@@ -1,4 +1,15 @@
-# web-dev-resources
+# Web-Dev Resources
+
+<a href="https://github.com/chryz-hub/web-dev-resources"><img src="https://img.shields.io/badge/PRs-welcome-green"></a> 
+<a href="https://github.com/chryz-hub/web-dev-resources"><img src="https://img.shields.io/badge/Contributions-welcome-green"></a> 
+<a href="https://github.com/chryz-hub/web-dev-resources/graphs/contributors"><img src="https://img.shields.io/github/contributors/chryz-Hub/web-dev-resources?style=plastic"></a>
+<a href="https://github.com/chryz-hub/web-dev-resources/stargazers"><img src="https://img.shields.io/github/stars/chryz-Hub/web-dev-resources?style=plastic"></a>
+<a href="https://github.com/chryz-hub/web-dev-resources/network/members"><img src="https://img.shields.io/github/forks/chryz-Hub/web-dev-resources?style=plastic"></a>
+<a href="https://github.com/chryz-hub/web-dev-resources/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues/chryz-Hub/web-dev-resources?color=yellow&style=plastic"></a>
+<a href="https://github.com/chryz-hub/web-dev-resources/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/chryz-Hub/web-dev-resources?style=plastic"></a>
+<a href="https://github.com/chryz-hub/web-dev-resources/pulls?q=is%3Aopen+is%3Apr"><img src="https://img.shields.io/github/issues-pr/chryz-Hub/web-dev-resources?color=blue&style=plastic"></a>
+<a href="https://github.com/chryz-hub/web-dev-resources/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed/chryz-Hub/web-dev-resources?color=blue&style=plastic"></a>
+
 
 This repository is geared towards accumulating world class resources for web developers!
 
@@ -18,7 +29,7 @@ In order for us not to ignore your effort, please check well not to make a dupli
 
 If you want to contribute to a project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean pull request.
 
-## Web-Dev Resources
+## Resources
 
 <details><summary><strong> HTML </summary><blockquote></strong>
 You can create segments for html blogs, documentations, repositories, books and the rest by adding contents.
