@@ -490,7 +490,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://www.dailycodingproblem.com/">Daily Coding Problem</a></li> 
     <li><a href="https://codepen.io/challenges">CodePen</a></li>
     <li><a href="https://www.pramp.com/#/">Pramp</a></li>
-    <li><a href="https://www.testdome.com/Tests">Testdome </a></li>
+    <li><a href="https://www.testdome.com/">Testdome </a></li>
     <li><a href="https://www.interviewbit.com/">InterviewBit</a></li>
     <li><a href="https://interviewing.io/">interviewing.io</a></li>
     <li><a href="https://practice.geeksforgeeks.org/">GeeksForGeeks</a></li>
