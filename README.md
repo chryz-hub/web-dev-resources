@@ -480,7 +480,6 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://codility.com/programmers/">Codility</a></li>
     <li><a href="http://www.codeeval.com/">CodeEval </a></li>
     <li><a href="http://rosalind.info/problems/locations/">Rosalind</a></li>
-    <li><a href="http://fightcodegame.com/">FightCode</a></li>
     <li><a href="http://codeforces.com/">Codeforces</a></li>
     <li><a href="https://www.kaggle.com/">Kaggle</a></li>
     <li><a href="https://geektastic.com/">geektastic</a></li>
@@ -490,7 +489,14 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://www.dailycodingproblem.com/">Daily Coding Problem</a></li> 
     <li><a href="https://codepen.io/challenges">CodePen</a></li>
     <li><a href="https://www.pramp.com/#/">Pramp</a></li>
-    <li><a href="https://www.testdome.com/Tests">Testdome </a></li>
+    <li><a href="https://screeps.com/">Screeps</a></li>
+    <li><a href="https://adventofcode.com/">Advent Of Code</a></li>
+    <li><a href="https://open.kattis.com/">Kattis</a></li>
+    <li><a href="https://www.testdome.com/">Testdome </a></li>
+    <li><a href="https://www.halite.io/">Halite </a></li>
+    <li><a href="https://practity.com/">Practity </a></li>
+    <li><a href="https://dmoj.ca/">DMOJ </a></li>
+    <li><a href="https://www.codeabbey.com/">Codeabbey </a></li>
     <li><a href="https://www.interviewbit.com/">InterviewBit</a></li>
     <li><a href="https://interviewing.io/">interviewing.io</a></li>
     <li><a href="https://practice.geeksforgeeks.org/">GeeksForGeeks</a></li>
