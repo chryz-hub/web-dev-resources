@@ -480,7 +480,6 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://codility.com/programmers/">Codility</a></li>
     <li><a href="http://www.codeeval.com/">CodeEval </a></li>
     <li><a href="http://rosalind.info/problems/locations/">Rosalind</a></li>
-    <li><a href="http://fightcodegame.com/">FightCode</a></li>
     <li><a href="http://codeforces.com/">Codeforces</a></li>
     <li><a href="https://www.kaggle.com/">Kaggle</a></li>
     <li><a href="https://geektastic.com/">geektastic</a></li>
