@@ -45,6 +45,7 @@ You can create segments for html blogs, documentations, repositories, books and 
   <li><a href="https://www.afterhoursprogramming.com/tutorial/html/">After Hours Programming</a></li>
   <li><a href="https://htmlreference.io"> HTML5 Reference</a></li>
   <li><a href="https://www.geeksforgeeks.org/html-tutorials/?ref=lbp">GeeksforGeeks</a></li>
+  <li><a href="https://html.com/">html.com</a></li>
 </ul>
 </blockquote></details>
 
