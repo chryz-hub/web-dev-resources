@@ -155,6 +155,8 @@ You can create segments for javascript blogs, documentations, repositories, book
 <ul>
   <li><a href="https://ubahthebuilder.gumroad.com/l/js-50">JavaScript Notes and Illustrations (50 concepts)</a></li>
   <li><a href="https://eloquentjavascript.net/">Eloquent JavaScript </a></li>
+  <li><a href="https://exploringjs.com/">Exploring JS </a></li>
+  <li><a href="https://leanpub.com/thejsway">The JavaScript Way </a></li>
 </ul>
 </blockquote></details>
 </details>
