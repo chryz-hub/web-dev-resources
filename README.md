@@ -150,6 +150,8 @@ You can create segments for javascript blogs, documentations, repositories, book
 <ul>
   <li><a href="https://ubahthebuilder.gumroad.com/l/js-50">JavaScript Notes and Illustrations (50 concepts)</a></li>
   <li><a href="https://eloquentjavascript.net/">Eloquent JavaScript </a></li>
+  <li><a href="https://exploringjs.com/">Exploring JS </a></li>
+  <li><a href="https://leanpub.com/thejsway">The JavaScript Way </a></li>
 </ul>
 </blockquote></details>
 </details>
@@ -353,6 +355,7 @@ You can create segments for css blogs, documentations, repositories, books and t
   <li><a href="https://github.com/airbnb/javascript/tree/master/react">Airbnb React/JSX Style Guide</a></li>
   <li><a href="https://github.com/30-seconds/30-seconds-of-css">30 seconds of css</a></li>
   <li><a href="https://github.com/learning-zone/css-interview-questions">Learning zone- CSS interview questions</a></li>
+  <li><a href="https://github.com/micromata/awesome-css-learning">Awesome CSS Learning</a></li>
   <li><a href="https://github.com/troxler/awesome-css-frameworks">Awesome CSS Frameworks</a></li>
   <li><a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript">You Don't Need JavaScript</a></li>
 </ul>
@@ -519,14 +522,18 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
     <li><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a></li>
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
-    <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
+    <li><a href="https://github.com/sagivo/algorithms">Algorithms</a></li>
+    <li><a href="https://github.com/sherxon/AlgoDS">Algorithms and Data Structures</a></li>
+    <li><a href="https://github.com/pytorch/tutorials">PyTorch Tutorials</a></li>
+    <li><a href="https://github.com/ankit404/design-resources">Design Resources For Developers</a></li>
     <li><a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank">Competitive Programming Question Bank</a></li>
     <li><a href="https://github.com/jamiebuilds/itsy-bitsy-data-structures">Itsy Bitsy Data Structures</a></li>
     <li><a href="https://github.com/iamtodor/data-science-interview-questions-and-answers">Data Science Interview Questions And Answers</a></li>
     <li><a href="https://github.com/Just-A-Visitor/Algorithmic-Pseudocode">Algorithmic Pseudocode</a></li>
     <li><a href="https://github.com/FAQGURU/FAQGURU">FAQ GURU</a></li>
+    <li><a href="https://github.com/sherxon/DataScienceResources">Data Science Resources</a></li>
     <li><a href="https://github.com/learning-zone/website-templates#html5-website-templates-for-begginers-and-professionals">HTML5 Website Templates (For Begginers and Professionals)</a></li>
-    <li><a href="https://github.com/sudheerj/vuejs-interview-questions">vuejs-interview-questions</a></li>
+    <li><a href="https://github.com/sudheerj/vuejs-interview-questions">Vuejs Interview Questions</a></li>
     <li><a href="https://github.com/sachuverma/DataStructures-Algorithms">DATA STRUCTURES & ALGORITHMS</a></li>
     <li><a href="https://github.com/devAmoghS/Machine-Learning-with-Python">Machine Learning-With Python</a></li>
     <li><a href="https://github.com/rbhatia46/Data-Science-Interview-Resources">Data Science Interview Resources </a></li>
