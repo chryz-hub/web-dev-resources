@@ -571,6 +571,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/jasonbarry/github-actions-starter-pack">GitHub Actions Starter Pack</a></li>
     <li><a href="https://github.com/DopplerHQ/awesome-interview-questions">Awesome Interviews </a></li>
     <li><a href="https://github.com/public-apis/public-apis">Public APIs </a></li>
+    <li> <a href ="https://github.com/ForrestKnight/open-source-cs">The Open Source Computer Science Degree</a></li>
     <li><a href="https://github.com/viraptor/reverse-interview">Reverse interview</a></li>
     <li><a href="https://github.com/donnemartin/system-design-primer">The System Design Primer</a></li>
     <li><a href="https://github.com/ashleymcnamara/learn_to_code">learn to code </a></li>
