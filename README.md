@@ -35,6 +35,8 @@ You can create segments for html blogs, documentations, repositories, books and 
   <li><a href="https://www.w3resource.com/html/HTML-tutorials.php">w3resource- HTML</a></li>
   <li><a href="https://www.w3resource.com/html5/introduction.php">w3resource- HTML5</a></li>
   <li><a href="https://progate.com/courses/html">Progate</a></li>
+  <li><a href="https://www.codecademy.com/learn/learn-html">Learn HTML- Codecademy</a></li>
+  <li><a href="https://scrimba.com/g/ghtml">Introduction to HTML- Scrimba</a></li>
   <li><a href="https://html5rocks.com"> HTML5 Rocks</a></li>
   <li><a href="https://www.afterhoursprogramming.com/tutorial/html/">After Hours Programming</a></li>
   <li><a href="https://htmlreference.io"> HTML5 Reference</a></li>
