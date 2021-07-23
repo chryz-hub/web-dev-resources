@@ -465,7 +465,7 @@ You can create segments for frontend development blogs, documentations, reposito
   <li><a href="https://frontendmasters.com/bootcamp/?utm_source=css-tricks&utm_medium=website&utm_campaign=css-tricks-blog-post">Frontend Masters Web Development Bootcamp</a></li>
 </ul>
 </blockquote></details>
-</details
+</details>
 
 <details><summary><strong> Coding Challenge Websites </summary><blockquote></strong>
   <ul>
