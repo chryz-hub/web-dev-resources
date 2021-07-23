@@ -85,6 +85,7 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://www.classcentral.com/course/javascript-data-manipulation-43871">Data Manipulation in JavaScript</a></li>
   <li><a href="https://www.classcentral.com/course/edx-programming-for-the-web-with-javascript-8518">Programming for the Web with JavaScript</a></li>
   <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures</a></li>
+  <li><a href="https://www.khanacademy.org/computing/computer-programming/programming">Intro to JS: Drawing & Animation</a></li>
   <li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data Visualization</a></li>
   <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+javascript+courses&sort=relevance&src=ukw">Free Udemy Javascript Courses</a></li>
   <li><a href="https://www.classcentral.com/course/javascript-jquery-json-9568">JavaScript, jQuery, and JSON</a></li>
@@ -435,6 +436,8 @@ You can create segments for frontend development blogs, documentations, reposito
 <ul>
   <li><a href="https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign">Foundations of Front-End Web Development</a></li>
   <li><a href="https://www.classcentral.com/course/kadenze-web-coding-fundamentals-html-css-and-javascript-3781">Web Coding Fundamentals: HTML, CSS and Javascript</a></li>
+  <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css">Intro to HTML/CSS: Making webpages
+  </a></li>
   <li><a href="https://www.classcentral.com/course/freecodecamp-front-end-libraries-34061">Front End Development Libraries</a></li>
   <li><a href="https://www.classcentral.com/course/udacity-intro-to-html-and-css-2659?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Intro to HTML and CSS</a></li>
   <li><a href="https://www.classcentral.com/course/web-frameworks-4240">Front-End Web UI Frameworks and Tools</a></li>
