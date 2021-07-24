@@ -35,6 +35,8 @@ You can create segments for html blogs, documentations, repositories, books and 
   <li><a href="https://www.w3resource.com/html/HTML-tutorials.php">w3resource- HTML</a></li>
   <li><a href="https://www.w3resource.com/html5/introduction.php">w3resource- HTML5</a></li>
   <li><a href="https://progate.com/courses/html">Progate</a></li>
+  <li><a href="https://www.codecademy.com/learn/learn-html">Learn HTML- Codecademy</a></li>
+  <li><a href="https://scrimba.com/g/ghtml">Introduction to HTML- Scrimba</a></li>
   <li><a href="https://html5rocks.com"> HTML5 Rocks</a></li>
   <li><a href="https://www.afterhoursprogramming.com/tutorial/html/">After Hours Programming</a></li>
   <li><a href="https://htmlreference.io"> HTML5 Reference</a></li>
@@ -85,6 +87,8 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://www.classcentral.com/course/javascript-data-manipulation-43871">Data Manipulation in JavaScript</a></li>
   <li><a href="https://www.classcentral.com/course/edx-programming-for-the-web-with-javascript-8518">Programming for the Web with JavaScript</a></li>
   <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures</a></li>
+  <li><a href="https://www.khanacademy.org/computing/computer-programming/programming">Intro to JS: Drawing & Animation</a></li>
+  <li><a href="https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations">Advanced JS: Natural Simulations</a></li>
   <li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data Visualization</a></li>
   <li><a href="https://www.udemy.com/courses/search/?price=price-free&q=free+javascript+courses&sort=relevance&src=ukw">Free Udemy Javascript Courses</a></li>
   <li><a href="https://www.classcentral.com/course/javascript-jquery-json-9568">JavaScript, jQuery, and JSON</a></li>
@@ -425,6 +429,7 @@ You can create segments for frontend development blogs, documentations, reposito
 <ul>
   <li><a href="https://www.frontendmentor.io/">Frontend Mentor | Front-end coding challenges using a real-life workflow</a></li>
   <li><a href="https://responsive.page/">Responsive Design Patterns</a></li>
+  <li><a href="https://internetingishard.com/">Interneting is hard (But it doesn’t have to be)</a></li>
   <li><a href="https://getfrontend.tips/all.html">Front-end Tips</a></li>
   <li><a href="https://thatjsdude.com/interview/">Front end Interview Questions</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer">MDN- Front end web developer</a></li>
@@ -435,6 +440,8 @@ You can create segments for frontend development blogs, documentations, reposito
 <ul>
   <li><a href="https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign">Foundations of Front-End Web Development</a></li>
   <li><a href="https://www.classcentral.com/course/kadenze-web-coding-fundamentals-html-css-and-javascript-3781">Web Coding Fundamentals: HTML, CSS and Javascript</a></li>
+  <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css">Intro to HTML/CSS: Making webpages
+  <li><a href="http://www.dontfeartheinternet.com/">Don’t Fear the Internet</a></li>
   <li><a href="https://www.classcentral.com/course/freecodecamp-front-end-libraries-34061">Front End Development Libraries</a></li>
   <li><a href="https://www.classcentral.com/course/udacity-intro-to-html-and-css-2659?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Intro to HTML and CSS</a></li>
   <li><a href="https://www.classcentral.com/course/web-frameworks-4240">Front-End Web UI Frameworks and Tools</a></li>
@@ -457,6 +464,12 @@ You can create segments for frontend development blogs, documentations, reposito
   <li><a href="https://github.com/MarkoDenic/web-development-resources">Awesome Web Development Resources</a></li>
   <li><a href="https://github.com/bcherny/frontend-interview-questions">The Best Frontend JavaScript Interview Questions: Answers</a></li>
   <li><a href="https://github.com/markodenic/awesome-html-css-js-tips">Awesome HTML/CSS/JS Tips</a></li>
+</ul>
+</blockquote></details>
+
+<details><summary> frontend bootcamps </summary><blockquote>
+<ul>
+  <li><a href="https://frontendmasters.com/bootcamp/?utm_source=css-tricks&utm_medium=website&utm_campaign=css-tricks-blog-post">Frontend Masters Web Development Bootcamp</a></li>
 </ul>
 </blockquote></details>
 </details>
@@ -571,6 +584,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/jasonbarry/github-actions-starter-pack">GitHub Actions Starter Pack</a></li>
     <li><a href="https://github.com/DopplerHQ/awesome-interview-questions">Awesome Interviews </a></li>
     <li><a href="https://github.com/public-apis/public-apis">Public APIs </a></li>
+    <li> <a href ="https://github.com/ForrestKnight/open-source-cs">The Open Source Computer Science Degree</a></li>
     <li><a href="https://github.com/viraptor/reverse-interview">Reverse interview</a></li>
     <li><a href="https://github.com/donnemartin/system-design-primer">The System Design Primer</a></li>
     <li><a href="https://github.com/ashleymcnamara/learn_to_code">learn to code </a></li>
