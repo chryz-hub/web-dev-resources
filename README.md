@@ -333,6 +333,7 @@ You can create segments for css blogs, documentations, repositories, books and t
   <li><a href="https://csstriggers.com">CSS Triggers</a></li>
   <li><a href="https://www.geeksforgeeks.org/css-tutorials/?ref=lbp">GeeksforGeeks</a></li>
   <li><a href="https://cubic-bezier.com">Cubic Bezier</a></li>
+  <li><a href="https://www.w3schools.com/css/default.asp">W3 Schools</a></li>
 </ul>
 </blockquote></details>
 
