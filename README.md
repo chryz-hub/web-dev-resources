@@ -172,7 +172,6 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://intellipaat.com/blog/tutorial/python-tutorial/">intelliPaat</a></li>
   <li><a href="http://www.alan-g.me.uk/l2p/index.htm">Learning To Program</a></li>
   <li><a href="https://www.afterhoursprogramming.com/tutorial/python/">After Hours Programming</a></li>
-  <li><a href="https://pymbook.readthedocs.io/en/latest/index.html#welcome-to-python-for-you-and-me">Python for you and me</a></li>
   <li><a href="https://learnpython.org">Learn Python</a></li>
   <li><a href="https://py4e.com">Py4e</a></li>
   <li><a href="https://thepythonguru.com/">ThePythonGuru</a></li>
@@ -292,6 +291,7 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.pdfdrive.com/learning-python-powerful-object-oriented-programming-e169780738.html">Learning Python: powerful object-oriented programming</a></li>
   <li><a href="https://www.pdfdrive.com/introduction-to-machine-learning-with-python-e58337749.html">Introduction to Machine Learning with Python</a></li>
   <li><a href="https://python.swaroopch.com/">A Byte of Python</a></li>
+  <li><a href="https://pymbook.readthedocs.io/en/latest/index.html#welcome-to-python-for-you-and-me">Python for you and me</a></li>
   <li><a href="https://greenteapress.com/wp/learning-with-python/">Learning with Python: How to Think Like a Computer Scientist</a></li>
   <li><a href="https://nostarch.com/beyond-basic-stuff-python">Beyond the Basic Stuff with Python</a></li>
   <li><a href="https://nostarch.com/Dive-Into-Algorithms">Dive Into Algorithms</a></li>
