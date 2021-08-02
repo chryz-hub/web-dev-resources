@@ -15,13 +15,13 @@ This repository is geared towards accumulating world class resources for web dev
 - CSS
 - React 
 
-**Feel free to create an [issue](https://github.com/chryz-hub/web-dev-resources/issues) or make a Pull Request. Please see our [Contributing file](https://github.com/chryz-hub/web-dev-resources/blob/master/CONTRIBUTING.md)
-first and our [Code of Conduct](https://github.com/chryz-hub/web-dev-resources/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a pull request, we appreciate it!
-In order for us not to ignore your effort, please check well not to make a duplicate of a Pull Request (contribution)/ issue!**
 
 # Contributing
 
 If you want to contribute to a project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean pull request.
+Feel free to create an [issue](https://github.com/chryz-hub/web-dev-resources/issues) or make a Pull Request. Please see our [Contributing file](https://github.com/chryz-hub/web-dev-resources/blob/master/CONTRIBUTING.md)
+first and our [Code of Conduct](https://github.com/chryz-hub/web-dev-resources/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a pull request, we appreciate it!
+In order for us not to ignore your effort, please check well not to make a duplicate of a Pull Request (contribution)/ issue!
 
 ## Resources
 
@@ -183,10 +183,10 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://pythonprogramming.net">Python Programming</a></li>
   <li><a href="https://docs.python.org/3/tutorial/index.html">Python Official Documentation</a></li>
   <li><a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a></li>
-  <li><a href="https://www.tutorialspoint.com/python/index.htm">w3schools</a></li>
+  <li><a href="https://www.tutorialspoint.com/python/index.htm"> TutorialsPoint</a></li>
   <li><a href="https://www.codecademy.com/catalog/language/python">codecademy</a></li>
   <li><a href="https://www.kaggle.com/learn/python">Kaggle</a></li>
-  <li><a href="https://www.w3schools.com/python/">TutorialsPoint</a></li>
+  <li><a href="https://www.w3schools.com/python/">w3schools</a></li>
   <li><a href="https://www.programiz.com/python-programming">Programiz</a></li>
   <li><a href="https://realpython.com">Real Python</a></li>
   <li><a href="https://www.sololearn.com/learning/1073">Sololearn</a></li>
