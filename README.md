@@ -301,7 +301,7 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://learnpythonthehardway.org/book/">Learn Python The Hard Way</a></li>
   <li><a href="https://inventwithpython.com/invent4thed/">Invent Your Own Computer Games with Python</a></li>
   <li><a href="https://www.pdfdrive.com/python-crash-course-a-hands-on-project-based-introduction-to-programming-e190067998.html">Python Crash Course: A Hands-On, Project-Based Introduction to Programming</a></li>
-  <li><a href="https://www.oreilly.com/library/view/fluent-python/9781491946237/)">Fluent Python</a></li>
+  <li><a href="https://www.pdfdrive.com/fluent-python-e175513143.html">Fluent Python</a></li>
 </ul>
 </blockquote></details>
 
