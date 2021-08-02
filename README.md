@@ -188,6 +188,7 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.w3schools.com/python/">w3schools</a></li>
   <li><a href="https://www.programiz.com/python-programming">Programiz</a></li>
   <li><a href="https://realpython.com">Real Python</a></li>
+  <li><a href="https://pynative.com">Pynative</a></li>
   <li><a href="https://www.sololearn.com/learning/1073">Sololearn</a></li>
   <li><a href="http://algosaur.us/data-structures-basics/">Algosaurus- A graphic guide to algorithms</a></li>
   <li><a href="https://developers.google.com/edu/python">Google's Python Class</a></li>
