@@ -43,6 +43,7 @@ You can create segments for html blogs, documentations, repositories, books and 
   <li><a href="https://www.geeksforgeeks.org/html-tutorials/?ref=lbp">GeeksforGeeks</a></li>
   <li><a href="https://html.com/">html.com</a></li>
   <li><a href="https://htmldog.com/"> HTML Dog</a></li>
+  <li><a href="https://www.codeconquest.com/tutorials/html/"> HTML Tutorial- Codeconquest</a></li>
 </ul>
 </blockquote></details>
 
@@ -69,6 +70,7 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://progate.com/courses/es6">Progate</a></li>
   <li><a href="https://www.codecademy.com/catalog/language/javascript">codecademy</a></li>
   <li><a href="https://www.edx.org/learn/javascript">Edx</a></li>
+  <li><a href="https://www.codeconquest.com/tutorials/javascript/"> Javascript Tutorial- Codeconquest</a></li>
   <li><a href="http://www.thatjsdude.com/interview/js1.html">JS: Interview Algorithm</a></li>
   <li><a href="https://Javascript30.com"> Javascript30</a></li>
   <li><a href="https://www.w3resource.com/javascript/javascript.php">w3resource</a></li>
@@ -174,6 +176,7 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.afterhoursprogramming.com/tutorial/python/">After Hours Programming</a></li>
   <li><a href="https://learnpython.org">Learn Python</a></li>
   <li><a href="https://py4e.com">Py4e</a></li>
+  <li><a href="https://www.codeconquest.com/tutorials/python/"> Python Tutorial- Codeconquest</a></li>
   <li><a href="https://thepythonguru.com/">ThePythonGuru</a></li>
   <li><a href="https://www.python-course.eu/python3_course.php">Python Course</a></li>
   <li><a href="https://stephensugden.com/crash_into_python/">Crash into Python</a></li>
@@ -328,6 +331,7 @@ You can create segments for css blogs, documentations, repositories, books and t
   <li><a href="https://www.afterhoursprogramming.com/tutorial/css/">After Hours Programming</a></li>
   <li><a href="https://cssportal.com">CSS Portal</a></li>
   <li><a href="https://enjoycss.com">Enjoy CSS</a></li>
+  <li><a href="https://www.codeconquest.com/tutorials/css/"> CSS Tutorial- Codeconquest</a></li>
   <li><a href="https://csslayout.io/">CSS Layout </a></li>
   <li><a href="https://cssdeck.com">CSS Deck</a></li>
   <li><a href="https://webcode.tools/css-generator">Web Tools</a></li>
