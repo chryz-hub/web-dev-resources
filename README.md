@@ -242,6 +242,7 @@ You can create segments for python blogs, documentations, repositories, books an
 <ul>
  <li><a href="https://github.com/realpython/python-guide">Hitchhiker's Guide to Python</a></li>
  <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
+ <li><a href="https://github.com/amontalenti/elements-of-python-style">The Elements of Python Style</a></li>
  <li><a href="https://github.com/rasbt/python_reference">Python Reference</a></li>
  <li><a href="https://github.com/quobit/awesome-python-in-education">awesome-python-in-education</a></li>
  <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a></li>
@@ -287,6 +288,7 @@ You can create segments for python blogs, documentations, repositories, books an
 <details><summary> .py blogs </summary><blockquote>
 <ul>
   <li><a href="https://dev.to/aatmaj/launching-the-learning-python-course-5f31">Learning Python course</a></li>
+  <li><a href="http://pbpython.com/">Practical Business Python</a></li>
 </ul>
 </blockquote></details>
 
