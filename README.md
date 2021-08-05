@@ -43,6 +43,7 @@ You can create segments for html blogs, documentations, repositories, books and 
   <li><a href="https://www.geeksforgeeks.org/html-tutorials/?ref=lbp">GeeksforGeeks</a></li>
   <li><a href="https://html.com/">html.com</a></li>
   <li><a href="https://htmldog.com/"> HTML Dog</a></li>
+  <li><a href="https://www.codeconquest.com/tutorials/html/"> HTML Tutorial- Codeconquest</a></li>
 </ul>
 </blockquote></details>
 
@@ -67,8 +68,10 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://javascript.info">Javascript.info </a></li>
   <li><a href="https://www.vanillajavascriptprojects.com/">Vanilla Javacript Projects</a></li>
   <li><a href="https://progate.com/courses/es6">Progate</a></li>
+  <li><a href="https://www.theodinproject.com/paths/full-stack-javascript?">Full Stack Javascript- The Odin Project</a></li>
   <li><a href="https://www.codecademy.com/catalog/language/javascript">codecademy</a></li>
   <li><a href="https://www.edx.org/learn/javascript">Edx</a></li>
+  <li><a href="https://www.codeconquest.com/tutorials/javascript/"> Javascript Tutorial- Codeconquest</a></li>
   <li><a href="http://www.thatjsdude.com/interview/js1.html">JS: Interview Algorithm</a></li>
   <li><a href="https://Javascript30.com"> Javascript30</a></li>
   <li><a href="https://www.w3resource.com/javascript/javascript.php">w3resource</a></li>
@@ -172,9 +175,12 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://intellipaat.com/blog/tutorial/python-tutorial/">intelliPaat</a></li>
   <li><a href="http://www.alan-g.me.uk/l2p/index.htm">Learning To Program</a></li>
   <li><a href="https://www.afterhoursprogramming.com/tutorial/python/">After Hours Programming</a></li>
-  <li><a href="https://pymbook.readthedocs.io/en/latest/index.html#welcome-to-python-for-you-and-me">Python for you and me</a></li>
   <li><a href="https://learnpython.org">Learn Python</a></li>
   <li><a href="https://py4e.com">Py4e</a></li>
+  <li><a href="https://www.thinkful.com/learn/intro-to-python-tutorial/Setup">Programming Fundamentals in Python</a></li>
+  <li><a href="http://www.rafekettler.com/magicmethods.html">Learning Python Magic Methods</a></li>
+  <li><a href="https://pythonspot.com/en/all-tutorials/">Pythonspot</a></li>
+  <li><a href="https://www.codeconquest.com/tutorials/python/"> Python Tutorial- Codeconquest</a></li>
   <li><a href="https://thepythonguru.com/">ThePythonGuru</a></li>
   <li><a href="https://www.python-course.eu/python3_course.php">Python Course</a></li>
   <li><a href="https://stephensugden.com/crash_into_python/">Crash into Python</a></li>
@@ -189,6 +195,7 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.w3schools.com/python/">w3schools</a></li>
   <li><a href="https://www.programiz.com/python-programming">Programiz</a></li>
   <li><a href="https://realpython.com">Real Python</a></li>
+  <li><a href="https://pynative.com">Pynative</a></li>
   <li><a href="https://www.sololearn.com/learning/1073">Sololearn</a></li>
   <li><a href="http://algosaur.us/data-structures-basics/">Algosaurus- A graphic guide to algorithms</a></li>
   <li><a href="https://developers.google.com/edu/python">Google's Python Class</a></li>
@@ -237,6 +244,7 @@ You can create segments for python blogs, documentations, repositories, books an
 <ul>
  <li><a href="https://github.com/realpython/python-guide">Hitchhiker's Guide to Python</a></li>
  <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
+ <li><a href="https://github.com/amontalenti/elements-of-python-style">The Elements of Python Style</a></li>
  <li><a href="https://github.com/rasbt/python_reference">Python Reference</a></li>
  <li><a href="https://github.com/quobit/awesome-python-in-education">awesome-python-in-education</a></li>
  <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a></li>
@@ -282,6 +290,7 @@ You can create segments for python blogs, documentations, repositories, books an
 <details><summary> .py blogs </summary><blockquote>
 <ul>
   <li><a href="https://dev.to/aatmaj/launching-the-learning-python-course-5f31">Learning Python course</a></li>
+  <li><a href="http://pbpython.com/">Practical Business Python</a></li>
 </ul>
 </blockquote></details>
 
@@ -292,10 +301,12 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.pdfdrive.com/learning-python-powerful-object-oriented-programming-e169780738.html">Learning Python: powerful object-oriented programming</a></li>
   <li><a href="https://www.pdfdrive.com/introduction-to-machine-learning-with-python-e58337749.html">Introduction to Machine Learning with Python</a></li>
   <li><a href="https://python.swaroopch.com/">A Byte of Python</a></li>
+  <li><a href="https://pymbook.readthedocs.io/en/latest/index.html#welcome-to-python-for-you-and-me">Python for you and me</a></li>
   <li><a href="https://greenteapress.com/wp/learning-with-python/">Learning with Python: How to Think Like a Computer Scientist</a></li>
   <li><a href="https://nostarch.com/beyond-basic-stuff-python">Beyond the Basic Stuff with Python</a></li>
   <li><a href="https://nostarch.com/Dive-Into-Algorithms">Dive Into Algorithms</a></li>
   <li><a href="https://nostarch.com/crackingcodes">Cracking Codes with Python</a></li>
+  <li><a href="https://book.pythontips.com/en/latest/#">Intermediate Python</a></li>
   <li><a href="https://www.pdfdrive.com/python-cookbook-recipes-for-mastering-python-3-e187326224.html">Python Cookbook: Recipes for Mastering Python 3</a></li>
   <li><a href="https://www.academia.edu/44608760/GLOBAL_EDITION_FOURTH_EDITION_Starting_Out_with_Python">Starting Out With Python</a></li>
   <li><a href="https://learnpythonthehardway.org/book/">Learn Python The Hard Way</a></li>
@@ -327,6 +338,7 @@ You can create segments for css blogs, documentations, repositories, books and t
   <li><a href="https://www.afterhoursprogramming.com/tutorial/css/">After Hours Programming</a></li>
   <li><a href="https://cssportal.com">CSS Portal</a></li>
   <li><a href="https://enjoycss.com">Enjoy CSS</a></li>
+  <li><a href="https://www.codeconquest.com/tutorials/css/"> CSS Tutorial- Codeconquest</a></li>
   <li><a href="https://csslayout.io/">CSS Layout </a></li>
   <li><a href="https://cssdeck.com">CSS Deck</a></li>
   <li><a href="https://webcode.tools/css-generator">Web Tools</a></li>
@@ -433,6 +445,7 @@ You can create segments for frontend development blogs, documentations, reposito
   <li><a href="https://responsive.page/">Responsive Design Patterns</a></li>
   <li><a href="https://internetingishard.com/">Interneting is hard (But it doesn’t have to be)</a></li>
   <li><a href="https://getfrontend.tips/all.html">Front-end Tips</a></li>
+  <li><a href="https://dash.generalassemb.ly/">Learn to code awesome websites in HTML, CSS and Javascript</a></li>
   <li><a href="https://thatjsdude.com/interview/">Front end Interview Questions</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer">MDN- Front end web developer</a></li>
 </ul>
@@ -496,6 +509,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="http://codeforces.com/">Codeforces</a></li>
     <li><a href="https://www.kaggle.com/">Kaggle</a></li>
     <li><a href="https://geektastic.com/">geektastic</a></li>
+    <li><a href="https://thecodeplayer.com/">The Code Player</a></li>
     <li><a href="http://www.programmr.com/">Programmr</a></li>
     <li><a href="https://codegym.cc/">CodeGym</a></li>
     <li><a href="https://www.interviewcake.com/">Interview Cake</a></li>
