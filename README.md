@@ -68,6 +68,7 @@ You can create segments for javascript blogs, documentations, repositories, book
   <li><a href="https://javascript.info">Javascript.info </a></li>
   <li><a href="https://www.vanillajavascriptprojects.com/">Vanilla Javacript Projects</a></li>
   <li><a href="https://progate.com/courses/es6">Progate</a></li>
+  <li><a href="https://www.theodinproject.com/paths/full-stack-javascript?">Full Stack Javascript- The Odin Project</a></li>
   <li><a href="https://www.codecademy.com/catalog/language/javascript">codecademy</a></li>
   <li><a href="https://www.edx.org/learn/javascript">Edx</a></li>
   <li><a href="https://www.codeconquest.com/tutorials/javascript/"> Javascript Tutorial- Codeconquest</a></li>
@@ -444,6 +445,7 @@ You can create segments for frontend development blogs, documentations, reposito
   <li><a href="https://responsive.page/">Responsive Design Patterns</a></li>
   <li><a href="https://internetingishard.com/">Interneting is hard (But it doesn’t have to be)</a></li>
   <li><a href="https://getfrontend.tips/all.html">Front-end Tips</a></li>
+  <li><a href="https://dash.generalassemb.ly/">Learn to code awesome websites in HTML, CSS and Javascript</a></li>
   <li><a href="https://thatjsdude.com/interview/">Front end Interview Questions</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer">MDN- Front end web developer</a></li>
 </ul>
@@ -507,6 +509,7 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="http://codeforces.com/">Codeforces</a></li>
     <li><a href="https://www.kaggle.com/">Kaggle</a></li>
     <li><a href="https://geektastic.com/">geektastic</a></li>
+    <li><a href="https://thecodeplayer.com/">The Code Player</a></li>
     <li><a href="http://www.programmr.com/">Programmr</a></li>
     <li><a href="https://codegym.cc/">CodeGym</a></li>
     <li><a href="https://www.interviewcake.com/">Interview Cake</a></li>
