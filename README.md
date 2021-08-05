@@ -176,6 +176,8 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.afterhoursprogramming.com/tutorial/python/">After Hours Programming</a></li>
   <li><a href="https://learnpython.org">Learn Python</a></li>
   <li><a href="https://py4e.com">Py4e</a></li>
+  <li><a href="http://www.rafekettler.com/magicmethods.html">Learning Python Magic Methods</a></li>
+  <li><a href="https://pythonspot.com/en/all-tutorials/">Pythonspot</a></li>
   <li><a href="https://www.codeconquest.com/tutorials/python/"> Python Tutorial- Codeconquest</a></li>
   <li><a href="https://thepythonguru.com/">ThePythonGuru</a></li>
   <li><a href="https://www.python-course.eu/python3_course.php">Python Course</a></li>
