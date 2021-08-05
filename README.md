@@ -176,6 +176,7 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.afterhoursprogramming.com/tutorial/python/">After Hours Programming</a></li>
   <li><a href="https://learnpython.org">Learn Python</a></li>
   <li><a href="https://py4e.com">Py4e</a></li>
+  <li><a href="https://www.thinkful.com/learn/intro-to-python-tutorial/Setup">Programming Fundamentals in Python</a></li>
   <li><a href="http://www.rafekettler.com/magicmethods.html">Learning Python Magic Methods</a></li>
   <li><a href="https://pythonspot.com/en/all-tutorials/">Pythonspot</a></li>
   <li><a href="https://www.codeconquest.com/tutorials/python/"> Python Tutorial- Codeconquest</a></li>
@@ -304,6 +305,7 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://nostarch.com/beyond-basic-stuff-python">Beyond the Basic Stuff with Python</a></li>
   <li><a href="https://nostarch.com/Dive-Into-Algorithms">Dive Into Algorithms</a></li>
   <li><a href="https://nostarch.com/crackingcodes">Cracking Codes with Python</a></li>
+  <li><a href="https://book.pythontips.com/en/latest/#">Intermediate Python</a></li>
   <li><a href="https://www.pdfdrive.com/python-cookbook-recipes-for-mastering-python-3-e187326224.html">Python Cookbook: Recipes for Mastering Python 3</a></li>
   <li><a href="https://www.academia.edu/44608760/GLOBAL_EDITION_FOURTH_EDITION_Starting_Out_with_Python">Starting Out With Python</a></li>
   <li><a href="https://learnpythonthehardway.org/book/">Learn Python The Hard Way</a></li>
