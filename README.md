@@ -491,11 +491,7 @@ You can create segments for frontend development blogs, documentations, reposito
 
 <details><summary><strong> Coding Challenge Websites </summary><blockquote></strong>
   <ul>
-    <li><a href="https://www.topcoder.com/challenges/?pageIndex=1">TopCoder</a></li>
-    <li><a href="https://www.coderbyte.com/">Coderbyte </a></li>
-    <li><a href="https://projecteuler.net/">ProjectEuler </a></li>
-    <li><a href="https://www.hackerrank.com/dashboard">HackerRank </a></li>
-    <li><a href="https://www.codechef.com/">CodeChef </a></li>
+    <li><a href="https://edabit.com/">Edabit </a></li> - A better way to learn programming, you learn to code with 10,000+ interative challenges. 
     <li><a href="https://exercism.io/">exercism </a></li>
     <li><a href="https://www.codewars.com/">Codewars </a></li>
     <li><a href="https://leetcode.com/">LeetCode </a></li>
