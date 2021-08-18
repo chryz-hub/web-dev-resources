@@ -86,6 +86,8 @@ You can create segments for javascript blogs, documentations, repositories, book
 <details><summary> .js courses/videos </summary><blockquote>
 <ul>
   <li><a href="https://www.classcentral.com/course/javascript-4295">Interactivity with JavaScript</a></li>
+  <li><a href="https://youtu.be/jS4aFq5-91M">JavaScript Programming - Full Course</a></li>
+  <li><a href="https://scrimba.com/learn/learnjavascript">Learn JavaScript for free</a></li>
   <li><a href="https://www.classcentral.com/course/web-application-development-4288">Web Application Development with JavaScript and MongoDB</a></li>
   <li><a href="https://www.classcentral.com/course/javascript-basics-36577">JavaScript Basics</a></li>
   <li><a href="https://www.classcentral.com/course/javascript-data-manipulation-43871">Data Manipulation in JavaScript</a></li>
