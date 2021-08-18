@@ -87,7 +87,9 @@ You can create segments for javascript blogs, documentations, repositories, book
 <ul>
   <li><a href="https://www.classcentral.com/course/javascript-4295">Interactivity with JavaScript</a></li>
   <li><a href="https://youtu.be/jS4aFq5-91M">JavaScript Programming - Full Course</a></li>
+  <li><a href="https://www.youtube.com/watch?v=PkZNo7MFNFg">Learn JavaScript - Full Course for Beginners</a></li>
   <li><a href="https://scrimba.com/learn/learnjavascript">Learn JavaScript for free</a></li>
+  <li><a href="https://www.youtube.com/watch?v=t2CEgPsws3U">Data Structures and Algorithms in JavaScript - Full Course for Beginners</a></li>
   <li><a href="https://www.classcentral.com/course/web-application-development-4288">Web Application Development with JavaScript and MongoDB</a></li>
   <li><a href="https://www.classcentral.com/course/javascript-basics-36577">JavaScript Basics</a></li>
   <li><a href="https://www.classcentral.com/course/javascript-data-manipulation-43871">Data Manipulation in JavaScript</a></li>
@@ -217,6 +219,8 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.coursera.org/learn/python-crash-course">Crash Course on Python</a></li>
   <li><a href="https://www.coursera.org/learn/python">Programming for Everybody (Getting Started with Python)</a></li>
   <li><a href="https://www.coursera.org/learn/python-data">Python Data Structures</a></li>
+  <li><a href="https://www.youtube.com/watch?v=rfscVS0vtbw">Learn Python - Full Course for Beginners [Tutorial]</a></li>
+  <li><a href="https://www.youtube.com/watch?v=_vCT42vDfgw">Python Data StructuresPython Django and Google APIs - Project Tutorial</a></li>
   <li><a href="https://www.coursera.org/specializations/python-3-programming">Python 3 Programming Specialization</a></li>
   <li><a href="https://www.classcentral.com/course/interactivepython1-408?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">An Introduction to Interactive Programming in Python (Part 1)</a></li>
   <li><a href="https://www.classcentral.com/course/programming1-385?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Learn to Program: The Fundamentals</a></li>
