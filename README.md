@@ -222,6 +222,7 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.youtube.com/watch?v=rfscVS0vtbw">Learn Python - Full Course for Beginners [Tutorial]</a></li>
   <li><a href="https://www.youtube.com/watch?v=_vCT42vDfgw">Python Django and Google APIs - Project Tutorial</a></li>
   <li><a href="https://www.coursera.org/specializations/python-3-programming">Python 3 Programming Specialization</a></li>
+  <li><a href="https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/">Backend Web Development with Python - Full Course</a></li>
   <li><a href="https://www.classcentral.com/course/interactivepython1-408?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">An Introduction to Interactive Programming in Python (Part 1)</a></li>
   <li><a href="https://www.classcentral.com/course/programming1-385?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Learn to Program: The Fundamentals</a></li>
   <li><a href="https://www.classcentral.com/course/python-programming-9549?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Python Programming Essentials</a></li>
