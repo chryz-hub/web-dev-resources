@@ -219,7 +219,10 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.coursera.org/learn/python-crash-course">Crash Course on Python</a></li>
   <li><a href="https://www.coursera.org/learn/python">Programming for Everybody (Getting Started with Python)</a></li>
   <li><a href="https://www.coursera.org/learn/python-data">Python Data Structures</a></li>
+  <li><a href="https://www.youtube.com/watch?v=8DvywoWv6fI">Python for Everybody - Full University Python Course</a></li>
   <li><a href="https://www.youtube.com/watch?v=rfscVS0vtbw">Learn Python - Full Course for Beginners [Tutorial]</a></li>
+  <li><a href="https://www.youtube.com/watch?v=p65AHm9MX80">Python Algorithms for Interviews</a></li>
+  <li><a href="https://www.youtube.com/watch?v=E-1xI85Zog8">MongoDB with Python Crash Course - Tutorial for Beginners</a></li>
   <li><a href="https://www.youtube.com/watch?v=_vCT42vDfgw">Python Django and Google APIs - Project Tutorial</a></li>
   <li><a href="https://www.coursera.org/specializations/python-3-programming">Python 3 Programming Specialization</a></li>
   <li><a href="https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/">Backend Web Development with Python - Full Course</a></li>
