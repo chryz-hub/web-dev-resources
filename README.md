@@ -368,6 +368,7 @@ You can create segments for css blogs, documentations, repositories, books and t
   <li><a href="https://www.classcentral.com/course/introcss-4294?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Introduction to CSS3</a></li>
   <li><a href="https://www.youtube.com/watch?v=ieTHC78giGQ">CSS Full Course - Includes Flexbox and CSS Grid Tutorials</a></li>
   <li><a href="https://www.youtube.com/watch?v=_a5j7KoflTs">Sass Tutorial for Beginners - CSS With Superpowers</a></li>
+  <li><a href="https://www.youtube.com/watch?v=1Rs2ND1ryYc">CSS Tutorial - Zero to Hero (Complete Course)</a></li>
   <li><a href="https://www.youtube.com/watch?v=_drzb7j9Bg4">Foundation CSS Framework Tutorial - Crash Course for Beginners</a></li>
 </ul>
 </blockquote></details>
@@ -479,6 +480,7 @@ You can create segments for frontend development blogs, documentations, reposito
   <li><a href="https://www.classcentral.com/course/web-frameworks-4240">Front-End Web UI Frameworks and Tools</a></li>
   <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/">Responsive Web Design</a></li>
   <li><a href="https://www.youtube.com/watch?v=mU6anWqZJcc">Learn HTML5 and CSS3 From Scratch - Full Course</a></li>
+  <li><a href="https://www.youtube.com/watch?v=wq-Q7CDj6ZI">HTML/CSS Tutorial - Build a Beautiful Blog</a></li>
   <li><a href="https://www.youtube.com/watch?v=kMT54MPz9oE">HTML and CSS Tutorial - Create a Website for Beginners</a></li>
   <li><a href="https://www.classcentral.com/course/html-css-javascript-for-web-developers-4270">HTML, CSS, and Javascript for Web Developers</a></li>
   <li><a href="https://www.classcentral.com/course/duke-programming-web-4256">Programming Foundations with JavaScript, HTML and CSS</a></li>
