@@ -56,6 +56,8 @@ You can create segments for html blogs, documentations, repositories, books and 
   <li><a href="https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-_DOkslmcJoCEChR4iCx5bw&utm_medium=udemyads&utm_source=aff-campaign">Learn HTML & CSS: How To Start Your Web Development Career</a></li>
   <li><a href="https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-XOO.vj_kLoFIKkCA_..iPg&utm_medium=udemyads&utm_source=aff-campaign">Master the Basics of HTML5 & CSS3: Beginner Web Development</a></li>
   <li><a href="https://www.youtube.com/watch?v=pQN-pnXPaVg">HTML Full Course - Build a Website Tutorial</a></li>
+  <li><a href="https://www.youtube.com/watch?v=PlxWf493en4">HTML Tutorial - How to Make a Super Simple Website</a></li>
+  <li><a href="https://www.youtube.com/watch?v=DPnqb74Smug">Learn HTML5 - full course with code samples</a></li>
 </ul>
 </blockquote></details>
 </details>
@@ -365,6 +367,8 @@ You can create segments for css blogs, documentations, repositories, books and t
 <ul>
   <li><a href="https://www.classcentral.com/course/introcss-4294?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Introduction to CSS3</a></li>
   <li><a href="https://www.youtube.com/watch?v=ieTHC78giGQ">CSS Full Course - Includes Flexbox and CSS Grid Tutorials</a></li>
+  <li><a href="https://www.youtube.com/watch?v=_a5j7KoflTs">Sass Tutorial for Beginners - CSS With Superpowers</a></li>
+  <li><a href="https://www.youtube.com/watch?v=_drzb7j9Bg4">Foundation CSS Framework Tutorial - Crash Course for Beginners</a></li>
 </ul>
 </blockquote></details>
 
@@ -475,6 +479,7 @@ You can create segments for frontend development blogs, documentations, reposito
   <li><a href="https://www.classcentral.com/course/web-frameworks-4240">Front-End Web UI Frameworks and Tools</a></li>
   <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/">Responsive Web Design</a></li>
   <li><a href="https://www.youtube.com/watch?v=mU6anWqZJcc">Learn HTML5 and CSS3 From Scratch - Full Course</a></li>
+  <li><a href="https://www.youtube.com/watch?v=kMT54MPz9oE">HTML and CSS Tutorial - Create a Website for Beginners</a></li>
   <li><a href="https://www.classcentral.com/course/html-css-javascript-for-web-developers-4270">HTML, CSS, and Javascript for Web Developers</a></li>
   <li><a href="https://www.classcentral.com/course/duke-programming-web-4256">Programming Foundations with JavaScript, HTML and CSS</a></li>
   <li><a href="https://www.freecodecamp.org/learn/front-end-libraries/">Front End Development Libraries</a></li>
