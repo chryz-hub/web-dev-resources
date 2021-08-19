@@ -55,6 +55,9 @@ You can create segments for html blogs, documentations, repositories, books and 
   <li><a href="https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-wJX42730UtT4Yv9feNvCuQ&utm_medium=udemyads&utm_source=aff-campaign">Web Development By Doing: HTML / CSS From Scratch</a></li>
   <li><a href="https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-_DOkslmcJoCEChR4iCx5bw&utm_medium=udemyads&utm_source=aff-campaign">Learn HTML & CSS: How To Start Your Web Development Career</a></li>
   <li><a href="https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-XOO.vj_kLoFIKkCA_..iPg&utm_medium=udemyads&utm_source=aff-campaign">Master the Basics of HTML5 & CSS3: Beginner Web Development</a></li>
+  <li><a href="https://www.youtube.com/watch?v=pQN-pnXPaVg">HTML Full Course - Build a Website Tutorial</a></li>
+  <li><a href="https://www.youtube.com/watch?v=PlxWf493en4">HTML Tutorial - How to Make a Super Simple Website</a></li>
+  <li><a href="https://www.youtube.com/watch?v=DPnqb74Smug">Learn HTML5 - full course with code samples</a></li>
 </ul>
 </blockquote></details>
 </details>
@@ -86,6 +89,11 @@ You can create segments for javascript blogs, documentations, repositories, book
 <details><summary> .js courses/videos </summary><blockquote>
 <ul>
   <li><a href="https://www.classcentral.com/course/javascript-4295">Interactivity with JavaScript</a></li>
+  <li><a href="https://youtu.be/jS4aFq5-91M">JavaScript Programming - Full Course</a></li>
+  <li><a href="https://www.youtube.com/watch?v=PkZNo7MFNFg">Learn JavaScript - Full Course for Beginners</a></li>
+  <li><a href="https://scrimba.com/learn/learnjavascript">Learn JavaScript for free</a></li>
+  <li><a href="https://www.youtube.com/watch?v=m_HJ3juuFvo">Javascript Project Tutorial: Budget App</a></li>
+  <li><a href="https://www.youtube.com/watch?v=t2CEgPsws3U">Data Structures and Algorithms in JavaScript - Full Course for Beginners</a></li>
   <li><a href="https://www.classcentral.com/course/web-application-development-4288">Web Application Development with JavaScript and MongoDB</a></li>
   <li><a href="https://www.classcentral.com/course/javascript-basics-36577">JavaScript Basics</a></li>
   <li><a href="https://www.classcentral.com/course/javascript-data-manipulation-43871">Data Manipulation in JavaScript</a></li>
@@ -215,7 +223,13 @@ You can create segments for python blogs, documentations, repositories, books an
   <li><a href="https://www.coursera.org/learn/python-crash-course">Crash Course on Python</a></li>
   <li><a href="https://www.coursera.org/learn/python">Programming for Everybody (Getting Started with Python)</a></li>
   <li><a href="https://www.coursera.org/learn/python-data">Python Data Structures</a></li>
+  <li><a href="https://www.youtube.com/watch?v=8DvywoWv6fI">Python for Everybody - Full University Python Course</a></li>
+  <li><a href="https://www.youtube.com/watch?v=rfscVS0vtbw">Learn Python - Full Course for Beginners [Tutorial]</a></li>
+  <li><a href="https://www.youtube.com/watch?v=p65AHm9MX80">Python Algorithms for Interviews</a></li>
+  <li><a href="https://www.youtube.com/watch?v=E-1xI85Zog8">MongoDB with Python Crash Course - Tutorial for Beginners</a></li>
+  <li><a href="https://www.youtube.com/watch?v=_vCT42vDfgw">Python Django and Google APIs - Project Tutorial</a></li>
   <li><a href="https://www.coursera.org/specializations/python-3-programming">Python 3 Programming Specialization</a></li>
+  <li><a href="https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/">Backend Web Development with Python - Full Course</a></li>
   <li><a href="https://www.classcentral.com/course/interactivepython1-408?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">An Introduction to Interactive Programming in Python (Part 1)</a></li>
   <li><a href="https://www.classcentral.com/course/programming1-385?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Learn to Program: The Fundamentals</a></li>
   <li><a href="https://www.classcentral.com/course/python-programming-9549?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Python Programming Essentials</a></li>
@@ -352,6 +366,10 @@ You can create segments for css blogs, documentations, repositories, books and t
 <details><summary> .css courses/videos </summary><blockquote>
 <ul>
   <li><a href="https://www.classcentral.com/course/introcss-4294?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Introduction to CSS3</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ieTHC78giGQ">CSS Full Course - Includes Flexbox and CSS Grid Tutorials</a></li>
+  <li><a href="https://www.youtube.com/watch?v=_a5j7KoflTs">Sass Tutorial for Beginners - CSS With Superpowers</a></li>
+  <li><a href="https://www.youtube.com/watch?v=1Rs2ND1ryYc">CSS Tutorial - Zero to Hero (Complete Course)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=_drzb7j9Bg4">Foundation CSS Framework Tutorial - Crash Course for Beginners</a></li>
 </ul>
 </blockquote></details>
 
@@ -461,6 +479,9 @@ You can create segments for frontend development blogs, documentations, reposito
   <li><a href="https://www.classcentral.com/course/udacity-intro-to-html-and-css-2659?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Intro to HTML and CSS</a></li>
   <li><a href="https://www.classcentral.com/course/web-frameworks-4240">Front-End Web UI Frameworks and Tools</a></li>
   <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/">Responsive Web Design</a></li>
+  <li><a href="https://www.youtube.com/watch?v=mU6anWqZJcc">Learn HTML5 and CSS3 From Scratch - Full Course</a></li>
+  <li><a href="https://www.youtube.com/watch?v=wq-Q7CDj6ZI">HTML/CSS Tutorial - Build a Beautiful Blog</a></li>
+  <li><a href="https://www.youtube.com/watch?v=kMT54MPz9oE">HTML and CSS Tutorial - Create a Website for Beginners</a></li>
   <li><a href="https://www.classcentral.com/course/html-css-javascript-for-web-developers-4270">HTML, CSS, and Javascript for Web Developers</a></li>
   <li><a href="https://www.classcentral.com/course/duke-programming-web-4256">Programming Foundations with JavaScript, HTML and CSS</a></li>
   <li><a href="https://www.freecodecamp.org/learn/front-end-libraries/">Front End Development Libraries</a></li>
