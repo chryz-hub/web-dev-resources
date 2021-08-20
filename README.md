@@ -567,6 +567,7 @@ You can create segments for frontend development blogs, documentations, reposito
 <details><summary>Repositories</summary><blockquote>
 <ul>
     <li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Dev For Beginners</a>- 24 Lessons, 12 Weeks to get started as a Web Developer.</li>
+    <li><a href="https://github.com/EdemGold/Nutshell-Machine-Learning">Nutshell Mahcine Learning</a> - This repository contains resources to kickstart and enhance your machine learning journey.
     <li><a href="https://github.com/zero-to-mastery/resources">Useful Resources for Developers</a> - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development).</li>
     <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a> - Freely available programming books.</li>
     <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome Beginner Friendly Projects</a> - A list of awesome beginners-friendly projects.</li> 
