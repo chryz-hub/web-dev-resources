@@ -622,17 +622,17 @@ You can create segments for frontend development blogs, documentations, reposito
     <li><a href="https://github.com/public-apis/public-apis">Public APIs </a> - A collective list of free APIs.</li>
     <li> <a href ="https://github.com/ForrestKnight/open-source-cs">The Open Source Computer Science Degree</a> - This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.</li>
     <li><a href="https://github.com/viraptor/reverse-interview">Reverse interview</a> - This is a list of questions which may be interesting to a tech job applicant. It contains questions to ask the company during your interview.</li>
-    <li><a href="https://github.com/donnemartin/system-design-primer">The System Design Primer</a></li>
-    <li><a href="https://github.com/ashleymcnamara/learn_to_code">learn to code </a></li>
-    <li><a href="https://github.com/ripienaar/free-for-dev">Free For Dev</a></li>
-    <li><a href="https://github.com/jayshah19949596/CodingInterviews">Coding Interviews</a></li>
-    <li><a href="https://github.com/kamranahmedse/developer-roadmap">Developer Roadmap </a></li>
-    <li><a href="https://github.com/sindresorhus/awesome">Awesome</a></li>
-    <li><a href="https://github.com/open-guides/og-aws">OG AWS</a></li>
-    <li><a href="https://github.com/aershov24/full-stack-interview-questions">Full Stack Interview Questions </a></li>
-    <li><a href="https://github.com/kettanaito/naming-cheatsheet">Naming cheatsheet</a></li>
-    <li><a href="https://github.com/learning-zone/nodejs-interview-questions">Node.js Interview Questions</a></li>
-    <li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
+    <li><a href="https://github.com/donnemartin/system-design-primer">The System Design Primer</a>< - Learn how to design large-scale systems. Prep for the system design interview. /li>
+    <li><a href="https://github.com/ashleymcnamara/learn_to_code">Learn To Code </a> - Resources for budding developers</li>
+    <li><a href="https://github.com/ripienaar/free-for-dev">Free For Dev</a> - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</li>
+    <li><a href="https://github.com/jayshah19949596/CodingInterviews">Coding Interviews</a> - This repository contains coding interviews that I have encountered in company interviews.</li>
+    <li><a href="https://github.com/kamranahmedse/developer-roadmap">Developer Roadmap </a> - Roadmap to becoming a web developer in 2021</li>
+    <li><a href="https://github.com/sindresorhus/awesome">Awesome</a> - Awesome lists about all kinds of interesting topics</li>
+    <li><a href="https://github.com/open-guides/og-aws">OG AWS</a> - Amazon Web Services — a practical guide.</li>
+    <li><a href="https://github.com/aershov24/full-stack-interview-questions">Full Stack Interview Questions </a> - More than ~3877 Full Stack, Coding & System Design Interview Questions And Answers sourced from all around the Internet to help you to prepare to an interview, conduct one, mock your lead dev or completely ignore.</li>
+    <li><a href="https://github.com/kettanaito/naming-cheatsheet">Naming cheatsheet</a> - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.</li>
+    <li><a href="https://github.com/learning-zone/nodejs-interview-questions">Node.js Interview Questions</a> - Frequently Asked Node.js Interview Questions.</li>
+    <li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a> - Curated interview preparation materials for busy engineers.</li>
   </ul>
 </blockquote></details>
 
