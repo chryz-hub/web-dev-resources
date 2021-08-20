@@ -568,16 +568,15 @@ You can create segments for frontend development blogs, documentations, reposito
 <ul>
     <li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Dev For Beginners</a>- 24 Lessons, 12 Weeks to get started as a Web Developer.</li>
     <li><a href="https://github.com/zero-to-mastery/resources">Useful Resources for Developers</a> - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development).</li>
-    <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a> - Freely available programming books</li>
+    <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a> - Freely available programming books.</li>
     <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome Beginner Friendly Projects</a> - A list of awesome beginners-friendly projects.</li> 
     <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a> - A complete computer science study plan to become a software engineer</li>
-    <li><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a></li>
-    <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
-    <li><a href="https://github.com/sagivo/algorithms">Algorithms</a></li>
-    <li><a href="https://github.com/sherxon/AlgoDS">Algorithms and Data Structures</a></li>
-    <li><a href="https://github.com/pytorch/tutorials">PyTorch Tutorials</a></li>
-    <li><a href="https://github.com/ankit404/design-resources">Design Resources For Developers</a></li>
-    <li><a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank">Competitive Programming Question Bank</a></li>
+    <li><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a> - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning).</li>
+    <li><a href="https://github.com/gothinkster/realworld">Real World</a> - The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more. </li>
+    <li><a href="https://github.com/sagivo/algorithms">Algorithms</a> - Algorithms playground for common questions solved in ruby syntax.</li>
+    <li><a href="https://github.com/sherxon/AlgoDS">Algorithms and Data Structures</a> - Implementation of Algorithms and Data Structures, Problems and Solutions</li>
+    <li><a href="https://github.com/ankit404/design-resources">Design Resources For Developers</a> - A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.</li>
+    <li><a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank">Competitive Programming Question Bank</a> - This repository contains all the popular Competitive Programming and DSA questions with solutions for your Coding Interview Preparation.</li>
     <li><a href="https://github.com/jamiebuilds/itsy-bitsy-data-structures">Itsy Bitsy Data Structures</a></li>
     <li><a href="https://github.com/iamtodor/data-science-interview-questions-and-answers">Data Science Interview Questions And Answers</a></li>
     <li><a href="https://github.com/Just-A-Visitor/Algorithmic-Pseudocode">Algorithmic Pseudocode</a></li>
