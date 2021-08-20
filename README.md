@@ -566,11 +566,11 @@ You can create segments for frontend development blogs, documentations, reposito
 
 <details><summary>Repositories</summary><blockquote>
 <ul>
-    <li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Dev For Beginners</a></li>
+    <li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Dev For Beginners</a>- 24 Lessons, 12 Weeks to get started as a Web Developer.</li>
     <li><a href="https://github.com/zero-to-mastery/resources">Useful Resources for Developers</a> - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development).</li>
-    <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a></li>
-    <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome Beginner Friendly Projects</li>
-    <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a></li>
+    <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a> - Freely available programming books</li>
+    <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome Beginner Friendly Projects</a> - A list of awesome beginners-friendly projects.</li> 
+    <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University </a> - A complete computer science study plan to become a software engineer</li>
     <li><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a></li>
     <li><a href="https://github.com/gothinkster/realworld">Real World</a></li>
     <li><a href="https://github.com/sagivo/algorithms">Algorithms</a></li>
