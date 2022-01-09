@@ -1,0 +1,15 @@
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: '<h1>It''s great having you contribute to this community</h1> <strong>Thank you for raising an <strong><em>Issue</em></strong>! </br> Welcome to <strong><a href="https://chryz-hub.github.io/">Chryz-Hub</a></strong> <p>If you are willing to join the community, connect via the <strong><a href="https://chryz-hub.github.io/connect/">Chryz-Hub Connect Website</a></strong></br>You can make a <a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md">pratice pull request</a> and also add your name been a member of the community ~~ <a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/CONTRIBUTORS.md">here.</a></p>'
+          pr-message: '<h1>It''s great having you contribute to this community</h1> <strong>Thank you for creating a <strong><em>Pull Request</em></strong>!  </br> Welcome to <strong><a href="https://chryz-hub.github.io/">Chryz-Hub</a></strong> <p>If you are willing to join the community, connect via <strong><a href="https://chryz-hub.github.io/connect/">Chryz-Hub Connect Website</a></strong></br>You can make a <a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md">pratice pull request</a> and also add your name been a member of the community ~~ <a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/CONTRIBUTORS.md">here.</a></p>'
